@@ -1,0 +1,1746 @@
+[
+  {
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "version": 89,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciX.cs3",
+    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "inatchii",
+      "JustRelaxable"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
+    "fileSize": 172062,
+    "fileHash": "sha256-031baec963b6ed3d199d5a67e5d5ce081a491aabfdce44eaa44907626bb31c1f",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "Animeler",
+    "internalName": "Animeler",
+    "version": 43,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Animeler.cs3",
+    "description": "HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
+    "fileSize": 54855,
+    "fileHash": "sha256-c30416595179e1da35e08d78ab39a9dc3b58f9388ccdef8cc30f95972e6c0cab",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Animely",
+    "internalName": "Animely",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Animely.cs3",
+    "description": "Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "language": "tr",
+    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
+    "fileSize": 40168,
+    "fileHash": "sha256-97ff6af8b4cb4b2f66302df3a645cabd3c0e531b4e4027fd3254fda0fa2e680a",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "AnimPow",
+    "internalName": "AnimPow",
+    "version": 8,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimPow.cs3",
+    "description": "AnimPow da binlerce güncel animeyi reklamsız, 1080p HD kalitesinde Türkçe altyazılı olarak ücretsiz izle! Yeni üyelere 1 haftalık 4K Video Plus anime sistemi denemesi bedava.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
+    "fileSize": 77377,
+    "fileHash": "sha256-fa471622680457338da00a353db33a1e22276f7d3354133e0e1ad43230c435ac",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Anizium",
+    "internalName": "Anizium",
+    "version": 26,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Anizium.cs3",
+    "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "authors": [
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://anizium.co/assets/images/logo.png",
+    "fileSize": 80384,
+    "fileHash": "sha256-4c5f80394e518474ea77e40c128a10ad4cb2b7564e65bd941da068ec6a206070",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "version": 25,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaAnimeleri.cs3",
+    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
+    "fileSize": 33750,
+    "fileHash": "sha256-4c756d47abc007ff642715bab52010d6b6282e51f469ab1e2407af42ce3564a7",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "AsyaFanatiklerim",
+    "internalName": "AsyaFanatiklerim",
+    "version": 23,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaFanatiklerim.cs3",
+    "description": "Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+    "fileSize": 28606,
+    "fileHash": "sha256-b9c9c90ea415ed7dd0ea4d183480eb59cd36bd56352f4ce447816fd25c2e3dec",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "AsyaMinik",
+    "internalName": "AsyaMinik",
+    "version": 17,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaMinik.cs3",
+    "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+    "fileSize": 20573,
+    "fileHash": "sha256-4240bb11e038471461b2b6286fd40de81a1f65829296eade244122b37cc11161",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "version": 42,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaWatch.cs3",
+    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
+    "fileSize": 72074,
+    "fileHash": "sha256-bcb3b5cb237cad99ae7dd9d970b6fcc77932b92772bb0678406337416c2aba5b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "version": 42,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/BelgeselX.cs3",
+    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Documentary"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
+    "fileSize": 50652,
+    "fileHash": "sha256-f31d5dbf90db245e560edf6888e8f188d75485a5e83fc2d356bc1a2effbc2adb",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "CizgiMax",
+    "internalName": "CizgiMax",
+    "version": 37,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiMax.cs3",
+    "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
+    "fileSize": 47530,
+    "fileHash": "sha256-b99aa1c2b6c1c73264c4769786a15bba41c9fb6444a2ce18bab60a809a785161",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "CizgiveDizi",
+    "internalName": "CizgiveDizi",
+    "version": 51,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiveDizi.cs3",
+    "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "fileSize": 43326,
+    "fileHash": "sha256-4d0020ce5ceb10a7e07cb18c42c28dcbc3120426a112d413454edf2345b79d59",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "Ddizi",
+    "internalName": "Ddizi",
+    "version": 24,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Ddizi.cs3",
+    "description": "DDizi.im için Cloudstream eklentisi",
+    "authors": [
+      "kraptor",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.ddizi.im/favicon.ico",
+    "fileSize": 20108,
+    "fileHash": "sha256-ebd3f272f1de40cafa4a4374d8fcf1fbc49387c8d2c103f29d2f14a860616897",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziAsia",
+    "internalName": "DiziAsia",
+    "version": 21,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziAsia.cs3",
+    "description": "DiziAsia - Asya Dizileri İzle",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
+    "fileSize": 25726,
+    "fileHash": "sha256-ac452b458b521c42841b92c3ef71344fa1cd8c85813445cacc750afa6b0a801b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "DiziAsya",
+    "internalName": "DiziAsya",
+    "version": 28,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziAsya.cs3",
+    "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+    "fileSize": 39802,
+    "fileHash": "sha256-c850dfe53d8a3b4c20e87b96205a0366a19ca89c4d03a2e5d5fe67afd6190995",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "version": 38,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBox.cs3",
+    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
+    "fileSize": 41159,
+    "fileHash": "sha256-63faf93fb3bdcc31af6b847c182cd29eb8dc036abb0eba6511f3a004b8d340bf",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "DiziFilmORG",
+    "internalName": "DiziFilmORG",
+    "version": 23,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziFilmORG.cs3",
+    "description": "En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
+    "fileSize": 76765,
+    "fileHash": "sha256-34b20c74a281a0770e4c57cfaea48c2175ebd96023be95e4034f89ec2a450c35",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Dizigecesi",
+    "internalName": "Dizigecesi",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dizigecesi.cs3",
+    "description": "Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
+    "fileSize": 59178,
+    "fileHash": "sha256-f4902a5c5e7d021832d2f9c335d67e80be971958c5f77d1283f4f248578cc696",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "version": 41,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziKorea.cs3",
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "authors": [
+      "Kerimmkirac",
+      "kraptor",
+      "ByAyzen",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "fileSize": 23562,
+    "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziLife",
+    "internalName": "DiziLife",
+    "version": 59,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziLife.cs3",
+    "description": "Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+    "authors": [
+      "kerimmkirac",
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
+    "fileSize": 82747,
+    "fileHash": "sha256-f59cf16fb13c420e69b3bcef50212ac63334b308ebd6efde8859e8fad3b4267c",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "version": 112,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dizilla.cs3",
+    "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
+    "fileSize": 150199,
+    "fileHash": "sha256-689ecee1550aa86c9b53f40ee4a49493c4e333c1622498de0327da78191bf806",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "version": 64,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMom.cs3",
+    "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "authors": [
+      "kraptor",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
+    "fileSize": 34839,
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziPal",
+    "internalName": "DiziPal",
+    "version": 117,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziPal.cs3",
+    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
+    "fileSize": 31184,
+    "fileHash": "sha256-7d232b38b3d8513dbc16fa6b856e839a397cf1b3d4d0ae70b4112db127ecdb2f",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziPalOrijinal",
+    "internalName": "DiziPalOrijinal",
+    "version": 46,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziPalOrijinal.cs3",
+    "description": "DiziPal Orijinal.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
+    "fileSize": 160870,
+    "fileHash": "sha256-1a4524422ace24370b8bba9f0b9e256b844619cf5f48ffb63670020a5b43f6bf",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Dizipod",
+    "internalName": "Dizipod",
+    "version": 13,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dizipod.cs3",
+    "description": "Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
+    "authors": [
+      "kraptor",
+      "ByAyzen ",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
+    "fileSize": 79347,
+    "fileHash": "sha256-f0299334efc205b85724e336f72dd5e9fdf77aa4d788304463116d17684bc7ba",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DiziYo",
+    "internalName": "DiziYo",
+    "version": 75,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziYo.cs3",
+    "description": "Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
+    "fileSize": 36757,
+    "fileHash": "sha256-285c5d5e67a67c1ff4434d1eb17a323e56418b1c1022a2bbd592f2667e1c9b74",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "version": 50,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziYou.cs3",
+    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
+    "fileSize": 57071,
+    "fileHash": "sha256-aa14dbbb0c2e40a530a6a25de829f953ef1253c05ef1ca531c5b74137ad822b3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "DramaDizilerim",
+    "internalName": "DramaDizilerim",
+    "version": 3,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DramaDizilerim.cs3",
+    "description": "Shorts formatında en popüler Kore dizileri, Çin dizileri, Asya dizileri ve drama içerikleri.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
+    "fileSize": 23825,
+    "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "FilmEkseni",
+    "internalName": "FilmEkseni",
+    "version": 51,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmEkseni.cs3",
+    "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
+    "fileSize": 72003,
+    "fileHash": "sha256-3b6e11df69046eb4db3e2221f38ed29360e58799272f117cef7980ed3fca35f6",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "FilmHane",
+    "internalName": "FilmHane",
+    "version": 44,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmHane.cs3",
+    "description": "FilmHane CloudStream eklentisi.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
+    "fileSize": 60863,
+    "fileHash": "sha256-4c112bbc0aa49647ebff31ad90d9eb55d4e51d2618be2a38daa59176bf378cbd",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "version": 71,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmMakinesi.cs3",
+    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "authors": [
+      "kraptor",
+      "usdogu",
+      "nikyokki"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
+    "fileSize": 82353,
+    "fileHash": "sha256-7786d602f9d73cde99e0aeecf37bfd8efac01e17b89e5b2e70082c9d54fa2ae4",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "version": 42,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmModu.cs3",
+    "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
+    "fileSize": 29725,
+    "fileHash": "sha256-f6581f7272b6714280bf665b3a413066a11e3cf142b30309c77045d257d1ec1c",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "Filmzal",
+    "internalName": "Filmzal",
+    "version": 17,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Filmzal.cs3",
+    "description": "Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "az",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
+    "fileSize": 38540,
+    "fileHash": "sha256-f8ccca725fa767c40f6d95489706ec40d56a0ee197a903d3c391ce1a70cbee40",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "version": 73,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FullHDFilmizlesene.cs3",
+    "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
+    "fileSize": 145784,
+    "fileHash": "sha256-9a99c6aa6f2ef5f644116200a19956dc2c1212d77560d8338e222b89badcf472",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "GinikoCanli",
+    "internalName": "GinikoCanli",
+    "version": 17,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/GinikoCanli.cs3",
+    "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.giniko.com/images/favicon.ico",
+    "fileSize": 17715,
+    "fileHash": "sha256-fe5293019f68f9ac2c2896d6eb0d5fec8e8e812cd47defe02b7dc05ea6023608",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "version": 98,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/HDFilmCehennemi.cs3",
+    "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
+    "fileSize": 77593,
+    "fileHash": "sha256-492bf8eba011c88ba7f3ac57405f3cb84bb9ca5ffd687216e5c837b1650f3d4c",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "version": 19,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/HDFilmDelisi.cs3",
+    "description": "En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
+    "fileSize": 85343,
+    "fileHash": "sha256-531a7c1965761f3e37af0070bdcb464da1607537dfb2182b879070b4b00c3661",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "HDFilmizle",
+    "internalName": "HDFilmizle",
+    "version": 26,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/HDFilmizle.cs3",
+    "description": "En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
+    "fileSize": 61447,
+    "fileHash": "sha256-a178d4f6c910114a2e3a1e608a08e3257ab2257ba9dcfe565045a0dccd88c668",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "version": 59,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBox.cs3",
+    "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "language": "tr",
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "fileSize": 49715,
+    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "version": 63,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/JetFilmizle.cs3",
+    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
+    "fileSize": 64337,
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "KickTR",
+    "internalName": "KickTR",
+    "version": 18,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/KickTR.cs3",
+    "description": "Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
+    "fileSize": 40510,
+    "fileHash": "sha256-ff59c5c765d033cffa6ad2f797f6b8ab3572f9ade64cc71b0e43acf901e351e4",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "KraptorPlus",
+    "internalName": "KraptorPlus",
+    "version": 88,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/KraptorPlus.cs3",
+    "description": "Bir çok sitenin birleştiği toplama eklenti.",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen",
+      "Megix"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "Cartoon",
+      "AsianDrama",
+      "AnimeMovie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+    "fileSize": 623909,
+    "fileHash": "sha256-43496b06236f84683fec97aa01ed116354545f7c69963e42859b4f7cb70750b9",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "version": 32,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/KultFilmler.cs3",
+    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
+    "fileSize": 31290,
+    "fileHash": "sha256-78248f5d50147e2b68150c7e1cbf07782979b49da8a77e508bf84aa0338d6060",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "MirrorVerse",
+    "internalName": "MirrorVerse",
+    "version": 39,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/MirrorVerse.cs3",
+    "description": "Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+    "authors": [
+      "kraptor",
+      "NivinCNC",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
+    "fileSize": 140095,
+    "fileHash": "sha256-1b13f2322d4ce9a413cbb6ae5473a44c962c903565d4d569580ff39567ec6dab",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "OnePaceTr",
+    "internalName": "OnePaceTr",
+    "version": 14,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/OnePaceTr.cs3",
+    "description": "One Pace türkçe altyazılı izleme platformu.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
+    "fileSize": 31616,
+    "fileHash": "sha256-e0393ea5e8048a0afdb9e3fd8863441416116200352689f58166c18e5b20790d",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "version": 29,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/OpenAnime.cs3",
+    "description": "Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
+    "fileSize": 75101,
+    "fileHash": "sha256-168235fd66f997157184e279246ca39d73a5bc26990746e13cb8f2d6af3c10a4",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "version": 21,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RareFilmm.cs3",
+    "description": "The Cave of Forgotten Films",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "en",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
+    "fileSize": 35381,
+    "fileHash": "sha256-527fdb15099c859ac0b58530d40fac0e07c380d88f3fab139aeaffdfea615a00",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "version": 113,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTV.cs3",
+    "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "authors": [
+      "Eagle",
+      "keyiflerolsun",
+      "yusiqo",
+      "inatchii",
+      "JustRelaxable",
+      "patr0n"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+    "fileSize": 40221,
+    "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "SeiCode",
+    "internalName": "SeiCode",
+    "version": 26,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SeiCode.cs3",
+    "description": "Seicode ile en yeni animeler keşfedin!",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://seicode.net/favicon.png",
+    "fileSize": 40339,
+    "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "version": 50,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SelcukFlix.cs3",
+    "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
+    "fileSize": 66978,
+    "fileHash": "sha256-4f20909d812b62f99461d4d2a136365a205aa9bddc14f6f45b9208b6eefc6bbc",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "version": 43,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SetFilmIzle.cs3",
+    "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
+    "fileSize": 69971,
+    "fileHash": "sha256-fd92326fbb793368516b1d55a669337f85c8a77a98183544957bc25146b93a8d",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "version": 41,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SezonlukDizi.cs3",
+    "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com",
+    "fileSize": 103386,
+    "fileHash": "sha256-820fe6cfa744d1d8006901d125fb5ecd611a95be2e37ff3c5a8f0615ea48ff11",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "version": 36,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SinemaCX.cs3",
+    "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128",
+    "fileSize": 27445,
+    "fileHash": "sha256-d06e11489628bff498b6d6c8f09914b099fc23c75842fe3985dc4f7b640746cc",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "version": 33,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SineWix.cs3",
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "patr0n",
+      "keyiflerolsun",
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AsianDrama",
+      "Cartoon",
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "fileSize": 26761,
+    "fileHash": "sha256-615d6d4ff1f7f2b662f41c37561a5f2499df097f64eb99a0a5002026f46a6ae3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "Sinezy",
+    "internalName": "Sinezy",
+    "version": 41,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Sinezy.cs3",
+    "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
+    "fileSize": 27917,
+    "fileHash": "sha256-b31a8f38b65f8558e98030088f25ad2db8dbe28c2d7bafe3c0bc22dc95e3de96",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "version": 16,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TrAnimeIzle.cs3",
+    "description": "Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
+    "fileSize": 70901,
+    "fileHash": "sha256-f61f5ebb9c7f83b12f4af230a2aef34fffb15bd6240f6f86a9721af3e3641abe",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "TurkAnime",
+    "internalName": "TurkAnime",
+    "version": 35,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkAnime.cs3",
+    "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
+    "fileSize": 71568,
+    "fileHash": "sha256-64e1cc192e3c0287bfe0cd7a2a73b17f0c6778bbdd82b856b7a5561f579320d7",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "Turkdizileri",
+    "internalName": "Turkdizileri",
+    "version": 34,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Turkdizileri.cs3",
+    "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://i.imgur.com/Cff8v6J.png",
+    "fileSize": 166809,
+    "fileHash": "sha256-b29876955e08a76d88f3421972ee8d1af5f1b581963439ed09ea3cf4906feb2b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "TvDiziler",
+    "internalName": "TvDiziler",
+    "version": 19,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TvDiziler.cs3",
+    "description": "Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
+    "fileSize": 36778,
+    "fileHash": "sha256-cc18366ae75f44e189335cbdd76b50acff733f2071ebe57735113c1586b1ddc0",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "version": 40,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebDramaTurkey.cs3",
+    "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "fileSize": 55103,
+    "fileHash": "sha256-5c70e374f9b89667bae9e18b506adb3ec66eda5e31667cd806998c269be5daee",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "version": 54,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebteIzle.cs3",
+    "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
+    "fileSize": 67587,
+    "fileHash": "sha256-4f4d9c651cb331de12ce1ce8d1498ef2b63d66a58dcaa9367e835e2eed68fd3c",
+    "status": 0,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx"
+    ]
+  },
+  {
+    "name": "WFilmizle",
+    "internalName": "WFilmizle",
+    "version": 24,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WFilmizle.cs3",
+    "description": "Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
+    "fileSize": 59842,
+    "fileHash": "sha256-1530e63b93bee463a0e088f39d9d307b6fb9aa618a206a94f569e431556cbe73",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "version": 19,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YabanciDizi.cs3",
+    "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
+    "fileSize": 41052,
+    "fileHash": "sha256-cb76b481100d2a75e8331568d05dfeae7d399a31a8166f1179200e3ae506a7a3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "YeniKaynak",
+    "internalName": "YeniKaynak",
+    "version": 12,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YeniKaynak.cs3",
+    "description": "İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
+    "fileSize": 29294,
+    "fileHash": "sha256-8c8315459e9c8731e850d34e09eb2487cada4206acda8a30d2eb0435b8261f7b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "version": 10,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YesilCamTv.cs3",
+    "description": "Türk sinemasının unutulmaz filmler bu adreste.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
+    "fileSize": 22334,
+    "fileHash": "sha256-5fbfa3f16215e84c190553ece62c24b440b90e7314930ade619cca02c1a70104",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "Youtube",
+    "internalName": "Youtube",
+    "version": 39,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Youtube.cs3",
+    "description": "Youtube",
+    "authors": [
+      "Eagle",
+      "ByAyzen",
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "Music",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "fileSize": 109126,
+    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  },
+  {
+    "name": "YTS",
+    "internalName": "YTS",
+    "version": 43,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YTS.cs3",
+    "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Torrent"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+    "fileSize": 92944,
+    "fileHash": "sha256-cd2a00d8f49abfd5e42e7d8e2de8bf2cc48eccb58a6428fa94d4fd51e244ecf9",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor"
+    ]
+  }
+]

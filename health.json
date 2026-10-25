@@ -1,0 +1,6294 @@
+{
+  "audit_timestamp": "2026-10-25T03:18:42Z",
+  "summary": {
+    "total_plugins": 228,
+    "binary_integrity_100pct": true,
+    "working_in_cloudstream_total": 225,
+    "working_in_cloudstream_percentage": 98.7,
+    "working_directly_without_vpn": 173,
+    "working_with_doh_or_vpn": 52,
+    "dead_or_dropped_domains": 0,
+    "unreliable_or_timeout": 3
+  },
+  "plugins": [
+    {
+      "name": "18EU",
+      "internalName": "18EU",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://18eu.net",
+      "binary_integrity": "PASS",
+      "fileSize": 16546,
+      "fileHash": "sha256-d031bf9e9800646ba71481f460b2d6bf8c3e8b201f809b6de6f1db1bae98d6c9",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 139,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.208.250",
+        "104.21.69.139"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "3XChina",
+      "internalName": "3XChina",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "zh",
+      "target_url": "https://3xchina.net/szl-036/",
+      "binary_integrity": "PASS",
+      "fileSize": 24149,
+      "fileHash": "sha256-97e08aad8f7559aef1949d03cd3bd21e9a8608cde878eda6e4c47825177c3f4a",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 86,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.221.206",
+        "104.21.62.78"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "AZNude",
+      "internalName": "AZNude",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.aznude.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 25868,
+      "fileHash": "sha256-4b6fb2524689b0cdfbdd72604714be8d87116e9e99d3048fcc4ad8b325110b64",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 84,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.18.53.42",
+        "104.18.51.6"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "AdultDeepFakes",
+      "internalName": "AdultDeepFakes",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://adultdeepfakes.com",
+      "binary_integrity": "PASS",
+      "fileSize": 30830,
+      "fileHash": "sha256-7ad2a06fe2a3c0a2a13e1d140740cb3ba17ac90c82e436a1dd25058098edf841",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 754,
+      "doh_resolved": true,
+      "doh_ips": [
+        "186.2.165.247"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "AdultTvChannels",
+      "internalName": "AdultTvChannels",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://adult-tv-channels.com",
+      "binary_integrity": "PASS",
+      "fileSize": 11315,
+      "fileHash": "sha256-c127369eba4014bf8c6581f1805ea136ac1fccf23a800324910f30579730ebab",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 127,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.134.207",
+        "104.21.25.225"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Aki",
+      "internalName": "Aki",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://aki-h.stream",
+      "binary_integrity": "PASS",
+      "fileSize": 25860,
+      "fileHash": "sha256-ecb58683f77ef866c97850cd6ad7f53b75459d39f4deb1021b8c0b98f757375f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 268,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.213.159",
+        "104.21.16.147"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "AllClassicPorn",
+      "internalName": "AllClassicPorn",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://allclassic.porn",
+      "binary_integrity": "PASS",
+      "fileSize": 31413,
+      "fileHash": "sha256-5dbb49f23eadd7cfca081740de2420a3058588cadb2687492816adb4817d9d19",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 969,
+      "doh_resolved": true,
+      "doh_ips": [
+        "146.59.149.166"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Allpornstream",
+      "internalName": "Allpornstream",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://allpornstream.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 20664,
+      "fileHash": "sha256-4af820114bc614864b2e153d16b181f120063c96dabe7e5fd3f7aca25c70153f",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 113,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.198.123",
+        "104.21.52.113"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "AnimPow",
+      "internalName": "AnimPow",
+      "version": 8,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://animpow.com",
+      "binary_integrity": "PASS",
+      "fileSize": 77377,
+      "fileHash": "sha256-fa471622680457338da00a353db33a1e22276f7d3354133e0e1ad43230c435ac",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1905,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.19.231",
+        "172.67.190.116"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "AnimeAV",
+      "internalName": "AnimeAV",
+      "version": 20,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "mx",
+      "target_url": "https://animeav1.com",
+      "binary_integrity": "PASS",
+      "fileSize": 68843,
+      "fileHash": "sha256-e11e556c2eafb5b2aca005a5fe001a785ea40903acd4daba5b6125ab529e06ca",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 413,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.3.80",
+        "104.26.2.80",
+        "172.67.69.161"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "AnimeWorld",
+      "internalName": "AnimeWorld",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "it",
+      "target_url": "https://www.animeworld.ac",
+      "binary_integrity": "PASS",
+      "fileSize": 14772,
+      "fileHash": "sha256-8fb4095e7b24f449d1bdb6425cd17241003b59f295b0f93ade6fccc801410a06",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 764,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.149.161",
+        "104.21.95.237"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "AnimeYTX",
+      "internalName": "AnimeYTX",
+      "version": 11,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "mx",
+      "target_url": "https://animeyt.cc",
+      "binary_integrity": "PASS",
+      "fileSize": 82089,
+      "fileHash": "sha256-68b0e28fd1a94c8a557675dac4db7cb1a424a27f699618f5dfddc691ef6908e7",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 113,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.7.9",
+        "172.67.155.89"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "AnimeciX",
+      "internalName": "AnimeciX",
+      "version": 89,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://animecix.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 172062,
+      "fileHash": "sha256-031baec963b6ed3d199d5a67e5d5ce081a491aabfdce44eaa44907626bb31c1f",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 103,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.1.250",
+        "172.67.71.75",
+        "104.26.0.250"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Animejara",
+      "internalName": "Animejara",
+      "version": 4,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie"
+      ],
+      "language": "mx",
+      "target_url": "https://ww1.henaojara.net/",
+      "binary_integrity": "PASS",
+      "fileSize": 21513,
+      "fileHash": "sha256-54f4e096c14cd8715976b1ac96823973d19685d1fd39df6252674964e5f48bc8",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 562,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.46.31",
+        "172.67.222.238"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Animeler",
+      "internalName": "Animeler",
+      "version": 42,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://animeler.pw",
+      "binary_integrity": "PASS",
+      "fileSize": 52355,
+      "fileHash": "sha256-b6d77b0aad2db5e09c33c7f5710333d365a4ea0eb61b4c94c2fb83b7c78d7711",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 111,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.40.75",
+        "172.67.181.56"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Animely",
+      "internalName": "Animely",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie",
+        "OVA"
+      ],
+      "language": "tr",
+      "target_url": "https://cdn.animecim.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 40168,
+      "fileHash": "sha256-97ff6af8b4cb4b2f66302df3a645cabd3c0e531b4e4027fd3254fda0fa2e680a",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 536,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.220.199",
+        "104.21.38.85"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Anizium",
+      "internalName": "Anizium",
+      "version": 26,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AnimeMovie",
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://anizium.co",
+      "binary_integrity": "PASS",
+      "fileSize": 80384,
+      "fileHash": "sha256-4c5f80394e518474ea77e40c128a10ad4cb2b7564e65bd941da068ec6a206070",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 117,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.3.150",
+        "172.67.71.166",
+        "104.26.2.150"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "AsyaAnimeleri",
+      "internalName": "AsyaAnimeleri",
+      "version": 25,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://asyaanimeleri.top",
+      "binary_integrity": "PASS",
+      "fileSize": 33750,
+      "fileHash": "sha256-4c756d47abc007ff642715bab52010d6b6282e51f469ab1e2407af42ce3564a7",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 754,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.11.229",
+        "172.67.192.224"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "AsyaFanatiklerim",
+      "internalName": "AsyaFanatiklerim",
+      "version": 23,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://asyafanatiklerim.com",
+      "binary_integrity": "PASS",
+      "fileSize": 28606,
+      "fileHash": "sha256-b9c9c90ea415ed7dd0ea4d183480eb59cd36bd56352f4ce447816fd25c2e3dec",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 0,
+      "latency_ms": 101,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.237.146.18",
+        "172.237.146.46",
+        "172.237.146.39"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "İSS/BTK DPI engeli olası (bağlantı: tls, DoH IP: tls)"
+    },
+    {
+      "name": "AsyaFilmIzlesene",
+      "internalName": "AsyaFilmIzlesene",
+      "version": 2,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://asyafilmizlesene.com",
+      "binary_integrity": "PASS",
+      "fileSize": 9859,
+      "fileHash": "sha256-7b2d52d326c7cb8ac7b83c37729a05efc7656528b85e1ff512d5d1f0f918838b",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 278,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.190.74",
+        "104.21.81.189"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "AsyaMinik",
+      "internalName": "AsyaMinik",
+      "version": 17,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://asyamax.com",
+      "binary_integrity": "PASS",
+      "fileSize": 20573,
+      "fileHash": "sha256-4240bb11e038471461b2b6286fd40de81a1f65829296eade244122b37cc11161",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 2045,
+      "doh_resolved": true,
+      "doh_ips": [
+        "2.57.91.253",
+        "84.32.84.110"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "AsyaWatch",
+      "internalName": "AsyaWatch",
+      "version": 42,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://asyawatch.com",
+      "binary_integrity": "PASS",
+      "fileSize": 72074,
+      "fileHash": "sha256-bcb3b5cb237cad99ae7dd9d970b6fcc77932b92772bb0678406337416c2aba5b",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 96,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.41.229",
+        "172.67.195.152"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "BadTv",
+      "internalName": "BadTv",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.badtv.net/",
+      "binary_integrity": "PASS",
+      "fileSize": 16412,
+      "fileHash": "sha256-526c7356b825ae748d3d24a0df9a8446b3aa8d15aa179ef22ad4eec980da0649",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 388,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.146.190",
+        "104.21.28.148"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "BasketballReplays",
+      "internalName": "BasketballReplays",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "en",
+      "target_url": "https://basketballreplays.net",
+      "binary_integrity": "PASS",
+      "fileSize": 55689,
+      "fileHash": "sha256-d7244d846adc02b44306c952dc0e01d3dcb460f57532a4b26fd3286c6bb61842",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 947,
+      "doh_resolved": true,
+      "doh_ips": [
+        "195.216.243.157"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Beeg",
+      "internalName": "Beeg",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://beeg.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 32717,
+      "fileHash": "sha256-9c5fdf6228285738790e62dd50a6d8b31c99c997b0714b500b237156fa11ec5d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 291,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.56.86",
+        "172.67.181.179"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "BelgeselX",
+      "internalName": "BelgeselX",
+      "version": 42,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Documentary"
+      ],
+      "language": "tr",
+      "target_url": "https://belgeselx.com",
+      "binary_integrity": "PASS",
+      "fileSize": 50652,
+      "fileHash": "sha256-f31d5dbf90db245e560edf6888e8f188d75485a5e83fc2d356bc1a2effbc2adb",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1070,
+      "doh_resolved": true,
+      "doh_ips": [
+        "31.192.214.222"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "BrazzPW",
+      "internalName": "BrazzPW",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://brazzpw.xyz",
+      "binary_integrity": "PASS",
+      "fileSize": 13658,
+      "fileHash": "sha256-b743823adc4c41f70fe99bb70b04039d0621642c904e6c08f4a55b014037f712",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 271,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.22.198",
+        "172.67.206.228"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "CamWh",
+      "internalName": "CamWh",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://camwh.com",
+      "binary_integrity": "PASS",
+      "fileSize": 11724,
+      "fileHash": "sha256-66d183e5258de6eab8636d30852e4ff07e434e3c4cd5efbc7054a3237891fbb0",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 320,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.171.208",
+        "104.21.47.186"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "CanliTV",
+      "internalName": "CanliTV",
+      "version": 10,
+      "sourceRepos": [
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "tr",
+      "target_url": "https://tr.canlitv.team",
+      "binary_integrity": "PASS",
+      "fileSize": 13695,
+      "fileHash": "sha256-7c84117b7817be91f9767f8f8e83776415ceb95d5bfe03ce42ac2da7c3f6b66e",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 78,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.50.165",
+        "172.67.207.118"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Chatrubate",
+      "internalName": "Chatrubate",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://web.static.mmcdn.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15321,
+      "fileHash": "sha256-aee1184b7f2cdce66cc29d717b54b486927540e20bbf064a754583f47a2293a0",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 167,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.16.92.18",
+        "104.18.202.4"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "CizgiMax",
+      "internalName": "CizgiMax",
+      "version": 37,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Cartoon"
+      ],
+      "language": "tr",
+      "target_url": "https://cizgimax.online",
+      "binary_integrity": "PASS",
+      "fileSize": 47530,
+      "fileHash": "sha256-b99aa1c2b6c1c73264c4769786a15bba41c9fb6444a2ce18bab60a809a785161",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 102,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.189.34",
+        "104.21.57.45"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "CizgiveDizi",
+      "internalName": "CizgiveDizi",
+      "version": 51,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Cartoon"
+      ],
+      "language": "tr",
+      "target_url": "https://cizgivedizi.net",
+      "binary_integrity": "PASS",
+      "fileSize": 43326,
+      "fileHash": "sha256-4d0020ce5ceb10a7e07cb18c42c28dcbc3120426a112d413454edf2345b79d59",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 927,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.247.165.146"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Cloudbate",
+      "internalName": "Cloudbate",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.cloudbate.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16346,
+      "fileHash": "sha256-c2e71c056a3e1f663a11d2cd3034f3b918be55ecb163568e9fa7a715be2dab8a",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 499,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.18.81",
+        "172.67.181.62"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Coomer",
+      "internalName": "Coomer",
+      "version": 13,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://coomer.st",
+      "binary_integrity": "PASS",
+      "fileSize": 46880,
+      "fileHash": "sha256-d0bc5c766df333ce504deccf0798f8e5283e70a0614a0d93e47349e2370bb444",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 820,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.237"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "CosXPlay",
+      "internalName": "CosXPlay",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://cosxplay.com",
+      "binary_integrity": "PASS",
+      "fileSize": 14861,
+      "fileHash": "sha256-795c855789126cbf0c90a7eb2a6d311223086b5607dde7bc310686d768cad2de",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 126,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.8.57",
+        "104.26.9.57",
+        "172.67.72.8"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "Cumlouder",
+      "internalName": "Cumlouder",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://cumlouder.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13376,
+      "fileHash": "sha256-214b749a3cf8482cec29e56d103cc1584f3ed1b9390e2a77dce40582a4e53139",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 695,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.48.241",
+        "172.67.157.3"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Ddizi",
+      "internalName": "Ddizi",
+      "version": 24,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.ddizi.tel",
+      "binary_integrity": "PASS",
+      "fileSize": 20108,
+      "fileHash": "sha256-ebd3f272f1de40cafa4a4374d8fcf1fbc49387c8d2c103f29d2f14a860616897",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 578,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.0.14",
+        "172.67.68.98",
+        "104.26.1.14"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DirtyShip",
+      "internalName": "DirtyShip",
+      "version": 11,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://dirtyship.com",
+      "binary_integrity": "PASS",
+      "fileSize": 26968,
+      "fileHash": "sha256-b8fc05cc904fa1463d061d9ada4ac4985a1c8993177ea86bb75d6de1dc7e2932",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 99,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.22.32",
+        "172.67.202.51"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "DiziAsia",
+      "internalName": "DiziAsia",
+      "version": 21,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://diziasia.com",
+      "binary_integrity": "PASS",
+      "fileSize": 25726,
+      "fileHash": "sha256-ac452b458b521c42841b92c3ef71344fa1cd8c85813445cacc750afa6b0a801b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 621,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.93.172",
+        "172.67.213.68"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziAsya",
+      "internalName": "DiziAsya",
+      "version": 28,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://diziasya.com",
+      "binary_integrity": "PASS",
+      "fileSize": 39802,
+      "fileHash": "sha256-c850dfe53d8a3b4c20e87b96205a0366a19ca89c4d03a2e5d5fe67afd6190995",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 109,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.79.215",
+        "172.67.148.209"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "DiziBox",
+      "internalName": "DiziBox",
+      "version": 38,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.dizibox.live",
+      "binary_integrity": "PASS",
+      "fileSize": 41159,
+      "fileHash": "sha256-63faf93fb3bdcc31af6b847c182cd29eb8dc036abb0eba6511f3a004b8d340bf",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 240,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.72.173",
+        "104.26.6.108",
+        "104.26.7.108"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "DiziFilmORG",
+      "internalName": "DiziFilmORG",
+      "version": 23,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://dizifilmizle.to",
+      "binary_integrity": "PASS",
+      "fileSize": 76765,
+      "fileHash": "sha256-34b20c74a281a0770e4c57cfaea48c2175ebd96023be95e4034f89ec2a450c35",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 84,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.1.231",
+        "104.26.0.231",
+        "172.67.68.212"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "DiziKorea",
+      "internalName": "DiziKorea",
+      "version": 41,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://dizikorea3.com",
+      "binary_integrity": "PASS",
+      "fileSize": 23562,
+      "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 720,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.35.101",
+        "172.67.217.73"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziLife",
+      "internalName": "DiziLife",
+      "version": 59,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://dizi82.life",
+      "binary_integrity": "PASS",
+      "fileSize": 82747,
+      "fileHash": "sha256-f59cf16fb13c420e69b3bcef50212ac63334b308ebd6efde8859e8fad3b4267c",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 571,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.83.19",
+        "172.67.166.251"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "DiziMom",
+      "internalName": "DiziMom",
+      "version": 64,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.dizidad.com",
+      "binary_integrity": "PASS",
+      "fileSize": 34839,
+      "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1054,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.187.164",
+        "104.21.80.234"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziPal",
+      "internalName": "DiziPal",
+      "version": 117,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries",
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://dizipal2143.com",
+      "binary_integrity": "PASS",
+      "fileSize": 31184,
+      "fileHash": "sha256-7d232b38b3d8513dbc16fa6b856e839a397cf1b3d4d0ae70b4112db127ecdb2f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 583,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.152.246",
+        "104.21.64.168"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziPalOriginal",
+      "internalName": "DiziPalOriginal",
+      "version": 111,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries",
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://dizipal2143.com",
+      "binary_integrity": "PASS",
+      "fileSize": 27831,
+      "fileHash": "sha256-02a80813415f006854301117b01a5a2c4ec43339e6b969eda7439bc4410df86e",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 589,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.64.168",
+        "172.67.152.246"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziPalOrijinal",
+      "internalName": "DiziPalOrijinal",
+      "version": 46,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://dizipal2143.com",
+      "binary_integrity": "PASS",
+      "fileSize": 160870,
+      "fileHash": "sha256-1a4524422ace24370b8bba9f0b9e256b844619cf5f48ffb63670020a5b43f6bf",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 275,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.152.246",
+        "104.21.64.168"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziYo",
+      "internalName": "DiziYo",
+      "version": 75,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://diziyou.net",
+      "binary_integrity": "PASS",
+      "fileSize": 36757,
+      "fileHash": "sha256-285c5d5e67a67c1ff4434d1eb17a323e56418b1c1022a2bbd592f2667e1c9b74",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1182,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.214.66",
+        "104.21.78.4"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DiziYou",
+      "internalName": "DiziYou",
+      "version": 50,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.diziyou.one",
+      "binary_integrity": "PASS",
+      "fileSize": 57071,
+      "fileHash": "sha256-aa14dbbb0c2e40a530a6a25de829f953ef1253c05ef1ca531c5b74137ad822b3",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 63,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.143.33",
+        "104.21.54.232"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Dizigecesi",
+      "internalName": "Dizigecesi",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://dizigecesi.com",
+      "binary_integrity": "PASS",
+      "fileSize": 59178,
+      "fileHash": "sha256-f4902a5c5e7d021832d2f9c335d67e80be971958c5f77d1283f4f248578cc696",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 96,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.205.77",
+        "104.21.37.74"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Dizilla",
+      "internalName": "Dizilla",
+      "version": 112,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://dizilla.now",
+      "binary_integrity": "PASS",
+      "fileSize": 150199,
+      "fileHash": "sha256-689ecee1550aa86c9b53f40ee4a49493c4e333c1622498de0327da78191bf806",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 69,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.137.74",
+        "104.21.89.37"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Dizipod",
+      "internalName": "Dizipod",
+      "version": 13,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://dizipod.com",
+      "binary_integrity": "PASS",
+      "fileSize": 79347,
+      "fileHash": "sha256-f0299334efc205b85724e336f72dd5e9fdf77aa4d788304463116d17684bc7ba",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 116,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.223.147",
+        "104.21.54.42"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "DocumentaryArea",
+      "internalName": "DocumentaryArea",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Documentary"
+      ],
+      "language": "en",
+      "target_url": "http://documentaryarea.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15657,
+      "fileHash": "sha256-021886e32fcf3b9b9de3354d568fca7654547d25192c35ae2628074461dba083",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 574,
+      "doh_resolved": true,
+      "doh_ips": [
+        "176.123.10.217"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Doeda",
+      "internalName": "Doeda",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.doeda.one/",
+      "binary_integrity": "PASS",
+      "fileSize": 15894,
+      "fileHash": "sha256-b88a34513fdb44ba06ebcb45b1722b8b8415b146bb8f167c49ba7717cfefa66a",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 714,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.9.251",
+        "172.67.131.30"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DoedaOrijinal",
+      "internalName": "DoedaOrijinal",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.doeda.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15599,
+      "fileHash": "sha256-6bec990e517a9396d446152771e4cae9ee28ce710f2e65d601c13b32db2002a7",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 293,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.208.150",
+        "104.21.61.95"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Domlepen",
+      "internalName": "Domlepen",
+      "version": 25,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.creativewoodtrade.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16485,
+      "fileHash": "sha256-9fb887bd5dce816aa00d12716bce7b8f042fc27b69d861f8e0cb61afdd83bd22",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 402,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.3.58",
+        "172.67.130.72"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "DoramasLatinoX",
+      "internalName": "DoramasLatinoX",
+      "version": 8,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "mx",
+      "target_url": "https://doramaslatinox.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 64006,
+      "fileHash": "sha256-612dd16c4ad5bd3b6be5359c162c96fa0298885ac14e84cfb6c2e1ad0cd83e6e",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 81,
+      "doh_resolved": true,
+      "doh_ips": [
+        "82.180.138.39"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "DramaDizilerim",
+      "internalName": "DramaDizilerim",
+      "version": 3,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://dramadizilerim.com",
+      "binary_integrity": "PASS",
+      "fileSize": 23825,
+      "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 348,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.37.129",
+        "172.67.208.59"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Dubbindo",
+      "internalName": "Dubbindo",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "id",
+      "target_url": "https://www.dubbindo.site",
+      "binary_integrity": "PASS",
+      "fileSize": 14360,
+      "fileHash": "sha256-da0ee98dff970cd82ae55f2a1d0e3247f2888cac3bc962f2965778931f74bf51",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1251,
+      "doh_resolved": true,
+      "doh_ips": [
+        "146.103.45.52"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "EFukt",
+      "internalName": "EFukt",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://efukt.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 14919,
+      "fileHash": "sha256-f4aee4090a29822abb46ec99470cfb04466ad670689a2e0b365014fcb66fdef2",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 399,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.31.207",
+        "172.67.179.245"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "EPorner",
+      "internalName": "EPorner",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.eporner.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 16697,
+      "fileHash": "sha256-46e659754a297a3ecb75cc44318402d03a62e2bc3235dfcc4e6133c820549a52",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 707,
+      "doh_resolved": true,
+      "doh_ips": [
+        "94.75.220.4",
+        "94.75.220.5",
+        "94.75.220.6",
+        "94.75.220.7",
+        "94.75.220.8",
+        "94.75.220.9",
+        "94.75.220.10",
+        "94.75.220.1",
+        "94.75.220.2",
+        "94.75.220.3"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "EffedUpMovies",
+      "internalName": "EffedUpMovies",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.effedupmovies.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 14632,
+      "fileHash": "sha256-5d1de75ff6af61e1c0e13a89aad670867c287b15a78f846a4c53c9981098d4a2",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 976,
+      "doh_resolved": true,
+      "doh_ips": [
+        "185.8.237.6",
+        "185.8.237.5"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "EroThots",
+      "internalName": "EroThots",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://erothots.is/",
+      "binary_integrity": "PASS",
+      "fileSize": 13664,
+      "fileHash": "sha256-574059f5e1fc99c403a63f6ed30105f7480d757f8fb32b28b48bccc02b06dadb",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 784,
+      "doh_resolved": true,
+      "doh_ips": [
+        "94.26.104.63"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Erome",
+      "internalName": "Erome",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://erome.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16250,
+      "fileHash": "sha256-74c8e9ced5f084c5b98403c3f28e25cd3fe39924a14e8ab06e275776f8cd9029",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 177,
+      "doh_resolved": true,
+      "doh_ips": [
+        "192.99.110.194",
+        "192.99.110.196",
+        "192.99.110.200",
+        "192.99.110.193",
+        "192.99.110.197",
+        "192.99.110.198",
+        "192.99.110.195",
+        "192.99.110.199"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "Esheaq",
+      "internalName": "Esheaq",
+      "version": 22,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "ar",
+      "target_url": "https://esheeq.study",
+      "binary_integrity": "PASS",
+      "fileSize": 17196,
+      "fileHash": "sha256-16bda1dbb502620efe1406708207c8f167f6e2cd95937858e51f6ba22fa40543",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 704,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.81.98",
+        "172.67.189.17"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Evooli",
+      "internalName": "Evooli",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.evooli.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13838,
+      "fileHash": "sha256-5d9b5e86e85713f2aa2410f8c8a19c29769856b575235baeda4300086f8cd595",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 343,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.37.11",
+        "172.67.202.101"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "FamilyPorn",
+      "internalName": "FamilyPorn",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://familypornhd.com",
+      "binary_integrity": "PASS",
+      "fileSize": 21092,
+      "fileHash": "sha256-1295e476dbcf2cab85e31cdf1ffcd3392b46728221ef243589b5afb40a676169",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 102,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.32.199",
+        "172.67.154.179"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "FapGoat",
+      "internalName": "FapGoat",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://fapgoat.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 31353,
+      "fileHash": "sha256-1fb83d587916a4462765e361e73ab99cab229955658a3cda7f0515ec1f6278ce",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 708,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.133.95",
+        "104.21.5.116"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Fapix",
+      "internalName": "Fapix",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://fapix.porn",
+      "binary_integrity": "PASS",
+      "fileSize": 21430,
+      "fileHash": "sha256-d502cc942404a47fb90cd64ed76c16b29517af3b0368c52f3d35ccacca2f4c60",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 246,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.213.234",
+        "104.21.37.222"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Film1K",
+      "internalName": "Film1K",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.film1k.com",
+      "binary_integrity": "PASS",
+      "fileSize": 46729,
+      "fileHash": "sha256-c528f9898ad078bb24e6d4f03ef148282cf800b84c1fcedaaa8f62bd1d9fa5c7",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 92,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.46.73",
+        "172.67.136.101"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FilmDiziProvider",
+      "internalName": "FilmDiziProvider",
+      "version": 2,
+      "sourceRepos": [
+        "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "Anime",
+        "Documentary"
+      ],
+      "language": "tr",
+      "target_url": "https://animecix.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 43840,
+      "fileHash": "sha256-bf122d4c747db0c9ef8cf3ab618111e4f2f51502d298fa64a1f4bce9f297888b",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 113,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.71.75",
+        "104.26.1.250",
+        "104.26.0.250"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FilmEkseni",
+      "internalName": "FilmEkseni",
+      "version": 51,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://filmekseni.vip",
+      "binary_integrity": "PASS",
+      "fileSize": 72003,
+      "fileHash": "sha256-3b6e11df69046eb4db3e2221f38ed29360e58799272f117cef7980ed3fca35f6",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 415,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.64.96",
+        "172.67.180.144"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "FilmHane",
+      "internalName": "FilmHane",
+      "version": 44,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.filmhane.shop",
+      "binary_integrity": "PASS",
+      "fileSize": 60863,
+      "fileHash": "sha256-4c112bbc0aa49647ebff31ad90d9eb55d4e51d2618be2a38daa59176bf378cbd",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1069,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.51.245",
+        "172.67.192.64"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "FilmMakinesi",
+      "internalName": "FilmMakinesi",
+      "version": 71,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://filmmakinesi.to",
+      "binary_integrity": "PASS",
+      "fileSize": 82353,
+      "fileHash": "sha256-7786d602f9d73cde99e0aeecf37bfd8efac01e17b89e5b2e70082c9d54fa2ae4",
+      "reachability": "HTTP_ERROR",
+      "http_code": 451,
+      "latency_ms": 85,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.7.119",
+        "172.67.68.237",
+        "104.26.6.119"
+      ],
+      "is_operational_in_cloudstream": false,
+      "overall_status": "HTTP_ERROR",
+      "status_detail": "HTTP yanıt kodu: 451"
+    },
+    {
+      "name": "FilmModu",
+      "internalName": "FilmModu",
+      "version": 42,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.filmmodu.one",
+      "binary_integrity": "PASS",
+      "fileSize": 29725,
+      "fileHash": "sha256-f6581f7272b6714280bf665b3a413066a11e3cf142b30309c77045d257d1ec1c",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 104,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.74.198",
+        "104.26.9.71",
+        "104.26.8.71"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Filmzal",
+      "internalName": "Filmzal",
+      "version": 17,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "az",
+      "target_url": "https://zedfilm.ru/",
+      "binary_integrity": "PASS",
+      "fileSize": 38540,
+      "fileHash": "sha256-f8ccca725fa767c40f6d95489706ec40d56a0ee197a903d3c391ce1a70cbee40",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 849,
+      "doh_resolved": true,
+      "doh_ips": [
+        "91.194.2.78"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FitNakedGirls",
+      "internalName": "FitNakedGirls",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://fitnakedgirls.com",
+      "binary_integrity": "PASS",
+      "fileSize": 12527,
+      "fileHash": "sha256-330c917507e9086290261554c4ef36e8bef26b0f9e29d134b999007c0834c286",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1245,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.85.215",
+        "172.67.211.106"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Flixlatam",
+      "internalName": "Flixlatam",
+      "version": 9,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "mx",
+      "target_url": "http://flixlatam.com",
+      "binary_integrity": "PASS",
+      "fileSize": 78003,
+      "fileHash": "sha256-00c99bdd57e1628924143a9010688e5e5e40b860b95e2947672b9d7f97e4cb79",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 68,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.206.23",
+        "104.21.42.132"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "FootReplays",
+      "internalName": "FootReplays",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Others"
+      ],
+      "language": "en",
+      "target_url": "https://www.footreplays.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 66959,
+      "fileHash": "sha256-e03aadfd14b54f944f7de4cba93d87b3c5f7cd7b2bffbfe2b7404144d6278a53",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 867,
+      "doh_resolved": true,
+      "doh_ips": [
+        "203.161.45.17"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Footballia",
+      "internalName": "Footballia",
+      "version": 9,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "en",
+      "target_url": "https://footballia.net/tr",
+      "binary_integrity": "PASS",
+      "fileSize": 43402,
+      "fileHash": "sha256-86537cb0b500aea1d93ac533ec5eb3cdee56d450276e1a755895bebce3dd4447",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1045,
+      "doh_resolved": true,
+      "doh_ips": [
+        "109.69.10.222"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "FreePornVideos",
+      "internalName": "FreePornVideos",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.freepornvideos.xxx",
+      "binary_integrity": "PASS",
+      "fileSize": 15234,
+      "fileHash": "sha256-96dae006afb9fcb5a904c04d4425ef09c3fae8b85d73e0a2761d2563d069c2e4",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 258,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.36.243",
+        "172.67.201.97"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FreeUsePorn",
+      "internalName": "FreeUsePorn",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.freeuseporn.com",
+      "binary_integrity": "PASS",
+      "fileSize": 11549,
+      "fileHash": "sha256-e3a2c8101db6a13a1d2ac76bcb387a697d7cf73039c4f176a6a93863f8ff2e34",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 680,
+      "doh_resolved": true,
+      "doh_ips": [
+        "5.187.39.88"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "FullHDFilm",
+      "internalName": "FullHDFilm",
+      "version": 36,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://hdfilm.us",
+      "binary_integrity": "PASS",
+      "fileSize": 28171,
+      "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 965,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.219.9",
+        "104.21.86.118"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "FullHDFilmizlesene",
+      "internalName": "FullHDFilmizlesene",
+      "version": 73,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.fullhdfilmizlesene.now",
+      "binary_integrity": "PASS",
+      "fileSize": 145784,
+      "fileHash": "sha256-9a99c6aa6f2ef5f644116200a19956dc2c1212d77560d8338e222b89badcf472",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 91,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.0.197",
+        "172.67.72.139",
+        "104.26.1.197"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FullPorner",
+      "internalName": "FullPorner",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://fullporner.com",
+      "binary_integrity": "PASS",
+      "fileSize": 19954,
+      "fileHash": "sha256-639f8dad43e1060ba083de91c1624340e93efc0d03915494d1b1e3399ffa0bbe",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 88,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.155.20",
+        "104.21.48.177"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "FullRaces",
+      "internalName": "FullRaces",
+      "version": 16,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live",
+        "Others"
+      ],
+      "language": "en",
+      "target_url": "https://fullraces.com",
+      "binary_integrity": "PASS",
+      "fileSize": 67885,
+      "fileHash": "sha256-9cbdc07955ac1327632cdc6136339e067cb1cf35ffdf5acfe64ecc23c3a2e107",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 98,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.11.102",
+        "172.67.148.193"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Fyptt",
+      "internalName": "Fyptt",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://fyptt.to/wp-content/uploads/2020/04/fypttlogo-white.png",
+      "binary_integrity": "PASS",
+      "fileSize": 13994,
+      "fileHash": "sha256-8b84dbccbc31f27e243f045a27a16971df80cf4befb2e55509f7fd14df212f2b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 100,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.214.170",
+        "104.21.37.227"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "GinikoCanli",
+      "internalName": "GinikoCanli",
+      "version": 17,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "tr",
+      "target_url": "https://www.giniko.com",
+      "binary_integrity": "PASS",
+      "fileSize": 17715,
+      "fileHash": "sha256-fe5293019f68f9ac2c2896d6eb0d5fec8e8e812cd47defe02b7dc05ea6023608",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 384,
+      "doh_resolved": true,
+      "doh_ips": [
+        "162.212.176.88"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Girlsswallowed",
+      "internalName": "Girlsswallowed",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://girlswallowed.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 12452,
+      "fileHash": "sha256-ee9451e4b5dd58cda6ec0aa24bfa1d3142aee687645b4691dc31d87f7111591b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 178,
+      "doh_resolved": true,
+      "doh_ips": [
+        "143.244.50.210",
+        "143.244.50.211",
+        "143.244.50.212",
+        "143.244.50.213"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Gnulahd",
+      "internalName": "Gnulahd",
+      "version": 12,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "mx",
+      "target_url": "https://gnula.se",
+      "binary_integrity": "PASS",
+      "fileSize": 74331,
+      "fileHash": "sha256-e2a9afff330c850bbcdd4bdfaaa40ef9558edee563006816115e2802e91f6798",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 85,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.13.172",
+        "172.67.200.221"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "HDFilmCehennemi",
+      "internalName": "HDFilmCehennemi",
+      "version": 98,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.hdfilmcehennemi.nl",
+      "binary_integrity": "PASS",
+      "fileSize": 77593,
+      "fileHash": "sha256-492bf8eba011c88ba7f3ac57405f3cb84bb9ca5ffd687216e5c837b1650f3d4c",
+      "reachability": "HTTP_ERROR",
+      "http_code": 451,
+      "latency_ms": 88,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.12.105",
+        "172.67.71.170",
+        "104.26.13.105"
+      ],
+      "is_operational_in_cloudstream": false,
+      "overall_status": "HTTP_ERROR",
+      "status_detail": "HTTP yanıt kodu: 451"
+    },
+    {
+      "name": "HDFilmDelisi",
+      "internalName": "HDFilmDelisi",
+      "version": 19,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://hdfilmdelisi.one",
+      "binary_integrity": "PASS",
+      "fileSize": 85343,
+      "fileHash": "sha256-531a7c1965761f3e37af0070bdcb464da1607537dfb2182b879070b4b00c3661",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 92,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.174.150",
+        "104.21.40.24"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "HDFilmizle",
+      "internalName": "HDFilmizle",
+      "version": 26,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.hdfilmizle.live",
+      "binary_integrity": "PASS",
+      "fileSize": 61447,
+      "fileHash": "sha256-a178d4f6c910114a2e3a1e608a08e3257ab2257ba9dcfe565045a0dccd88c668",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 226,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.71.197",
+        "104.26.14.88",
+        "104.26.15.88"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "HQPorner",
+      "internalName": "HQPorner",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://hqporner.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 16637,
+      "fileHash": "sha256-09d0adb9a5cd33033cf38ba1c82853007ec0d6fdfc19175c117c3c50e4f9a521",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 875,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.165.59",
+        "104.21.81.219"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Hackstore",
+      "internalName": "Hackstore",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "es",
+      "target_url": "https://hackstore2.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 42915,
+      "fileHash": "sha256-d0ae64df7d3de29e9bdbf4e229a91c44ba2c1aa91926665f6e47229e191f52ad",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 398,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.25.43",
+        "172.67.222.173"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "HanimeTV",
+      "internalName": "HanimeTV",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://hanime.tv/home",
+      "binary_integrity": "PASS",
+      "fileSize": 32732,
+      "fileHash": "sha256-fe79f3074ef98871ec54357c6d86954ec36c7e080b89710b71144d6984a89331",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 81,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.181.145",
+        "104.21.18.100"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "HeavyR",
+      "internalName": "HeavyR",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.heavy-r.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 11719,
+      "fileHash": "sha256-515436f8078d8d84044af7a3c7b3263f54dcb5048058d64f334fceab7ad660b0",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 117,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.2.85",
+        "172.67.71.160",
+        "104.26.3.85"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "HentaiCity",
+      "internalName": "HentaiCity",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.defendonlineprivacy.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13678,
+      "fileHash": "sha256-2cf31a3a18f12f59c4168c0ba54d11bfbc358396b01f1c27c0582d88df61908c",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 120,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.137.188",
+        "104.21.54.96"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Hentaila",
+      "internalName": "Hentaila",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "mx",
+      "target_url": "http://hentaila.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 29443,
+      "fileHash": "sha256-550e4f537646e863b9c11347ce47aad9086f0b432da2f02a677d2233e98bf87e",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 376,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.76.63",
+        "172.67.190.236"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "Horny69",
+      "internalName": "Horny69",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.porntape.net",
+      "binary_integrity": "PASS",
+      "fileSize": 12287,
+      "fileHash": "sha256-1ddb37e0468accec27ae2379915aec99033187476e87c48dae2294843acab552",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 132,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.13.88",
+        "172.67.199.88"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "HotLeak",
+      "internalName": "HotLeak",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://hotleak.vip/",
+      "binary_integrity": "PASS",
+      "fileSize": 14782,
+      "fileHash": "sha256-d2e673f82fe5ac94e7832572ab55c4cab8edfb6316e8419d686261a0739e41be",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 1062,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.20.113",
+        "172.67.192.95"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "InatBox",
+      "internalName": "InatBox",
+      "version": 59,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "Live"
+      ],
+      "language": "tr",
+      "target_url": "https://4k.filmizleeeee.cfd",
+      "binary_integrity": "PASS",
+      "fileSize": 49715,
+      "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664",
+      "reachability": "DNS_FILTERED",
+      "http_code": 403,
+      "latency_ms": 74,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.49.175",
+        "172.67.191.129"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "Iwatchtheoffice",
+      "internalName": "Iwatchtheoffice",
+      "version": 3,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "en",
+      "target_url": "https://iwatchtheoffice.cc",
+      "binary_integrity": "PASS",
+      "fileSize": 15788,
+      "fileHash": "sha256-6fbc42b219603b51079c568ce4289e593598bf5f638ab73f01e51bbae1d26ea7",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 113,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.147.224",
+        "104.21.65.176"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "JPFilms",
+      "internalName": "JPFilms",
+      "version": 9,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "en",
+      "target_url": "http://kodasusaka.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16896,
+      "fileHash": "sha256-1b736e0cda249cbac483658a2abe2b8c90075c232dd26fd8739797b79a5e5f5f",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 437,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.194.108",
+        "104.21.41.220"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "JavGuru",
+      "internalName": "JavGuru",
+      "version": 21,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://jav.guru",
+      "binary_integrity": "PASS",
+      "fileSize": 106664,
+      "fileHash": "sha256-52def99064666bb94621629c545b6a4ea382a17a459ffded6b781de42b3f0997",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 268,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.4.14",
+        "172.67.75.11",
+        "104.26.5.14"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Javseen",
+      "internalName": "Javseen",
+      "version": 10,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "jp",
+      "target_url": "https://javseen.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 89591,
+      "fileHash": "sha256-6bfbe79ff41901d73219b33f80e6fea6c239384e252f6dbc3adaed207e4cab67",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 321,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.140.231",
+        "104.21.81.83"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Javtiful",
+      "internalName": "Javtiful",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://javtiful.com/main",
+      "binary_integrity": "PASS",
+      "fileSize": 15077,
+      "fileHash": "sha256-c6dad75d8ccf3680accf4316a3f1da2174f2e1d2456da2809de66196fa05c94c",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 366,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.8.228",
+        "104.26.9.228",
+        "172.67.73.74"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "JetFilmizle",
+      "internalName": "JetFilmizle",
+      "version": 63,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://jetfilmizle.now",
+      "binary_integrity": "PASS",
+      "fileSize": 64337,
+      "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 87,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.213.50",
+        "104.21.16.143"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Kalite18",
+      "internalName": "Kalite18",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.kalite18.net",
+      "binary_integrity": "PASS",
+      "fileSize": 14488,
+      "fileHash": "sha256-db2862ae065f6365d40b42c0c74ed6afa0565f4fa33cc1f011b0e0fe8820c8bf",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 782,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.64.224",
+        "172.67.156.40"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Kanal 7",
+      "internalName": "Kanal 7",
+      "version": 1,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://turkey.mom-rsf.org",
+      "binary_integrity": "PASS",
+      "fileSize": 18115,
+      "fileHash": "sha256-139bd94b3cf1839558131a23e29e0c55dfae70c67043cebc16c6598ecfcd885f",
+      "reachability": "ONLINE",
+      "http_code": 302,
+      "latency_ms": 562,
+      "doh_resolved": true,
+      "doh_ips": [
+        "37.200.100.33"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 302)"
+    },
+    {
+      "name": "KickTR",
+      "internalName": "KickTR",
+      "version": 18,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "tr",
+      "target_url": "http://kick.com",
+      "binary_integrity": "PASS",
+      "fileSize": 40510,
+      "fileHash": "sha256-ff59c5c765d033cffa6ad2f797f6b8ab3572f9ade64cc71b0e43acf901e351e4",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 89,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.64.235.133",
+        "162.159.235.122"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "KissKH",
+      "internalName": "KissKH",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "en",
+      "target_url": "https://kisskh.id/",
+      "binary_integrity": "PASS",
+      "fileSize": 40566,
+      "fileHash": "sha256-8b34a684dfdec534d2bfca1a747ac3babdeeda183cdadbde49e67e62244da7c7",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 88,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.150.67",
+        "104.21.96.19"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Kopeda",
+      "internalName": "Kopeda",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.kopeda.com",
+      "binary_integrity": "PASS",
+      "fileSize": 12258,
+      "fileHash": "sha256-160c8025336e59e1786038d1d0524237d44ee5226e3177e7bcddf5e839c53a03",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 137,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.70.35",
+        "104.26.10.94",
+        "104.26.11.94"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "Koreanpornmovie",
+      "internalName": "Koreanpornmovie",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "kr",
+      "target_url": "https://koreanpornmovie.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13372,
+      "fileHash": "sha256-202a58cbaf8b2af424c1df5684c01a1a2795c8705d41b7df1e5bfb626189a6ba",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 87,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.129.196",
+        "104.21.2.227"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Koreaye",
+      "internalName": "Koreaye",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://koreaye.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13399,
+      "fileHash": "sha256-b38eb15e79a6156834b0305545ca1bfe47161173df572e36aab178394bf0d888",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 720,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.134.183",
+        "104.21.6.103"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "KraptorPlus",
+      "internalName": "KraptorPlus",
+      "version": 88,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime",
+        "Cartoon",
+        "AsianDrama",
+        "AnimeMovie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.hdfilmcehennemi.nl",
+      "binary_integrity": "PASS",
+      "fileSize": 623909,
+      "fileHash": "sha256-43496b06236f84683fec97aa01ed116354545f7c69963e42859b4f7cb70750b9",
+      "reachability": "HTTP_ERROR",
+      "http_code": 451,
+      "latency_ms": 60,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.71.170",
+        "104.26.12.105",
+        "104.26.13.105"
+      ],
+      "is_operational_in_cloudstream": false,
+      "overall_status": "HTTP_ERROR",
+      "status_detail": "HTTP yanıt kodu: 451"
+    },
+    {
+      "name": "Krmzy",
+      "internalName": "Krmzy",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "ar",
+      "target_url": "https://krmzy.org",
+      "binary_integrity": "PASS",
+      "fileSize": 19171,
+      "fileHash": "sha256-9d37682df1393aa01f4ae3adb584912ce19629bd5dca8256aa2f136206729040",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 955,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.144.104",
+        "104.21.55.33"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "KultFilmler",
+      "internalName": "KultFilmler",
+      "version": 32,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://kultfilmler.net",
+      "binary_integrity": "PASS",
+      "fileSize": 31290,
+      "fileHash": "sha256-78248f5d50147e2b68150c7e1cbf07782979b49da8a77e508bf84aa0338d6060",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 123,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.169.247",
+        "104.21.63.54"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Latanime",
+      "internalName": "Latanime",
+      "version": 9,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "mx",
+      "target_url": "https://latanime.org/",
+      "binary_integrity": "PASS",
+      "fileSize": 21666,
+      "fileHash": "sha256-e87cee1ce0161273b23a45c73b2de3cea955eb4ddb98cd82c0232313e66751e7",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 470,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.74.227",
+        "172.67.164.15"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "LayarKaca",
+      "internalName": "LayarKaca",
+      "version": 16,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "id",
+      "target_url": "https://tv12.lk21official.cc",
+      "binary_integrity": "PASS",
+      "fileSize": 69907,
+      "fileHash": "sha256-d0a3842a9fe05b428a9dbe41def7bd502e4b1ab5c1f8ea911f8ff48da3cc45c8",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 99,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.185.109",
+        "104.21.59.235"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "LiveCamRips",
+      "internalName": "LiveCamRips",
+      "version": 17,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://livecamrips.to",
+      "binary_integrity": "PASS",
+      "fileSize": 27514,
+      "fileHash": "sha256-655ea61c90f28747045bddade9e50d4d3820440f09b48a6f4a20d7d805e8962d",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 81,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.75.68",
+        "104.26.13.25",
+        "104.26.12.25"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "LiveIptvProvider",
+      "internalName": "LiveIptvProvider",
+      "version": 2,
+      "sourceRepos": [
+        "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "tr",
+      "target_url": "https://animecix.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 53789,
+      "fileHash": "sha256-ae28f4f0603cc59f7319291b55ca37f68c7c9a346c9350bdede20a929344cfec",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 109,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.1.250",
+        "172.67.71.75",
+        "104.26.0.250"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Maheir",
+      "internalName": "Maheir",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://maheir.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16106,
+      "fileHash": "sha256-1e6eeb3c40d9c61c37fcd8573a0d084053cccc55cfd4db66f9e2fbbe6ba78d31",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 117,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.213.53",
+        "104.21.23.195"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Mangoporn",
+      "internalName": "Mangoporn",
+      "version": 35,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://mangoporn.net/",
+      "binary_integrity": "PASS",
+      "fileSize": 116238,
+      "fileHash": "sha256-ab6b78a159c60c776f8244cebe17394165a6a83d2754b5c6f14a8c7b85b9ec86",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 380,
+      "doh_resolved": true,
+      "doh_ips": [
+        "91.210.107.199"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Max",
+      "internalName": "Max",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://max.porn",
+      "binary_integrity": "PASS",
+      "fileSize": 21980,
+      "fileHash": "sha256-cc9e5cadcf7bf8d27bbb623bc62a84e028e7581e98cb2b603c4dac0afa88e864",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 869,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.168.11",
+        "104.21.58.66"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "MilfNut",
+      "internalName": "MilfNut",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://milfnut.com",
+      "binary_integrity": "PASS",
+      "fileSize": 12489,
+      "fileHash": "sha256-5ddadea6cfb3ae3aa43b61fafb2dff6c434eed0cccdbd8ddbb53d8746b4be56c",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 666,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.16"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "MirrorVerse",
+      "internalName": "MirrorVerse",
+      "version": 39,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://themoviedb.org",
+      "binary_integrity": "PASS",
+      "fileSize": 140095,
+      "fileHash": "sha256-1b13f2322d4ce9a413cbb6ae5473a44c962c903565d4d569580ff39567ec6dab",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 75,
+      "doh_resolved": true,
+      "doh_ips": [
+        "99.84.215.62",
+        "99.84.215.74",
+        "99.84.215.108",
+        "99.84.215.46"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "MissAV",
+      "internalName": "MissAV",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://missav.ws",
+      "binary_integrity": "PASS",
+      "fileSize": 15967,
+      "fileHash": "sha256-004b81e59abe8ad6cb46c88837a8f23af6b86337f54f4ef79684186a0612dc6a",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 89,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.66.167.65",
+        "104.20.31.186"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Movix",
+      "internalName": "Movix",
+      "version": 33,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "fr",
+      "target_url": "https://movix.fun/",
+      "binary_integrity": "PASS",
+      "fileSize": 219238,
+      "fileHash": "sha256-ced9099329347aa0cd994a5cacb1cad1283a265c27ccbbf947c849d6aa78f646",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 85,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.152.167",
+        "104.21.82.36"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Nekokun",
+      "internalName": "Nekokun",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "id",
+      "target_url": "https://nekokun.my.id",
+      "binary_integrity": "PASS",
+      "fileSize": 25371,
+      "fileHash": "sha256-f8bc12bdb75f54b4b9039d44d74b23f54c7358f8aec353cf9c31e5a281a0f7e6",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1046,
+      "doh_resolved": true,
+      "doh_ips": [
+        "163.223.227.38"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "NetFapX",
+      "internalName": "NetFapX",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://netfapx.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15110,
+      "fileHash": "sha256-441d58c669a536b8268d202eaa32fda89c172f128befc0b44b6b6f9351158e1e",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 388,
+      "doh_resolved": true,
+      "doh_ips": [
+        "192.124.249.153"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "NoodleMagazine",
+      "internalName": "NoodleMagazine",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://noodlemagazine.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15010,
+      "fileHash": "sha256-07922eb5e47a299883d54ffa590c9134cbbcd86a809cbba7ee4aec81237e924a",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 186,
+      "doh_resolved": true,
+      "doh_ips": [
+        "185.149.135.5"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "Notmik",
+      "internalName": "Notmik",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://www.notmik.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13357,
+      "fileHash": "sha256-e62ddd736473328720242b4e2077ce35d01453c66220b27609fc737163832c8d",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 111,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.175.38",
+        "104.21.48.4"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "OK",
+      "internalName": "OK",
+      "version": 9,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "ru",
+      "target_url": "https://ok.ru/video/c12842395",
+      "binary_integrity": "PASS",
+      "fileSize": 68008,
+      "fileHash": "sha256-91b4686bd7c505b7a97ad3676add3c4c43114d166ba8caabebceaaeef9f81bcd",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 825,
+      "doh_resolved": true,
+      "doh_ips": [
+        "217.20.157.145",
+        "5.61.21.121"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "OnScreens",
+      "internalName": "OnScreens",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.onscreens.me",
+      "binary_integrity": "PASS",
+      "fileSize": 21577,
+      "fileHash": "sha256-aae0d3526a4541929d55e6da8bfaa3a9a9d68d7d52a35896c87ad7ac9c28fa8c",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 96,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.71.223",
+        "104.26.13.232",
+        "104.26.12.232"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "OnShort",
+      "internalName": "OnShort",
+      "version": 3,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "en",
+      "target_url": "https://onshort.net",
+      "binary_integrity": "PASS",
+      "fileSize": 21396,
+      "fileHash": "sha256-6e87e9b6ad2422698829c07e4262f987605fb71339434061d898faf78e589aad",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 381,
+      "doh_resolved": true,
+      "doh_ips": [
+        "63.250.43.144",
+        "63.250.43.145"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "OnePaceTr",
+      "internalName": "OnePaceTr",
+      "version": 14,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://www.onepacetr.net",
+      "binary_integrity": "PASS",
+      "fileSize": 31616,
+      "fileHash": "sha256-e0393ea5e8048a0afdb9e3fd8863441416116200352689f58166c18e5b20790d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 131,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.222.72",
+        "104.21.25.31"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "OpenAnime",
+      "internalName": "OpenAnime",
+      "version": 29,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie"
+      ],
+      "language": "tr",
+      "target_url": "https://openani.me",
+      "binary_integrity": "PASS",
+      "fileSize": 75101,
+      "fileHash": "sha256-168235fd66f997157184e279246ca39d73a5bc26990746e13cb8f2d6af3c10a4",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 221,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.84.205",
+        "172.67.196.155"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "OppaiStream",
+      "internalName": "OppaiStream",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://oppai.stream/",
+      "binary_integrity": "PASS",
+      "fileSize": 15624,
+      "fileHash": "sha256-7e9c4762e0c6179c3e5c3e3a931ac9cf3202436dc04b74c4f8676bb6b23d4031",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 350,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.92.186",
+        "172.67.197.29"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "PMVHaven",
+      "internalName": "PMVHaven",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://pmvhaven.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 19340,
+      "fileHash": "sha256-1e50f5e0fe70ee26a5f4967db75139c616fe0dae24ef62b7ba5b0b6d7bddc585",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 451,
+      "doh_resolved": true,
+      "doh_ips": [
+        "80.79.7.135"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "PerfectGirls",
+      "internalName": "PerfectGirls",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.perfectgirls.xxx",
+      "binary_integrity": "PASS",
+      "fileSize": 15249,
+      "fileHash": "sha256-d7da385c362460b60d8194f8672ec2737f8579f456feac5a917fe49c51d1787b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 712,
+      "doh_resolved": true,
+      "doh_ips": [
+        "186.2.175.133"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "PerverZija",
+      "internalName": "PerverZija",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://tube.perverzija.com",
+      "binary_integrity": "PASS",
+      "fileSize": 14554,
+      "fileHash": "sha256-1b4e74ab27f204f2757f6aec16398d26a3b87bfbf0e9c351032a7f3f40294c3a",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 126,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.6.122",
+        "104.26.7.122",
+        "172.67.68.109"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Pimpbunny",
+      "internalName": "Pimpbunny",
+      "version": 16,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://pimpbunny.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 36660,
+      "fileHash": "sha256-ecab5b3bc190b9f8cb3ac7ddd6724339208ed81b6e91fd66f08ad4dff3fcb614",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 323,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.20.21.205",
+        "172.66.170.149"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Pinkueiga",
+      "internalName": "Pinkueiga",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://pinkueiga.net",
+      "binary_integrity": "PASS",
+      "fileSize": 16552,
+      "fileHash": "sha256-928bfb6e50d591cf830382d079bd5775f4ef67b6cab7c5ae2a009fb63ae94c45",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 663,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.138.219",
+        "104.21.81.54"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Porn00",
+      "internalName": "Porn00",
+      "version": 8,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.porn00.org",
+      "binary_integrity": "PASS",
+      "fileSize": 29438,
+      "fileHash": "sha256-b7290c0a086fcd08c6b0cbf0d08d81aca7b81f09a3804af7ffbaeef1636b6b07",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 735,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.177.34",
+        "104.21.88.111"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "PornHat",
+      "internalName": "PornHat",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.pornhat.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15343,
+      "fileHash": "sha256-77cfbc51ac169e4d7a31ffe022592c38d20eaed8c626989b167f845743fb5fd1",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 404,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.74.120",
+        "104.26.4.214",
+        "104.26.5.214"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "PornHub",
+      "internalName": "PornHub",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.pornhub.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 17522,
+      "fileHash": "sha256-0760bc84c515b454ca6ada808234efb41f0ca81008048a71b6f9b5fd42b3057d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1047,
+      "doh_resolved": true,
+      "doh_ips": [
+        "66.254.114.41"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "PornWatch",
+      "internalName": "PornWatch",
+      "version": 27,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://pornwatch.ws/",
+      "binary_integrity": "PASS",
+      "fileSize": 121750,
+      "fileHash": "sha256-b9b11f1875d05ead7710f1babf6224e39570d77530121e0bf65e98e1c8a418a2",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 416,
+      "doh_resolved": true,
+      "doh_ips": [
+        "91.210.107.199"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Pornocarioca",
+      "internalName": "Pornocarioca",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "pt-BR",
+      "target_url": "https://www.pornocarioca.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 14383,
+      "fileHash": "sha256-0e304ef92b86fbc304c4ae55e578c7f66cb25ad67f932109335eca97b1e208b9",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 115,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.12.37",
+        "172.67.71.99",
+        "104.26.13.37"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Pornslash",
+      "internalName": "Pornslash",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.pornslash.com/embed/E3mJAZANNge",
+      "binary_integrity": "PASS",
+      "fileSize": 15099,
+      "fileHash": "sha256-22f7973b1a9090fe0c1a282bf453442c5aac492a1691e91a8cc23c2ce7bb58e7",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 352,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.185.101",
+        "104.21.76.23"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Porntrex",
+      "internalName": "Porntrex",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://www.porntrex.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13261,
+      "fileHash": "sha256-b0c4acd91e3d1b34622211ade5091cf8dea34194d8cea276c6da62684006e0c5",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 383,
+      "doh_resolved": true,
+      "doh_ips": [
+        "88.80.24.7"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "Puhu",
+      "internalName": "Puhu",
+      "version": 1,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Movie,TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://is1-ssl.mzstatic.com",
+      "binary_integrity": "PASS",
+      "fileSize": 22504,
+      "fileHash": "sha256-2572de25d6b9ca8d829ceb476b7b022a34422c5f7031b056ecf9e95c38d893fd",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 82,
+      "doh_resolved": true,
+      "doh_ips": [
+        "17.253.83.149",
+        "17.253.83.143",
+        "17.253.83.132",
+        "17.253.83.196"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Pvip",
+      "internalName": "Pvip",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "mx",
+      "target_url": "https://pvip.se/en/",
+      "binary_integrity": "PASS",
+      "fileSize": 18452,
+      "fileHash": "sha256-c30c948a07a121bdc02c06f9167b504453720170ccf6c6518807d397f95a426e",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 64,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.222.246",
+        "104.21.35.134"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "RareFilmm",
+      "internalName": "RareFilmm",
+      "version": 21,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "en",
+      "target_url": "https://rarefilmm.com",
+      "binary_integrity": "PASS",
+      "fileSize": 35381,
+      "fileHash": "sha256-527fdb15099c859ac0b58530d40fac0e07c380d88f3fab139aeaffdfea615a00",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 984,
+      "doh_resolved": true,
+      "doh_ips": [
+        "77.73.70.186"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "RecTV",
+      "internalName": "RecTV",
+      "version": 113,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Live",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://rectv.org.tr",
+      "binary_integrity": "PASS",
+      "fileSize": 40221,
+      "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 1654,
+      "doh_resolved": true,
+      "doh_ips": [
+        "187.127.81.150"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Redgifs",
+      "internalName": "Redgifs",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.redgifs.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 18315,
+      "fileHash": "sha256-1b81c04f996beb463df4107f429fc6ea4d4e18df607cb8a572800cfa91b84820",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 130,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.18.36.123",
+        "172.64.151.133"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "RoshyTv",
+      "internalName": "RoshyTv",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://roshy.tv/",
+      "binary_integrity": "PASS",
+      "fileSize": 18429,
+      "fileHash": "sha256-32f265091becaf27718a7292941942ea0c0eb82130563de2302792cc3f3bf140",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 76,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.76.232",
+        "172.67.202.18"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "RouVideo",
+      "internalName": "RouVideo",
+      "version": 5,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://rou.video",
+      "binary_integrity": "PASS",
+      "fileSize": 26245,
+      "fileHash": "sha256-a0a13b86d6723532160df5861250e6a63a8601a43aecd7934aec91f005832c9a",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 277,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.208.217",
+        "104.21.91.24"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Rule34video",
+      "internalName": "Rule34video",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://rule34video.com/video/3822977/shorekeeper-akt/",
+      "binary_integrity": "PASS",
+      "fileSize": 30824,
+      "fileHash": "sha256-5c9632dc654e098ed3d8b551684e60b06edea0842c6d30844772b2add5992f8a",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 631,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.243"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Rusporn",
+      "internalName": "Rusporn",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "ru",
+      "target_url": "https://en.rusporn.center",
+      "binary_integrity": "PASS",
+      "fileSize": 25467,
+      "fileHash": "sha256-b839a431cb5d6bc5a946bf09a3bc77ffd98afb4c6a175768d48ea3f098a13a0f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 595,
+      "doh_resolved": true,
+      "doh_ips": [
+        "5.135.14.2"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SeiCode",
+      "internalName": "SeiCode",
+      "version": 26,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://seiwatch.net",
+      "binary_integrity": "PASS",
+      "fileSize": 40339,
+      "fileHash": "sha256-f1ebdac5ecf627f57bcf2ff07b331ea04d131f24e5f5dcde070b26c4a8420ad3",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 796,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.44.13",
+        "172.67.192.204"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SelcukFlix",
+      "internalName": "SelcukFlix",
+      "version": 50,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://selcukflix.com",
+      "binary_integrity": "PASS",
+      "fileSize": 66978,
+      "fileHash": "sha256-4f20909d812b62f99461d4d2a136365a205aa9bddc14f6f45b9208b6eefc6bbc",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 106,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.165.176",
+        "104.21.11.87"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "SetFilmIzle",
+      "internalName": "SetFilmIzle",
+      "version": 43,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.setfilmizle.ltd",
+      "binary_integrity": "PASS",
+      "fileSize": 69971,
+      "fileHash": "sha256-fd92326fbb793368516b1d55a669337f85c8a77a98183544957bc25146b93a8d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 111,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.14.144",
+        "172.67.159.174"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SexTB",
+      "internalName": "SexTB",
+      "version": 16,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "jp",
+      "target_url": "https://sextb.net/",
+      "binary_integrity": "PASS",
+      "fileSize": 98189,
+      "fileHash": "sha256-8975258ca802f1bfac8277dd66755793f8452ef9652ada4c75d9e37ca67f19ff",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 69,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.70.13",
+        "104.26.10.149",
+        "104.26.11.149"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Sexfilm",
+      "internalName": "Sexfilm",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://en.sex-film.biz/movies/",
+      "binary_integrity": "PASS",
+      "fileSize": 15448,
+      "fileHash": "sha256-04386c762e163c93d2672adc4dd78ee5bfb350f98bac35fb059221db597a4ec1",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 430,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.173.185",
+        "104.21.64.6"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SezonlukDizi",
+      "internalName": "SezonlukDizi",
+      "version": 41,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://sezonlukdizi.cc",
+      "binary_integrity": "PASS",
+      "fileSize": 103386,
+      "fileHash": "sha256-820fe6cfa744d1d8006901d125fb5ecd611a95be2e37ff3c5a8f0615ea48ff11",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 234,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.48.61",
+        "172.67.179.212"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SimpCity",
+      "internalName": "SimpCity",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://simpcity.cr/",
+      "binary_integrity": "PASS",
+      "fileSize": 89580,
+      "fileHash": "sha256-07cccaa96858279f8552e52e1311cbb363b9c5baf33ea19f9c58bdb7b0eb0c8e",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 450,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.84"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "SineWix",
+      "internalName": "SineWix",
+      "version": 33,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AsianDrama",
+        "Cartoon",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://ydfvfdizipanel.ru",
+      "binary_integrity": "PASS",
+      "fileSize": 26761,
+      "fileHash": "sha256-615d6d4ff1f7f2b662f41c37561a5f2499df097f64eb99a0a5002026f46a6ae3",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 262,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.40.6",
+        "172.67.172.219"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "SinemaCX",
+      "internalName": "SinemaCX",
+      "version": 36,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://sinemacc.com",
+      "binary_integrity": "PASS",
+      "fileSize": 27445,
+      "fileHash": "sha256-d06e11489628bff498b6d6c8f09914b099fc23c75842fe3985dc4f7b640746cc",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 397,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.153.106",
+        "104.21.82.48"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Sinezy",
+      "internalName": "Sinezy",
+      "version": 41,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://sinezy.si",
+      "binary_integrity": "PASS",
+      "fileSize": 27917,
+      "fileHash": "sha256-b31a8f38b65f8558e98030088f25ad2db8dbe28c2d7bafe3c0bc22dc95e3de96",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 847,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.155.235",
+        "104.21.72.247"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Sokuja",
+      "internalName": "Sokuja",
+      "version": 3,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie"
+      ],
+      "language": "id",
+      "target_url": "https://x6.sokuja.uk",
+      "binary_integrity": "PASS",
+      "fileSize": 20313,
+      "fileHash": "sha256-291a22db646e690d9e09ced51fb5061266156541f7466e1ba71b02d01cea934f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 294,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.15.109",
+        "172.67.74.229",
+        "104.26.14.109"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "SpankBang",
+      "internalName": "SpankBang",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://spankbang.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 13232,
+      "fileHash": "sha256-7e9cff0b720dab2d2582324c5f842286e9d7c604fdec5b1870ebb8097f0548d4",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 70,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.19.239.156",
+        "104.18.96.242"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Streamed",
+      "internalName": "Streamed",
+      "version": 29,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "en",
+      "target_url": "https://streamed.pk/",
+      "binary_integrity": "PASS",
+      "fileSize": 31145,
+      "fileHash": "sha256-3ac142f8ccfcc3be876418f9034e982c9753d29ee1fe411dfebcbd6048359164",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 720,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.74"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Subsplease",
+      "internalName": "Subsplease",
+      "version": 4,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "en",
+      "target_url": "https://subsplease.org",
+      "binary_integrity": "PASS",
+      "fileSize": 15792,
+      "fileHash": "sha256-a318b63f10570e4946ab57870c5240d620629abc1600c0c95efe2c6ad5170709",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 291,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.39.234",
+        "172.67.171.213"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Supercartoons",
+      "internalName": "Supercartoons",
+      "version": 2,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Cartoon"
+      ],
+      "language": "en",
+      "target_url": "https://i.imgur.com",
+      "binary_integrity": "PASS",
+      "fileSize": 11416,
+      "fileHash": "sha256-70b55d491bf7b012a9f0ba46161a3696314c52126a792b191c35eee7e5c1848b",
+      "reachability": "ONLINE",
+      "http_code": 302,
+      "latency_ms": 54,
+      "doh_resolved": true,
+      "doh_ips": [
+        "199.232.192.193",
+        "199.232.196.193"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 302)"
+    },
+    {
+      "name": "Sxyprn",
+      "internalName": "Sxyprn",
+      "version": 8,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://sxyprn.com",
+      "binary_integrity": "PASS",
+      "fileSize": 36257,
+      "fileHash": "sha256-6081be6624b181ed97a0dbe0277d54dc7ce94efe0d415abdf58335b04ba7cd34",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 396,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.193.88",
+        "104.21.84.137"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "TLCtr",
+      "internalName": "TLCtr",
+      "version": 19,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.tlctv.com.tr",
+      "binary_integrity": "PASS",
+      "fileSize": 14282,
+      "fileHash": "sha256-824c09393361fbd6a4f680bb5ed0e4df3de5dc415505313f173bdd2816919b4d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 274,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.36.130",
+        "172.67.194.96"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "TRanimaci",
+      "internalName": "TRanimaci",
+      "version": 19,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://tranimaci.com",
+      "binary_integrity": "PASS",
+      "fileSize": 16863,
+      "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 90,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.30.251",
+        "172.67.174.60"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "TRasyalog",
+      "internalName": "TRasyalog",
+      "version": 66,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://asyalog.co",
+      "binary_integrity": "PASS",
+      "fileSize": 23188,
+      "fileHash": "sha256-f12369ff3781065c903933908ea07d43d2d1d6bcaf471eaac941656b9e0866e5",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1107,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.63.229",
+        "172.67.172.94"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "TVGarden",
+      "internalName": "TVGarden",
+      "version": 11,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "en",
+      "target_url": "https://tv.garden",
+      "binary_integrity": "PASS",
+      "fileSize": 14941,
+      "fileHash": "sha256-365ffcdd7b4426873950b1dbbed82bbacf3fd4e7c9f611ccffaa0a6baa03efa8",
+      "reachability": "DNS_FILTERED",
+      "http_code": 301,
+      "latency_ms": 424,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.133.226",
+        "104.21.5.219"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "ThaiPorn",
+      "internalName": "ThaiPorn",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "th",
+      "target_url": "https://xn--72c9aha0f8ad1l6bi.com",
+      "binary_integrity": "PASS",
+      "fileSize": 17170,
+      "fileHash": "sha256-0dfc3a2f9c2ba1fc4717500a86bc5fbce1080ccae7354c78919b4ae5957bd036",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 268,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.13.131",
+        "172.67.132.213"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "TorrentFilm",
+      "internalName": "TorrentFilm",
+      "version": 2,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Movie",
+        "Torrent"
+      ],
+      "language": "tr",
+      "target_url": "https://upload.wikimedia.org",
+      "binary_integrity": "PASS",
+      "fileSize": 19290,
+      "fileHash": "sha256-c10e441a15781fad75d9e704c3d7e94123ce2520aa68a294d5a6018711ed1330",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 98,
+      "doh_resolved": true,
+      "doh_ips": [
+        "198.35.26.240"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "TrAnimeIzle",
+      "internalName": "TrAnimeIzle",
+      "version": 16,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Anime"
+      ],
+      "language": "tr",
+      "target_url": "https://www.tranimeizle.io",
+      "binary_integrity": "PASS",
+      "fileSize": 70901,
+      "fileHash": "sha256-f61f5ebb9c7f83b12f4af230a2aef34fffb15bd6240f6f86a9721af3e3641abe",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 76,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.169.14",
+        "104.21.27.75"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Tubepornclassic",
+      "internalName": "Tubepornclassic",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://tubepornclassic.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 20616,
+      "fileHash": "sha256-142e0534b48060d11f2f11ff0c70a44a173333d22eb68d74252e5c315ca983ed",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 736,
+      "doh_resolved": true,
+      "doh_ips": [
+        "91.216.220.129"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "TurkAnime",
+      "internalName": "TurkAnime",
+      "version": 35,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie"
+      ],
+      "language": "tr",
+      "target_url": "http://www.turkanime.co",
+      "binary_integrity": "PASS",
+      "fileSize": 71568,
+      "fileHash": "sha256-64e1cc192e3c0287bfe0cd7a2a73b17f0c6778bbdd82b856b7a5561f579320d7",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 208,
+      "doh_resolved": true,
+      "doh_ips": [
+        "162.4.84.239"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "TurkDublajVodProvider",
+      "internalName": "TurkDublajVodProvider",
+      "version": 2,
+      "sourceRepos": [
+        "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://animecix.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 45393,
+      "fileHash": "sha256-c62c73c792cdcad334a701795f4bccf8d84c53c7e811f7a1a43658829ee0a64a",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 85,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.71.75",
+        "104.26.0.250",
+        "104.26.1.250"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "TurkHub",
+      "internalName": "TurkHub",
+      "version": 99,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://turkhub153.cfd",
+      "binary_integrity": "PASS",
+      "fileSize": 19482,
+      "fileHash": "sha256-2be743b3ca0d22746f5f58902d21d54c37dddb7ea139f54036ba8f38311d6581",
+      "reachability": "DNS_FILTERED",
+      "http_code": 301,
+      "latency_ms": 93,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.52.104",
+        "172.67.198.20"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "TurkIfsalar",
+      "internalName": "TurkIfsalar",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://turkifsalar2.site",
+      "binary_integrity": "PASS",
+      "fileSize": 18547,
+      "fileHash": "sha256-807b0e51aa7f773c508e4a27a1a1f08906702a60045f626da7fa081730ca4863",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 963,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.87.135",
+        "172.67.143.99"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "TurkPorno",
+      "internalName": "TurkPorno",
+      "version": 153,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://turkporno57.lat",
+      "binary_integrity": "PASS",
+      "fileSize": 37288,
+      "fileHash": "sha256-bb72f6296ce935b4f1313e01dabee87dee8ad6e1ddfcc55a513fff044807bd5e",
+      "reachability": "DNS_FILTERED",
+      "http_code": 301,
+      "latency_ms": 99,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.24.42",
+        "172.67.216.197"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "Turkdizileri",
+      "internalName": "Turkdizileri",
+      "version": 34,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://i.imgur.com",
+      "binary_integrity": "PASS",
+      "fileSize": 166809,
+      "fileHash": "sha256-b29876955e08a76d88f3421972ee8d1af5f1b581963439ed09ea3cf4906feb2b",
+      "reachability": "ONLINE",
+      "http_code": 302,
+      "latency_ms": 52,
+      "doh_resolved": true,
+      "doh_ips": [
+        "199.232.196.193",
+        "199.232.192.193"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 302)"
+    },
+    {
+      "name": "TurkifsaBlog",
+      "internalName": "TurkifsaBlog",
+      "version": 1,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "tr",
+      "target_url": "https://turkifsa.blog/category/turk-ifsa",
+      "binary_integrity": "PASS",
+      "fileSize": 11467,
+      "fileHash": "sha256-8f1defe1ba94407ba7a39465b034dc243fc1dcc928ca6c01fae1295f393fbe24",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 652,
+      "doh_resolved": true,
+      "doh_ips": [
+        "188.137.225.16"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "TvDiziler",
+      "internalName": "TvDiziler",
+      "version": 19,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://tvdiziler.tv",
+      "binary_integrity": "PASS",
+      "fileSize": 36778,
+      "fileHash": "sha256-cc18366ae75f44e189335cbdd76b50acff733f2071ebe57735113c1586b1ddc0",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 520,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.69.46",
+        "104.26.9.242",
+        "104.26.8.242"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "UnusualPornX",
+      "internalName": "UnusualPornX",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://unusualpornx.com",
+      "binary_integrity": "PASS",
+      "fileSize": 29921,
+      "fileHash": "sha256-3e759369e94fdb965b3a8a8c591fefa492301db1731a3504df7abbc0b7af62a0",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 550,
+      "doh_resolved": true,
+      "doh_ips": [
+        "5.39.71.86"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "VideoCelebs",
+      "internalName": "VideoCelebs",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://videocelebs.net",
+      "binary_integrity": "PASS",
+      "fileSize": 29668,
+      "fileHash": "sha256-634e66661580c796e5f15c4704aa5b068946fe43db986593f47d7b0ed83c722f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 716,
+      "doh_resolved": true,
+      "doh_ips": [
+        "5.45.72.79"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Vsex",
+      "internalName": "Vsex",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "es",
+      "target_url": "https://vsex.in",
+      "binary_integrity": "PASS",
+      "fileSize": 32818,
+      "fileHash": "sha256-ed3d4834290e8ad61647fbc1b2fcaa7136a663c5394303156fde6a145dde4261",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 468,
+      "doh_resolved": true,
+      "doh_ips": [
+        "188.165.254.148"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "WFilmizle",
+      "internalName": "WFilmizle",
+      "version": 24,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://www.wfilmizle.cam",
+      "binary_integrity": "PASS",
+      "fileSize": 59842,
+      "fileHash": "sha256-1530e63b93bee463a0e088f39d9d307b6fb9aa618a206a94f569e431556cbe73",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 527,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.129.97",
+        "104.21.2.162"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Watch2Movies",
+      "internalName": "Watch2Movies",
+      "version": 6,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "en",
+      "target_url": "https://movies2watch.watch",
+      "binary_integrity": "PASS",
+      "fileSize": 24839,
+      "fileHash": "sha256-047f54ee3f3b54b59456018fa136013035674f89a8994aa8f8f1c0c3b5ff954f",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 713,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.165.136",
+        "104.21.50.187"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "WatchHentai",
+      "internalName": "WatchHentai",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://watchhentai.net",
+      "binary_integrity": "PASS",
+      "fileSize": 14505,
+      "fileHash": "sha256-612856e232531ed7a64114659c1466e27bb514fafcc04b8f7df62adc7d7700aa",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 299,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.213.114",
+        "104.21.37.208"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "WatchPorn",
+      "internalName": "WatchPorn",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://watchporn.to/",
+      "binary_integrity": "PASS",
+      "fileSize": 31673,
+      "fileHash": "sha256-7818c5454f2233ba4716a6680aa29ce56409714a27c0cef4e190b4c6e879dbb1",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 725,
+      "doh_resolved": true,
+      "doh_ips": [
+        "190.115.31.117"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "WatchWrestling",
+      "internalName": "WatchWrestling",
+      "version": 18,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "language": "en",
+      "target_url": "https://instapro.ac",
+      "binary_integrity": "PASS",
+      "fileSize": 18830,
+      "fileHash": "sha256-e60c081865d5584f9fa4dec3006be7cd81cc016499c8d558972bede4d855b5b3",
+      "reachability": "DNS_FILTERED",
+      "http_code": 200,
+      "latency_ms": 484,
+      "doh_resolved": true,
+      "doh_ips": [
+        "103.224.212.142"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "Wcoflix",
+      "internalName": "Wcoflix",
+      "version": 10,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Anime",
+        "Cartoon"
+      ],
+      "language": "en",
+      "target_url": "https://www.wcoflix.tv/",
+      "binary_integrity": "PASS",
+      "fileSize": 23834,
+      "fileHash": "sha256-8f2556de6d18188f43070de47bd4fd5177282e9f58642530083d66d1ca06e4a4",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 73,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.72.248",
+        "104.26.14.194",
+        "104.26.15.194"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "WebDramaTurkey",
+      "internalName": "WebDramaTurkey",
+      "version": 40,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "AsianDrama"
+      ],
+      "language": "tr",
+      "target_url": "https://webdramaturkey2.com",
+      "binary_integrity": "PASS",
+      "fileSize": 55103,
+      "fileHash": "sha256-5c70e374f9b89667bae9e18b506adb3ec66eda5e31667cd806998c269be5daee",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 634,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.166.52",
+        "104.21.82.245"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "WebdramaTurkey2",
+      "internalName": "WebdramaTurkey2",
+      "version": 1,
+      "sourceRepos": [
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AsianDrama",
+        "Movie",
+        "Others"
+      ],
+      "language": "tr",
+      "target_url": "https://webdramaturkey2.com",
+      "binary_integrity": "PASS",
+      "fileSize": 47944,
+      "fileHash": "sha256-ce827d142fd809a36c5e0e0d6db6fa928e8e0e30d90f2cd9042359e2a0b245fb",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 319,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.82.245",
+        "172.67.166.52"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "WebteIzle",
+      "internalName": "WebteIzle",
+      "version": 54,
+      "sourceRepos": [
+        "CS-Kraptor",
+        "Feroxx"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://webteizle1.xyz",
+      "binary_integrity": "PASS",
+      "fileSize": 67587,
+      "fileHash": "sha256-4f4d9c651cb331de12ce1ce8d1498ef2b63d66a58dcaa9367e835e2eed68fd3c",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 0,
+      "latency_ms": 136,
+      "doh_resolved": true,
+      "doh_ips": [
+        "162.4.84.239"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "İSS/BTK DPI engeli olası (bağlantı: tls, DoH IP: tls)"
+    },
+    {
+      "name": "Whoreshub",
+      "internalName": "Whoreshub",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "http://whoreshub.com",
+      "binary_integrity": "PASS",
+      "fileSize": 30185,
+      "fileHash": "sha256-e541ca8d696c4bf9de640133580a0ad6b4d35feac9d4ce300e2ec69f1684586a",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 301,
+      "latency_ms": 356,
+      "doh_resolved": true,
+      "doh_ips": [
+        "88.80.24.5"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 301))"
+    },
+    {
+      "name": "Wumaobi",
+      "internalName": "Wumaobi",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://wumaobi.com/search/se/",
+      "binary_integrity": "PASS",
+      "fileSize": 10568,
+      "fileHash": "sha256-429f5ff6136020dfeda93c957db726a8cb91d6d375abe8ac41a7227ff6abecb1",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 97,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.210.95",
+        "104.21.53.72"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "XChina",
+      "internalName": "XChina",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "zh",
+      "target_url": "https://en.xchina.co/",
+      "binary_integrity": "PASS",
+      "fileSize": 12529,
+      "fileHash": "sha256-cf81fa7c61d4f384936b38b12b37044d6bb5d87ef099abbcbe6cb72368b0b59e",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 80,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.8.70",
+        "104.26.9.70",
+        "172.67.71.144"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "XMoviesForYou",
+      "internalName": "XMoviesForYou",
+      "version": 10,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://xmoviesforyou.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 16288,
+      "fileHash": "sha256-4adcaf6f797cc78d1e15c6253f829d5e2d3dff6148b8a3001cfee71967c68e6a",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 403,
+      "latency_ms": 123,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.92.91",
+        "172.67.190.223"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Cloudflare/WAF koruması (HTTP 403))"
+    },
+    {
+      "name": "XNalgas",
+      "internalName": "XNalgas",
+      "version": 4,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "es",
+      "target_url": "https://www.xnalgas.com",
+      "binary_integrity": "PASS",
+      "fileSize": 12633,
+      "fileHash": "sha256-7e3d74cc6dd1ab1033224fd7ce942189ed7d523b6a033f1e60582d37a44fb9d3",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 422,
+      "doh_resolved": true,
+      "doh_ips": [
+        "72.251.3.233"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "XRares",
+      "internalName": "XRares",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.xrares.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15309,
+      "fileHash": "sha256-de85ae79a73d424e9586f371358731502e0bb31de148b680a0742f9a984b0454",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 536,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.170.98",
+        "104.21.28.57"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Xhamster",
+      "internalName": "Xhamster",
+      "version": 12,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://xhamster.com",
+      "binary_integrity": "PASS",
+      "fileSize": 21126,
+      "fileHash": "sha256-84adf1ca45cb0b27e3c726c6cd60f4db23d5e24a30335c68ed117db8bbc999bd",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 584,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.16.4.81",
+        "104.16.3.81"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Xpaja",
+      "internalName": "Xpaja",
+      "version": 9,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "es",
+      "target_url": "https://www.xpaja.net",
+      "binary_integrity": "PASS",
+      "fileSize": 14824,
+      "fileHash": "sha256-6d934160e3e6bc2e7b01c8632b54ca00bb3f53ab2289b1487babadbd8245b283",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 614,
+      "doh_resolved": true,
+      "doh_ips": [
+        "72.251.11.78"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "YTS",
+      "internalName": "YTS",
+      "version": 43,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Torrent"
+      ],
+      "language": "tr",
+      "target_url": "https://web.yts.gg",
+      "binary_integrity": "PASS",
+      "fileSize": 92944,
+      "fileHash": "sha256-cd2a00d8f49abfd5e42e7d8e2de8bf2cc48eccb58a6428fa94d4fd51e244ecf9",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 1011,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.13.3",
+        "104.26.12.3",
+        "172.67.72.74"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "YabanciDizi",
+      "internalName": "YabanciDizi",
+      "version": 19,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://yabancidizi.news",
+      "binary_integrity": "PASS",
+      "fileSize": 41052,
+      "fileHash": "sha256-cb76b481100d2a75e8331568d05dfeae7d399a31a8166f1179200e3ae506a7a3",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 88,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.26.6.131",
+        "104.26.7.131",
+        "172.67.73.107"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "Yablom",
+      "internalName": "Yablom",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "Documentary",
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "fr",
+      "target_url": "https://yakmov.com/0003909/home/yakmov/",
+      "binary_integrity": "PASS",
+      "fileSize": 17046,
+      "fileHash": "sha256-006b2f19719b16393adafcf5f9a76deeb1c1d50ae5b5b9fbcbec91d7a52c0dd6",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 900,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.206.17",
+        "104.21.52.250"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "YeniKaynak",
+      "internalName": "YeniKaynak",
+      "version": 12,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.yenikaynak.com",
+      "binary_integrity": "PASS",
+      "fileSize": 29294,
+      "fileHash": "sha256-8c8315459e9c8731e850d34e09eb2487cada4206acda8a30d2eb0435b8261f7b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 924,
+      "doh_resolved": true,
+      "doh_ips": [
+        "94.199.205.215"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "YerelDiziler",
+      "internalName": "YerelDiziler",
+      "version": 14,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Tv Series"
+      ],
+      "language": "tr",
+      "target_url": "https://png.pngtree.com",
+      "binary_integrity": "PASS",
+      "fileSize": 50752,
+      "fileHash": "sha256-82373fd647183b56da570c86c7b4fb050d30b17fca01257ac8c3c8850298c243",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 103,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.18.3.157",
+        "104.18.2.157"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "YerelProgramlar",
+      "internalName": "YerelProgramlar",
+      "version": 1,
+      "sourceRepos": [
+        "Makoto2"
+      ],
+      "tvTypes": [
+        "Tv Series"
+      ],
+      "language": "tr",
+      "target_url": "https://png.pngtree.com",
+      "binary_integrity": "PASS",
+      "fileSize": 77654,
+      "fileHash": "sha256-63485d7ee400491c9f5989dac15c582cce67a345a95a88928a45b22e4723a4e3",
+      "reachability": "PROTECTED",
+      "http_code": 403,
+      "latency_ms": 52,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.18.3.157",
+        "104.18.2.157"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Cloudflare/WAF koruması (HTTP 403)"
+    },
+    {
+      "name": "YesilCamTv",
+      "internalName": "YesilCamTv",
+      "version": 10,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Movie"
+      ],
+      "language": "tr",
+      "target_url": "https://yesilcamtv.com.tr",
+      "binary_integrity": "PASS",
+      "fileSize": 22334,
+      "fileHash": "sha256-5fbfa3f16215e84c190553ece62c24b440b90e7314930ade619cca02c1a70104",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 710,
+      "doh_resolved": true,
+      "doh_ips": [
+        "72.61.93.223"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Yesporn",
+      "internalName": "Yesporn",
+      "version": 2,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://yesporn.vip",
+      "binary_integrity": "PASS",
+      "fileSize": 30374,
+      "fileHash": "sha256-cd5779b3ba839d215dbc25b713c4e9a50c128ee43acb8c70d2b3c2a4b458f61c",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 389,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.12.184",
+        "172.67.132.56"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    },
+    {
+      "name": "YoTurkish",
+      "internalName": "YoTurkish",
+      "version": 5,
+      "sourceRepos": [
+        "CS-Karma"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "language": "en",
+      "target_url": "https://yoturkish.to",
+      "binary_integrity": "PASS",
+      "fileSize": 20051,
+      "fileHash": "sha256-04f17302b6995b4538477d2e9fd2783b920acec8e88882129960ce42d22ddc51",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 242,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.19.61",
+        "172.67.185.73"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "YouJizz",
+      "internalName": "YouJizz",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://youjizz.com",
+      "binary_integrity": "PASS",
+      "fileSize": 13337,
+      "fileHash": "sha256-b808cadbdb2d53d049658fece713f2a9443fb9e5cda096d175d4cddd9890f33a",
+      "reachability": "ONLINE",
+      "http_code": 301,
+      "latency_ms": 1333,
+      "doh_resolved": true,
+      "doh_ips": [
+        "66.254.114.242"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 301)"
+    },
+    {
+      "name": "Youperv",
+      "internalName": "Youperv",
+      "version": 3,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://youperv.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 12931,
+      "fileHash": "sha256-d7533fc6b2df1a0ccd61292ca8f07a4f794df75e995212a34c22704c6b835e3e",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 283,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.10.57",
+        "172.67.162.141"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "Youtube",
+      "internalName": "Youtube",
+      "version": 39,
+      "sourceRepos": [
+        "CS-Kraptor"
+      ],
+      "tvTypes": [
+        "Live",
+        "Movie",
+        "Music",
+        "TvSeries"
+      ],
+      "language": "tr",
+      "target_url": "https://www.youtube.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 109126,
+      "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 174,
+      "doh_resolved": true,
+      "doh_ips": [
+        "142.251.150.4",
+        "142.251.153.4",
+        "142.251.154.4",
+        "142.251.152.4",
+        "142.251.155.4",
+        "142.251.157.4",
+        "142.251.151.4",
+        "142.251.156.4"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "ePawg",
+      "internalName": "ePawg",
+      "version": 6,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://epawg.com/",
+      "binary_integrity": "PASS",
+      "fileSize": 29566,
+      "fileHash": "sha256-02e9ebf2c838709ef1660dd7cd44b294206bb87924387ba36f48e66dbb51a99d",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 231,
+      "doh_resolved": true,
+      "doh_ips": [
+        "172.67.180.174",
+        "104.21.40.71"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "xVideos",
+      "internalName": "xVideos",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://www.xvideos.com",
+      "binary_integrity": "PASS",
+      "fileSize": 15785,
+      "fileHash": "sha256-b91d52732a4023273d76ae01f63f01854443e129da2845f8e13b687074760e0b",
+      "reachability": "ONLINE",
+      "http_code": 200,
+      "latency_ms": 963,
+      "doh_resolved": true,
+      "doh_ips": [
+        "89.222.127.10",
+        "89.222.127.12",
+        "89.222.127.7",
+        "89.222.127.4",
+        "89.222.127.3",
+        "89.222.127.1",
+        "89.222.127.5",
+        "89.222.127.8",
+        "89.222.127.2",
+        "89.222.127.6",
+        "89.222.127.15",
+        "89.222.127.9",
+        "89.222.127.13",
+        "89.222.127.14",
+        "89.222.127.11"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DIRECT",
+      "status_detail": "Erişilebilir (HTTP 200)"
+    },
+    {
+      "name": "İnfluencerChicks",
+      "internalName": "İnfluencerChicks",
+      "version": 7,
+      "sourceRepos": [
+        "Gizli-Keyif"
+      ],
+      "tvTypes": [
+        "NSFW"
+      ],
+      "language": "en",
+      "target_url": "https://influencerchicks.com",
+      "binary_integrity": "PASS",
+      "fileSize": 12749,
+      "fileHash": "sha256-d3e16a1f9aee64640e93f6ab0266dc463842e44892b412491d0c501668d391d0",
+      "reachability": "ISP_BLOCKED",
+      "http_code": 200,
+      "latency_ms": 266,
+      "doh_resolved": true,
+      "doh_ips": [
+        "104.21.69.41",
+        "172.67.204.22"
+      ],
+      "is_operational_in_cloudstream": true,
+      "overall_status": "WORKING_DOH_REQUIRED",
+      "status_detail": "Global olarak erişilebilir; Türkiye engel bilgisi önceki yerel denetimden korunuyor (Erişilebilir (HTTP 200))"
+    }
+  ]
+}

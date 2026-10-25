@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ch_trt1" tvg-name="TRT 1 HD" group-title="Ulusal Kanallar",TRT 1 HD
+#EXTVLCOPT:http-referrer=https://www.trtizle.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trt1.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trtizle.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_atv" tvg-name="ATV 1080p FHD" group-title="Ulusal Kanallar",ATV 1080p FHD
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fatv%2Fatv_1080p.m3u8&referer=https%3A%2F%2Fwww.atv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_showtv" tvg-name="Show TV 1080p FHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/330px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar",Show TV 1080p FHD
+#EXTVLCOPT:http-referrer=https://www.showtv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frmtftbjlne.turknet.ercdn.net%2Fbpeytmnqyp%2Fshowtv%2Fshowtv.m3u8&referer=https%3A%2F%2Fwww.showtv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_nowtv" tvg-name="NOW TV (FOX) 1080p" group-title="Ulusal Kanallar",NOW TV (FOX) 1080p
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fuycyyuuzyh.turknet.ercdn.net%2Fnphindgytw%2Fnowtv%2Fnowtv.m3u8&referer=https%3A%2F%2Fwww.nowtv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_startv" tvg-name="Star TV HD" group-title="Ulusal Kanallar",Star TV HD
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fdogus.daioncdn.net%2Fstartv%2Fstartv_720p.m3u8%3Fapp%3Dstartv_web&referer=https%3A%2F%2Fwww.startv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_kanald" tvg-name="Kanal D HD" group-title="Ulusal Kanallar",Kanal D HD
+#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fdemiroren.daioncdn.net%2Fkanald%2Fkanald.m3u8%3Fapp%3Dkanald_web%26ce%3D3&referer=https%3A%2F%2Fwww.kanald.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_cnbce" tvg-name="CNBC-e 1080p" group-title="Ulusal Kanallar",CNBC-e 1080p
+#EXTVLCOPT:http-referrer=https://www.cnbce.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fhnpsechtsc.turknet.ercdn.net%2Fxpnvudnlsv%2Fcnbc-e%2Fcnbc-e.m3u8&referer=https%3A%2F%2Fwww.cnbce.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_a2tv" tvg-name="A2 TV HD" group-title="Ulusal Kanallar",A2 TV HD
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fa2tv%2Fa2tv.m3u8&referer=https%3A%2F%2Fwww.atv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_kanal7" tvg-name="Kanal 7 HD" group-title="Ulusal Kanallar",Kanal 7 HD
+#EXTVLCOPT:http-referrer=https://www.kanal7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fkanal7-live.daioncdn.net%2Fkanal7%2Fkanal7.m3u8&referer=https%3A%2F%2Fwww.kanal7.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_beyaztv" tvg-name="Beyaz TV HD" group-title="Ulusal Kanallar",Beyaz TV HD
+#EXTVLCOPT:http-referrer=https://www.beyaztv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fbeyaztv-live.daioncdn.net%2Fbeyaztv%2Fbeyaztv.m3u8&referer=https%3A%2F%2Fwww.beyaztv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tv360" tvg-name="TV 360 HD" group-title="Ulusal Kanallar",TV 360 HD
+#EXTVLCOPT:http-referrer=https://www.tv360.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv360%2Ftv360.m3u8&referer=https%3A%2F%2Fwww.tv360.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_meclistv" tvg-name="Meclis TV (TBMM) 720p" group-title="Ulusal Kanallar",Meclis TV (TBMM) 720p
+#EXTVLCOPT:http-referrer=https://www.tbmm.gov.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fmeclistv-live.ercdn.net%2Fmeclistv%2Fmeclistv_720p.m3u8&referer=https%3A%2F%2Fwww.tbmm.gov.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trtspor" tvg-name="TRT Spor HD" group-title="Canlı Spor & Maç",TRT Spor HD
+#EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trtspor1.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trtspor.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trtsporyildiz" tvg-name="TRT Spor Yıldız HD" group-title="Canlı Spor & Maç",TRT Spor Yıldız HD
+#EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trtspor2.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trtspor.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_aspor" tvg-name="A Spor HD" group-title="Canlı Spor & Maç",A Spor HD
+#EXTVLCOPT:http-referrer=https://www.aspor.com.tr/
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Faspor%2Faspor.m3u8&referer=https%3A%2F%2Fwww.aspor.com.tr%2F
+#EXTINF:-1 tvg-id="ch_htspor" tvg-name="HT Spor HD (1080p)" group-title="Canlı Spor & Maç",HT Spor HD (1080p)
+#EXTVLCOPT:http-referrer=https://www.htspor.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fciner.daioncdn.net%2Fht-spor%2Fht-spor.m3u8%3Fapp%3Dweb&referer=https%3A%2F%2Fwww.htspor.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tjktv" tvg-name="TJK TV HD (At Yarışları)" group-title="Canlı Spor & Maç",TJK TV HD (At Yarışları)
+#EXTVLCOPT:http-referrer=https://www.tjk.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=http%3A%2F%2Ftjktv-live.tjk.org%2Ftjktv.m3u8&referer=https%3A%2F%2Fwww.tjk.org%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tjktv2" tvg-name="TJK TV 2 HD (Yurt Dışı)" group-title="Canlı Spor & Maç",TJK TV 2 HD (Yurt Dışı)
+#EXTVLCOPT:http-referrer=https://www.tjk.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftjktv-live.tjk.org%2Ftjktv2%2Ftjktv2.m3u8&referer=https%3A%2F%2Fwww.tjk.org%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trtbelgesel" tvg-name="TRT Belgesel 1080p" group-title="Belgesel & Doğa",TRT Belgesel 1080p
+#EXTVLCOPT:http-referrer=https://www.trtbelgesel.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trtbelgesel.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trtbelgesel.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_dmax" tvg-name="DMAX HD" group-title="Belgesel & Doğa",DMAX HD
+#EXTVLCOPT:http-referrer=https://www.dmax.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fdogus.daioncdn.net%2Fdmax%2Fdmax_720p.m3u8%3Fapp%3Ddmax_web&referer=https%3A%2F%2Fwww.dmax.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tlc" tvg-name="TLC HD" group-title="Belgesel & Doğa",TLC HD
+#EXTVLCOPT:http-referrer=https://www.tlctv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fdogus.daioncdn.net%2Ftlc%2Ftlc_720p.m3u8%3Fapp%3Dtlc_web&referer=https%3A%2F%2Fwww.tlctv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_iftitv" tvg-name="Çiftçi TV HD" group-title="Belgesel & Doğa",Çiftçi TV HD
+#EXTVLCOPT:http-referrer=https://ciftcitv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_ciftcitv%2Fciftcitv%2Fplaylist.m3u8&referer=https%3A%2F%2Fciftcitv.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trthaber" tvg-name="TRT Haber HD" group-title="Haber & Gündem",TRT Haber HD
+#EXTVLCOPT:http-referrer=https://www.trthaber.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trthaber.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trthaber.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_ahaber" tvg-name="A Haber HD" group-title="Haber & Gündem",A Haber HD
+#EXTVLCOPT:http-referrer=https://www.ahaber.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Fahaber%2Fahaber.m3u8&referer=https%3A%2F%2Fwww.ahaber.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_ntv" tvg-name="NTV HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/330px-NTV_logo.svg.png" group-title="Haber & Gündem",NTV HD
+#EXTVLCOPT:http-referrer=https://www.ntv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fdogus.daioncdn.net%2Fntv%2Fntv_720p.m3u8%3Fapp%3Dntv_web&referer=https%3A%2F%2Fwww.ntv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_habertrk" tvg-name="Habertürk HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/330px-Habert%C3%BCrk_TV_logo.svg.png" group-title="Haber & Gündem",Habertürk HD
+#EXTVLCOPT:http-referrer=https://www.haberturk.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frmtftbjlne.turknet.ercdn.net%2Fbpeytmnqyp%2Fhaberturktv%2Fhaberturktv.m3u8&referer=https%3A%2F%2Fwww.haberturk.tv%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_halktv" tvg-name="Halk TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="Haber & Gündem",Halk TV HD
+#EXTVLCOPT:http-referrer=https://halktv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fhalktv-live.daioncdn.net%2Fhalktv%2Fhalktv.m3u8&referer=https%3A%2F%2Fhalktv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tv100" tvg-name="TV 100 HD" group-title="Haber & Gündem",TV 100 HD
+#EXTVLCOPT:http-referrer=https://www.tv100.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv.ensonhaber.com%2Ftv100%2Ftv100.m3u8&referer=https%3A%2F%2Fwww.tv100.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_24tv" tvg-name="24 TV HD" group-title="Haber & Gündem",24 TV HD
+#EXTVLCOPT:http-referrer=https://www.yirmidort.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv24%2Ftv24_1080p.m3u8&referer=https%3A%2F%2Fwww.yirmidort.tv%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_bloomberght" tvg-name="Bloomberg HT HD" group-title="Haber & Gündem",Bloomberg HT HD
+#EXTVLCOPT:http-referrer=https://www.bloomberght.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Frmtftbjlne.turknet.ercdn.net%2Fbpeytmnqyp%2Fbloomberght%2Fbloomberght.m3u8&referer=https%3A%2F%2Fwww.bloomberght.com%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_sinematv" tvg-name="Sinema TV HD" group-title="Sinema & Dizi",Sinema TV HD
+#EXTVLCOPT:http-referrer=https://www.sinematv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fcdn-sinematv.yayin.com.tr%2Fsinematv%2Fsinematv%2Fplaylist.m3u8&referer=https%3A%2F%2Fwww.sinematv.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trt2" tvg-name="TRT 2 HD (Kültür & Sinema)" group-title="Sinema & Dizi",TRT 2 HD (Kültür & Sinema)
+#EXTVLCOPT:http-referrer=https://www.trt2.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trt2.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trt2.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_tv4" tvg-name="TV4 HD" group-title="Sinema & Dizi",TV4 HD
+#EXTVLCOPT:http-referrer=https://www.tv4.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Fturkmedya-live.ercdn.net%2Ftv4%2Ftv4.m3u8&referer=https%3A%2F%2Fwww.tv4.com.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trtocuk" tvg-name="TRT Çocuk HD" group-title="Çocuk & Çizgi Film",TRT Çocuk HD
+#EXTVLCOPT:http-referrer=https://www.trtcocuk.net.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trtcocuk.medya.trt.com.tr%2Fmaster.m3u8&referer=https%3A%2F%2Fwww.trtcocuk.net.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+#EXTINF:-1 tvg-id="ch_trtmzik" tvg-name="TRT Müzik HD" group-title="Müzik & Eğlence",TRT Müzik HD
+#EXTVLCOPT:http-referrer=https://www.trtmuzik.net.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cloudstream-edge-proxy.cloudstream-turkce.workers.dev/?url=https%3A%2F%2Ftv-trtmuzik.medya.trt.com.tr%2Fmaster_480.m3u8&referer=https%3A%2F%2Fwww.trtmuzik.net.tr%2F&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36
+

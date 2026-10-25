@@ -1,0 +1,141 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ch_trt1" tvg-name="TRT 1 HD" group-title="Ulusal Kanallar",TRT 1 HD
+#EXTVLCOPT:http-referrer=https://www.trtizle.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_atv" tvg-name="ATV 1080p FHD" group-title="Ulusal Kanallar",ATV 1080p FHD
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-id="ch_showtv" tvg-name="Show TV 1080p FHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/330px-Show_TV_logo.svg.png" group-title="Ulusal Kanallar",Show TV 1080p FHD
+#EXTVLCOPT:http-referrer=https://www.showtv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="ch_nowtv" tvg-name="NOW TV (FOX) 1080p" group-title="Ulusal Kanallar",NOW TV (FOX) 1080p
+#EXTVLCOPT:http-referrer=https://www.nowtv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="ch_startv" tvg-name="Star TV HD" group-title="Ulusal Kanallar",Star TV HD
+#EXTVLCOPT:http-referrer=https://www.startv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
+#EXTINF:-1 tvg-id="ch_kanald" tvg-name="Kanal D HD" group-title="Ulusal Kanallar",Kanal D HD
+#EXTVLCOPT:http-referrer=https://www.kanald.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="ch_cnbce" tvg-name="CNBC-e 1080p" group-title="Ulusal Kanallar",CNBC-e 1080p
+#EXTVLCOPT:http-referrer=https://www.cnbce.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="ch_a2tv" tvg-name="A2 TV HD" group-title="Ulusal Kanallar",A2 TV HD
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="ch_kanal7" tvg-name="Kanal 7 HD" group-title="Ulusal Kanallar",Kanal 7 HD
+#EXTVLCOPT:http-referrer=https://www.kanal7.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="ch_beyaztv" tvg-name="Beyaz TV HD" group-title="Ulusal Kanallar",Beyaz TV HD
+#EXTVLCOPT:http-referrer=https://www.beyaztv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="ch_tv360" tvg-name="TV 360 HD" group-title="Ulusal Kanallar",TV 360 HD
+#EXTVLCOPT:http-referrer=https://www.tv360.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="ch_meclistv" tvg-name="Meclis TV (TBMM) 720p" group-title="Ulusal Kanallar",Meclis TV (TBMM) 720p
+#EXTVLCOPT:http-referrer=https://www.tbmm.gov.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-id="ch_trtspor" tvg-name="TRT Spor HD" group-title="Canlı Spor & Maç",TRT Spor HD
+#EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_trtsporyildiz" tvg-name="TRT Spor Yıldız HD" group-title="Canlı Spor & Maç",TRT Spor Yıldız HD
+#EXTVLCOPT:http-referrer=https://www.trtspor.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_aspor" tvg-name="A Spor HD" group-title="Canlı Spor & Maç",A Spor HD
+#EXTVLCOPT:http-referrer=https://www.aspor.com.tr/
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="ch_htspor" tvg-name="HT Spor HD (1080p)" group-title="Canlı Spor & Maç",HT Spor HD (1080p)
+#EXTVLCOPT:http-referrer=https://www.htspor.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="ch_tjktv" tvg-name="TJK TV HD (At Yarışları)" group-title="Canlı Spor & Maç",TJK TV HD (At Yarışları)
+#EXTVLCOPT:http-referrer=https://www.tjk.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="ch_tjktv2" tvg-name="TJK TV 2 HD (Yurt Dışı)" group-title="Canlı Spor & Maç",TJK TV 2 HD (Yurt Dışı)
+#EXTVLCOPT:http-referrer=https://www.tjk.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-id="ch_trtbelgesel" tvg-name="TRT Belgesel 1080p" group-title="Belgesel & Doğa",TRT Belgesel 1080p
+#EXTVLCOPT:http-referrer=https://www.trtbelgesel.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_dmax" tvg-name="DMAX HD" group-title="Belgesel & Doğa",DMAX HD
+#EXTVLCOPT:http-referrer=https://www.dmax.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web
+#EXTINF:-1 tvg-id="ch_tlc" tvg-name="TLC HD" group-title="Belgesel & Doğa",TLC HD
+#EXTVLCOPT:http-referrer=https://www.tlctv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web
+#EXTINF:-1 tvg-id="ch_iftitv" tvg-name="Çiftçi TV HD" group-title="Belgesel & Doğa",Çiftçi TV HD
+#EXTVLCOPT:http-referrer=https://ciftcitv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_trthaber" tvg-name="TRT Haber HD" group-title="Haber & Gündem",TRT Haber HD
+#EXTVLCOPT:http-referrer=https://www.trthaber.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_ahaber" tvg-name="A Haber HD" group-title="Haber & Gündem",A Haber HD
+#EXTVLCOPT:http-referrer=https://www.ahaber.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="ch_ntv" tvg-name="NTV HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/330px-NTV_logo.svg.png" group-title="Haber & Gündem",NTV HD
+#EXTVLCOPT:http-referrer=https://www.ntv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?app=ntv_web
+#EXTINF:-1 tvg-id="ch_habertrk" tvg-name="Habertürk HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/330px-Habert%C3%BCrk_TV_logo.svg.png" group-title="Haber & Gündem",Habertürk HD
+#EXTVLCOPT:http-referrer=https://www.haberturk.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="ch_halktv" tvg-name="Halk TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="Haber & Gündem",Halk TV HD
+#EXTVLCOPT:http-referrer=https://halktv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="ch_tv100" tvg-name="TV 100 HD" group-title="Haber & Gündem",TV 100 HD
+#EXTVLCOPT:http-referrer=https://www.tv100.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv.ensonhaber.com/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="ch_24tv" tvg-name="24 TV HD" group-title="Haber & Gündem",24 TV HD
+#EXTVLCOPT:http-referrer=https://www.yirmidort.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 tvg-id="ch_bloomberght" tvg-name="Bloomberg HT HD" group-title="Haber & Gündem",Bloomberg HT HD
+#EXTVLCOPT:http-referrer=https://www.bloomberght.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="ch_sinematv" tvg-name="Sinema TV HD" group-title="Sinema & Dizi",Sinema TV HD
+#EXTVLCOPT:http-referrer=https://www.sinematv.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_trt2" tvg-name="TRT 2 HD (Kültür & Sinema)" group-title="Sinema & Dizi",TRT 2 HD (Kültür & Sinema)
+#EXTVLCOPT:http-referrer=https://www.trt2.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_tv4" tvg-name="TV4 HD" group-title="Sinema & Dizi",TV4 HD
+#EXTVLCOPT:http-referrer=https://www.tv4.com.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="ch_trtocuk" tvg-name="TRT Çocuk HD" group-title="Çocuk & Çizgi Film",TRT Çocuk HD
+#EXTVLCOPT:http-referrer=https://www.trtcocuk.net.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ch_trtmzik" tvg-name="TRT Müzik HD" group-title="Müzik & Eğlence",TRT Müzik HD
+#EXTVLCOPT:http-referrer=https://www.trtmuzik.net.tr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8

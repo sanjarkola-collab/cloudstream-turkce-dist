@@ -1,0 +1,484 @@
+[
+  {
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "version": 89,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciX.cs3",
+    "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "inatchii",
+      "JustRelaxable"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
+    "fileSize": 172062,
+    "fileHash": "sha256-031baec963b6ed3d199d5a67e5d5ce081a491aabfdce44eaa44907626bb31c1f",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "version": 25,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaAnimeleri.cs3",
+    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
+    "fileSize": 33750,
+    "fileHash": "sha256-4c756d47abc007ff642715bab52010d6b6282e51f469ab1e2407af42ce3564a7",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "AsyaFilmIzlesene",
+    "internalName": "AsyaFilmIzlesene",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaFilmIzlesene.cs3",
+    "description": "Hint, Kore Filmleri",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
+    "fileSize": 9859,
+    "fileHash": "sha256-7b2d52d326c7cb8ac7b83c37729a05efc7656528b85e1ff512d5d1f0f918838b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "version": 42,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaWatch.cs3",
+    "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
+    "fileSize": 72074,
+    "fileHash": "sha256-bcb3b5cb237cad99ae7dd9d970b6fcc77932b92772bb0678406337416c2aba5b",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "version": 42,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/BelgeselX.cs3",
+    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Documentary"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
+    "fileSize": 50652,
+    "fileHash": "sha256-f31d5dbf90db245e560edf6888e8f188d75485a5e83fc2d356bc1a2effbc2adb",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "CanliTV",
+    "internalName": "CanliTV",
+    "version": 10,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CanliTV.cs3",
+    "description": "Canlı TV",
+    "authors": [
+      "Adippe",
+      "keyiflerolsun",
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "fileSize": 13695,
+    "fileHash": "sha256-7c84117b7817be91f9767f8f8e83776415ceb95d5bfe03ce42ac2da7c3f6b66e",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "CizgiveDizi",
+    "internalName": "CizgiveDizi",
+    "version": 51,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiveDizi.cs3",
+    "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "language": "tr",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "fileSize": 43326,
+    "fileHash": "sha256-4d0020ce5ceb10a7e07cb18c42c28dcbc3120426a112d413454edf2345b79d59",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "version": 38,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBox.cs3",
+    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
+    "fileSize": 41159,
+    "fileHash": "sha256-63faf93fb3bdcc31af6b847c182cd29eb8dc036abb0eba6511f3a004b8d340bf",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "version": 59,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBox.cs3",
+    "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "language": "tr",
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "fileSize": 49715,
+    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "version": 63,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/JetFilmizle.cs3",
+    "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
+    "fileSize": 64337,
+    "fileHash": "sha256-c1685d599eab24faf67ec7ee019701eacf6c1e7db21039e87b892d14d9f4585e",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "Kanal 7",
+    "internalName": "Kanal 7",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Kanal%207.cs3",
+    "description": "Hint, Pakistan ve Türk dizilerinin adresi",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
+    "fileSize": 18115,
+    "fileHash": "sha256-139bd94b3cf1839558131a23e29e0c55dfae70c67043cebc16c6598ecfcd885f",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "Puhu",
+    "internalName": "Puhu",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Puhu.cs3",
+    "description": "Puhu",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Movie,TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "fileSize": 22504,
+    "fileHash": "sha256-2572de25d6b9ca8d829ceb476b7b022a34422c5f7031b056ecf9e95c38d893fd",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "version": 113,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTV.cs3",
+    "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "authors": [
+      "Eagle",
+      "keyiflerolsun",
+      "yusiqo",
+      "inatchii",
+      "JustRelaxable",
+      "patr0n"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
+    "fileSize": 40221,
+    "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "version": 33,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SineWix.cs3",
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "patr0n",
+      "keyiflerolsun",
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AsianDrama",
+      "Cartoon",
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "fileSize": 26761,
+    "fileHash": "sha256-615d6d4ff1f7f2b662f41c37561a5f2499df097f64eb99a0a5002026f46a6ae3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Feroxx",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "TorrentFilm",
+    "internalName": "TorrentFilm",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TorrentFilm.cs3",
+    "description": "Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Movie",
+      "Torrent"
+    ],
+    "language": "tr",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
+    "fileSize": 19290,
+    "fileHash": "sha256-c10e441a15781fad75d9e704c3d7e94123ce2520aa68a294d5a6018711ed1330",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "version": 40,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebDramaTurkey.cs3",
+    "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "language": "tr",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "fileSize": 55103,
+    "fileHash": "sha256-5c70e374f9b89667bae9e18b506adb3ec66eda5e31667cd806998c269be5daee",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "CS-Kraptor",
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "YerelDiziler",
+    "internalName": "YerelDiziler",
+    "version": 14,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YerelDiziler.cs3",
+    "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Tv Series"
+    ],
+    "language": "tr",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+    "fileSize": 50752,
+    "fileHash": "sha256-82373fd647183b56da570c86c7b4fb050d30b17fca01257ac8c3c8850298c243",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  },
+  {
+    "name": "YerelProgramlar",
+    "internalName": "YerelProgramlar",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YerelProgramlar.cs3",
+    "description": "Yerel programları güncel şekilde bulabilirsiniz",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Tv Series"
+    ],
+    "language": "tr",
+    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
+    "fileSize": 77654,
+    "fileHash": "sha256-63485d7ee400491c9f5989dac15c582cce67a345a95a88928a45b22e4723a4e3",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "Makoto2"
+    ]
+  }
+]

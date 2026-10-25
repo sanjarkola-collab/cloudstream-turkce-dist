@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream Türkçe (Otomatik Kurucu - AutoInstaller)",
+  "description": "CloudStream Türkçe Eklenti Deposu Otomatik Kurucu paketi. Tüm sağlayıcıları ve güncellemeleri tek tıkla cihazınıza entegre eder.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins-autoinstall.json"
+  ]
+}

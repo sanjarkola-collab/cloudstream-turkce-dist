@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream (+18 Yetişkin Havuzu)",
+  "description": "Kraptor Eklenti Tarayıcısı Gizli-Keyif ve +18 yetişkin eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins-nsfw.json"
+  ]
+}

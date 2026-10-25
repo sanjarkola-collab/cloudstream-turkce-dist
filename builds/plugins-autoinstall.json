@@ -1,0 +1,27 @@
+[
+  {
+    "name": "TurkceRepoAutoInstaller",
+    "internalName": "TurkceRepoAutoInstaller",
+    "version": 2,
+    "description": "CloudStream Türkçe Deposu Otomatik Kurucu ve Eklenti Yöneticisi",
+    "authors": [
+      "crysisdaye",
+      "sanjarkola-collab"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "language": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+    ],
+    "fileSize": 65520,
+    "fileHash": "sha256-400473b48624b407722240fe811a5e2b461c47f774df25c1f480543ad26c6dae",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
+  }
+]
