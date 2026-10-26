@@ -2075,7 +2075,7 @@
   {
     "name": "Sxyprn",
     "internalName": "Sxyprn",
-    "version": 8,
+    "version": 9,
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Sxyprn.cs3",
     "description": "Enjoy the high quality porn videos, upload original content.",
     "authors": [
@@ -2086,8 +2086,8 @@
     ],
     "language": "en",
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sxyprn.com&size=16",
-    "fileSize": 36257,
-    "fileHash": "sha256-6081be6624b181ed97a0dbe0277d54dc7ce94efe0d415abdf58335b04ba7cd34",
+    "fileSize": 36204,
+    "fileHash": "sha256-6046e939bef16eda525fc18a205a93eb40c1c6b17f61075205239a1770b3e369",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
