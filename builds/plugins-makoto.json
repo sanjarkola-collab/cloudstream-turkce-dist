@@ -3,7 +3,7 @@
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "version": 89,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AnimeciX.cs3",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "authors": [
       "kraptor",
@@ -32,7 +32,7 @@
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "version": 25,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaAnimeleri.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AsyaAnimeleri.cs3",
     "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
     "authors": [
       "kraptor"
@@ -58,7 +58,7 @@
     "name": "AsyaFilmIzlesene",
     "internalName": "AsyaFilmIzlesene",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaFilmIzlesene.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AsyaFilmIzlesene.cs3",
     "description": "Hint, Kore Filmleri",
     "authors": [
       "Makoto Tokioki"
@@ -82,7 +82,7 @@
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
     "version": 42,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaWatch.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AsyaWatch.cs3",
     "description": "Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
     "authors": [
       "kerimmkirac"
@@ -107,7 +107,7 @@
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "version": 42,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/BelgeselX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/BelgeselX.cs3",
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "authors": [
       "kraptor",
@@ -134,7 +134,7 @@
     "name": "CanliTV",
     "internalName": "CanliTV",
     "version": 10,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CanliTV.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/CanliTV.cs3",
     "description": "Canlı TV",
     "authors": [
       "Adippe",
@@ -161,7 +161,7 @@
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
     "version": 51,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiveDizi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/CizgiveDizi.cs3",
     "description": "Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
     "authors": [
       "kraptor",
@@ -187,7 +187,7 @@
     "name": "DiziBox",
     "internalName": "DiziBox",
     "version": 38,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBox.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziBox.cs3",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "authors": [
       "kraptor",
@@ -215,7 +215,7 @@
     "name": "InatBox",
     "internalName": "InatBox",
     "version": 59,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBox.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/InatBox.cs3",
     "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
     "authors": [
       "Dr.Octagon"
@@ -243,7 +243,7 @@
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "version": 63,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/JetFilmizle.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/JetFilmizle.cs3",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "authors": [
       "kraptor",
@@ -270,7 +270,7 @@
     "name": "Kanal 7",
     "internalName": "Kanal 7",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Kanal%207.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Kanal%207.cs3",
     "description": "Hint, Pakistan ve Türk dizilerinin adresi",
     "authors": [
       "Makoto Tokioki"
@@ -294,7 +294,7 @@
     "name": "Puhu",
     "internalName": "Puhu",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Puhu.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Puhu.cs3",
     "description": "Puhu",
     "authors": [
       "Makoto Tokioki"
@@ -318,7 +318,7 @@
     "name": "RecTV",
     "internalName": "RecTV",
     "version": 113,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTV.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/RecTV.cs3",
     "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "authors": [
       "Eagle",
@@ -351,7 +351,7 @@
     "name": "SineWix",
     "internalName": "SineWix",
     "version": 33,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SineWix.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SineWix.cs3",
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "authors": [
       "kraptor",
@@ -385,7 +385,7 @@
     "name": "TorrentFilm",
     "internalName": "TorrentFilm",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TorrentFilm.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TorrentFilm.cs3",
     "description": "Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
     "authors": [
       "Makoto Tokioki"
@@ -410,7 +410,7 @@
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "version": 40,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebDramaTurkey.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/WebDramaTurkey.cs3",
     "description": "Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
     "authors": [
       "kraptor",
@@ -437,7 +437,7 @@
     "name": "YerelDiziler",
     "internalName": "YerelDiziler",
     "version": 14,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YerelDiziler.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/YerelDiziler.cs3",
     "description": "Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
     "authors": [
       "Makoto Tokioki"
@@ -461,7 +461,7 @@
     "name": "YerelProgramlar",
     "internalName": "YerelProgramlar",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YerelProgramlar.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/YerelProgramlar.cs3",
     "description": "Yerel programları güncel şekilde bulabilirsiniz",
     "authors": [
       "Makoto Tokioki"

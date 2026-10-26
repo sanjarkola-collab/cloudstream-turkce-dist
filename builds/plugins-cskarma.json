@@ -3,7 +3,7 @@
     "name": "AnimeAV",
     "internalName": "AnimeAV",
     "version": 20,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeAV.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AnimeAV.cs3",
     "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
     "authors": [
       "kraptor",
@@ -28,7 +28,7 @@
     "name": "Animejara",
     "internalName": "Animejara",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Animejara.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Animejara.cs3",
     "description": "Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
     "authors": [
       "ByAyzen"
@@ -53,7 +53,7 @@
     "name": "AnimeWorld",
     "internalName": "AnimeWorld",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeWorld.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AnimeWorld.cs3",
     "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
     "authors": [
       "ByAyzen"
@@ -77,7 +77,7 @@
     "name": "AnimeYTX",
     "internalName": "AnimeYTX",
     "version": 11,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeYTX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AnimeYTX.cs3",
     "description": "Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
     "authors": [
       "ByAyzen"
@@ -101,7 +101,7 @@
     "name": "BasketballReplays",
     "internalName": "BasketballReplays",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/BasketballReplays.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/BasketballReplays.cs3",
     "description": "BA Replay full games online Free . Stream NBA Basketball replays full games. Spoiler Free , No Blackouts. No signup. Free Download High quality video in HD.",
     "authors": [
       "ByAyzen"
@@ -125,7 +125,7 @@
     "name": "DocumentaryArea",
     "internalName": "DocumentaryArea",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DocumentaryArea.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DocumentaryArea.cs3",
     "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
     "authors": [
       "ByAyzen"
@@ -149,7 +149,7 @@
     "name": "DoramasLatinoX",
     "internalName": "DoramasLatinoX",
     "version": 8,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DoramasLatinoX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DoramasLatinoX.cs3",
     "description": "Doramas en Audio Español Latino y Subtitulado.",
     "authors": [
       "ByAyzen"
@@ -173,7 +173,7 @@
     "name": "Dubbindo",
     "internalName": "Dubbindo",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dubbindo.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Dubbindo.cs3",
     "description": "Serial TV Bahasa Indonesia",
     "authors": [
       "ByAyzen"
@@ -197,7 +197,7 @@
     "name": "Esheaq",
     "internalName": "Esheaq",
     "version": 22,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Esheaq.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Esheaq.cs3",
     "description": "قصة عشق الأصلي لأحدث المسلسلات التركية والدراما المترجمة علي قصه عشق ، يمكنك من خلال موقع قصة عشق مشاهدة كل جديد في عالم الدراما التركية",
     "authors": [
       "kraptor"
@@ -222,7 +222,7 @@
     "name": "Flixlatam",
     "internalName": "Flixlatam",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Flixlatam.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Flixlatam.cs3",
     "description": "Mira tus Series, Películas y Animes en Latino Online!",
     "authors": [
       "ByAyzen"
@@ -246,7 +246,7 @@
     "name": "Footballia",
     "internalName": "Footballia",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Footballia.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Footballia.cs3",
     "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
     "authors": [
       "kraptor",
@@ -271,7 +271,7 @@
     "name": "FootReplays",
     "internalName": "FootReplays",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FootReplays.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FootReplays.cs3",
     "description": "FootReplays CloudStream eklentisi.",
     "authors": [
       "ByAyzen"
@@ -295,7 +295,7 @@
     "name": "FullRaces",
     "internalName": "FullRaces",
     "version": 16,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FullRaces.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FullRaces.cs3",
     "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
     "authors": [
       "kraptor123",
@@ -321,7 +321,7 @@
     "name": "Gnulahd",
     "internalName": "Gnulahd",
     "version": 12,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Gnulahd.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Gnulahd.cs3",
     "description": "GnulaHD",
     "authors": [
       "ByAyzen"
@@ -347,7 +347,7 @@
     "name": "Hackstore",
     "internalName": "Hackstore",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Hackstore.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Hackstore.cs3",
     "description": "Descargar peliculas, series y animes en alta calidad de forma rápida y segura. Disfruta de una amplia selección de contenido. ¡Empieza hoy mismo!",
     "authors": [
       "ByAyzen"
@@ -373,7 +373,7 @@
     "name": "Iwatchtheoffice",
     "internalName": "Iwatchtheoffice",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Iwatchtheoffice.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Iwatchtheoffice.cs3",
     "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
     "authors": [
       "ByAyzen"
@@ -397,7 +397,7 @@
     "name": "JPFilms",
     "internalName": "JPFilms",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/JPFilms.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/JPFilms.cs3",
     "description": "Watch online The Yagyu Code: Secret Scrolls on Japanese Classic Movies and TVSeries (https://jp-films.com) with English Subtitle.",
     "authors": [
       "ByAyzen"
@@ -421,7 +421,7 @@
     "name": "KissKH",
     "internalName": "KissKH",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/KissKH.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/KissKH.cs3",
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
     "authors": [
       "kraptor",
@@ -446,7 +446,7 @@
     "name": "Krmzy",
     "internalName": "Krmzy",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Krmzy.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Krmzy.cs3",
     "description": "قرمزي – المنصة رقم #1 لمشاهدة المسلسلات التركية مترجمة الى العربية وبجودة عالية، مع تحديثات يومية للحلقات فور صدورها. مجاني بالكامل وبدون إشتراك.",
     "authors": [
       "kraptor"
@@ -470,7 +470,7 @@
     "name": "Latanime",
     "internalName": "Latanime",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Latanime.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Latanime.cs3",
     "description": "odos los anime con Doblaje Latino/Castellano solo aquí en Latanime. Animes de estreno, subtitulado al español y con Audio Latino o Castellano, Online, HD y gratis. Para descargar por MEGA, Mediafire o Drive sin limites.",
     "authors": [
       "ByAyzen"
@@ -494,7 +494,7 @@
     "name": "LayarKaca",
     "internalName": "LayarKaca",
     "version": 16,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LayarKaca.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/LayarKaca.cs3",
     "description": "Nonton dan download film & series terbaru di LK21. Streaming sub Indo gratis, kualitas HD. Tersedia drama Korea, anime, film barat, dan Asia lengkap!",
     "authors": [
       "kraptor",
@@ -521,7 +521,7 @@
     "name": "Movix",
     "internalName": "Movix",
     "version": 33,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Movix.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Movix.cs3",
     "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
     "authors": [
       "ByAyzen"
@@ -547,7 +547,7 @@
     "name": "Nekokun",
     "internalName": "Nekokun",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Nekokun.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Nekokun.cs3",
     "description": "Nekokun adalah tempat nonton dan streaming animu favoritmu! Di sini tersedia berbagai resolusi untuk kalian download mulai dari 480p, 720p, dan 1080p. Selain bisa download kalian juga langsung bisa streaming dengan lancar dan tanpa lag!",
     "authors": [
       "ByAyzen"
@@ -571,7 +571,7 @@
     "name": "OK",
     "internalName": "OK",
     "version": 9,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/OK.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/OK.cs3",
     "description": "OKRU Videos.",
     "authors": [
       "ByAyzen"
@@ -596,7 +596,7 @@
     "name": "OnShort",
     "internalName": "OnShort",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/OnShort.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/OnShort.cs3",
     "description": "Discover dubbed and subtitled short dramas from multiple platforms and open every available episode on ONShort.",
     "authors": [
       "kraptor"
@@ -620,7 +620,7 @@
     "name": "Sokuja",
     "internalName": "Sokuja",
     "version": 3,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Sokuja.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Sokuja.cs3",
     "description": "SOKUJA menyediakan koleksi anime subtitle Indonesia terlengkap. Nonton streaming dan download anime sub Indo HD gratis, update episode baru setiap hari.",
     "authors": [
       "ByAyzen"
@@ -645,7 +645,7 @@
     "name": "Streamed",
     "internalName": "Streamed",
     "version": 29,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Streamed.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Streamed.cs3",
     "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
     "authors": [
       "kraptor"
@@ -669,7 +669,7 @@
     "name": "Subsplease",
     "internalName": "Subsplease",
     "version": 4,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Subsplease.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Subsplease.cs3",
     "description": "One stop shop for new animes!",
     "authors": [
       "ByAyzen"
@@ -693,7 +693,7 @@
     "name": "Supercartoons",
     "internalName": "Supercartoons",
     "version": 2,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Supercartoons.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Supercartoons.cs3",
     "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "authors": [
       "ByAyzen"
@@ -717,7 +717,7 @@
     "name": "TVGarden",
     "internalName": "TVGarden",
     "version": 11,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TVGarden.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TVGarden.cs3",
     "description": "With TVGarden, you can watch the local and legal channels you are looking for from both domestic and international sources.",
     "authors": [
       "ByAyzen"
@@ -741,7 +741,7 @@
     "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "version": 18,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WatchWrestling.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/WatchWrestling.cs3",
     "description": "Watch WWE | WWE Raw | Smackdown Live",
     "authors": [
       "kraptor"
@@ -765,7 +765,7 @@
     "name": "Wcoflix",
     "internalName": "Wcoflix",
     "version": 10,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Wcoflix.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Wcoflix.cs3",
     "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
     "authors": [
       "ByAyzen",
@@ -791,7 +791,7 @@
     "name": "Yablom",
     "internalName": "Yablom",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Yablom.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Yablom.cs3",
     "description": "French site.",
     "authors": [
       "ByAyzen"
@@ -817,7 +817,7 @@
     "name": "YoTurkish",
     "internalName": "YoTurkish",
     "version": 5,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/YoTurkish.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/YoTurkish.cs3",
     "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
     "authors": [
       "kraptor"

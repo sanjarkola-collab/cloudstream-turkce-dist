@@ -3,6 +3,6 @@
   "description": "Test edilmiş 4 sağlayıcı: Canlı TV (35 kanal) ve Türkçe Dublaj VOD (dahili DoH) + HDFilmCehennemi ve DiziPal (film & dizi).",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins-super.json"
+    "https://cloudstream-turkce-repo.pages.dev/plugins-super.json"
   ]
 }

@@ -3,7 +3,7 @@
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "version": 89,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AnimeciX.cs3",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "authors": [
       "kraptor",
@@ -32,7 +32,7 @@
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "version": 25,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AsyaAnimeleri.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/AsyaAnimeleri.cs3",
     "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
     "authors": [
       "kraptor"
@@ -58,7 +58,7 @@
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "version": 42,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/BelgeselX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/BelgeselX.cs3",
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "authors": [
       "kraptor",
@@ -85,7 +85,7 @@
     "name": "CanliTV",
     "internalName": "CanliTV",
     "version": 10,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CanliTV.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/CanliTV.cs3",
     "description": "Canlı TV",
     "authors": [
       "Adippe",
@@ -112,7 +112,7 @@
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "version": 37,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiMax.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/CizgiMax.cs3",
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "authors": [
       "kraptor",
@@ -138,7 +138,7 @@
     "name": "Ddizi",
     "internalName": "Ddizi",
     "version": 24,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Ddizi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Ddizi.cs3",
     "description": "DDizi.im için Cloudstream eklentisi",
     "authors": [
       "kraptor",
@@ -164,7 +164,7 @@
     "name": "DiziBox",
     "internalName": "DiziBox",
     "version": 38,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBox.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziBox.cs3",
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "authors": [
       "kraptor",
@@ -192,7 +192,7 @@
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "version": 41,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziKorea.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziKorea.cs3",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "authors": [
       "Kerimmkirac",
@@ -220,7 +220,7 @@
     "name": "Dizilla",
     "internalName": "Dizilla",
     "version": 112,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dizilla.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Dizilla.cs3",
     "description": "1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
     "authors": [
       "kraptor",
@@ -246,7 +246,7 @@
     "name": "DiziMom",
     "internalName": "DiziMom",
     "version": 64,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMom.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziMom.cs3",
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "authors": [
       "kraptor",
@@ -272,7 +272,7 @@
     "name": "DiziPal",
     "internalName": "DiziPal",
     "version": 117,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziPal.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziPal.cs3",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "authors": [
       "keyiflerolsun",
@@ -299,7 +299,7 @@
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "version": 111,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziPalOriginal.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziPalOriginal.cs3",
     "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "authors": [
       "keyiflerolsun",
@@ -325,7 +325,7 @@
     "name": "Dizipod",
     "internalName": "Dizipod",
     "version": 13,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Dizipod.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Dizipod.cs3",
     "description": "Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
     "authors": [
       "kraptor",
@@ -354,7 +354,7 @@
     "name": "DiziYou",
     "internalName": "DiziYou",
     "version": 50,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziYou.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziYou.cs3",
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "authors": [
       "ByAyzen"
@@ -379,7 +379,7 @@
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "version": 71,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmMakinesi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FilmMakinesi.cs3",
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "authors": [
       "kraptor",
@@ -407,7 +407,7 @@
     "name": "FilmModu",
     "internalName": "FilmModu",
     "version": 42,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmModu.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FilmModu.cs3",
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "authors": [
       "kraptor"
@@ -432,7 +432,7 @@
     "name": "FullHDFilm",
     "internalName": "FullHDFilm",
     "version": 36,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FullHDFilm.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FullHDFilm.cs3",
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "authors": [
       "keyiflerolsun"
@@ -457,7 +457,7 @@
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "version": 73,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FullHDFilmizlesene.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FullHDFilmizlesene.cs3",
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "authors": [
       "kraptor",
@@ -483,7 +483,7 @@
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "version": 98,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/HDFilmCehennemi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/HDFilmCehennemi.cs3",
     "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
     "authors": [
       "kraptor"
@@ -509,7 +509,7 @@
     "name": "HDFilmDelisi",
     "internalName": "HDFilmDelisi",
     "version": 19,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/HDFilmDelisi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/HDFilmDelisi.cs3",
     "description": "En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
     "authors": [
       "ByAyzen"
@@ -534,7 +534,7 @@
     "name": "InatBox",
     "internalName": "InatBox",
     "version": 59,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBox.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/InatBox.cs3",
     "description": "Güncel sunucu protokolü ve saat eşitleme desteği.",
     "authors": [
       "Dr.Octagon"
@@ -562,7 +562,7 @@
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "version": 63,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/JetFilmizle.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/JetFilmizle.cs3",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "authors": [
       "kraptor",
@@ -589,7 +589,7 @@
     "name": "KultFilmler",
     "internalName": "KultFilmler",
     "version": 32,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/KultFilmler.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/KultFilmler.cs3",
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "authors": [
       "kraptor"
@@ -615,7 +615,7 @@
     "name": "RareFilmm",
     "internalName": "RareFilmm",
     "version": 21,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RareFilmm.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/RareFilmm.cs3",
     "description": "The Cave of Forgotten Films",
     "authors": [
       "ByAyzen"
@@ -640,7 +640,7 @@
     "name": "RecTV",
     "internalName": "RecTV",
     "version": 113,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTV.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/RecTV.cs3",
     "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "authors": [
       "Eagle",
@@ -673,7 +673,7 @@
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "version": 50,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SelcukFlix.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SelcukFlix.cs3",
     "description": "Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "authors": [
       "kerimmkirac"
@@ -699,7 +699,7 @@
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "version": 43,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SetFilmIzle.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SetFilmIzle.cs3",
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "authors": [
       "kraptor",
@@ -726,7 +726,7 @@
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "version": 41,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SezonlukDizi.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SezonlukDizi.cs3",
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "authors": [
       "kraptor",
@@ -752,7 +752,7 @@
     "name": "SinemaCX",
     "internalName": "SinemaCX",
     "version": 36,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SinemaCX.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SinemaCX.cs3",
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "authors": [
       "kraptor"
@@ -777,7 +777,7 @@
     "name": "SineWix",
     "internalName": "SineWix",
     "version": 33,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SineWix.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/SineWix.cs3",
     "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "authors": [
       "kraptor",
@@ -811,7 +811,7 @@
     "name": "TLCtr",
     "internalName": "TLCtr",
     "version": 19,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TLCtr.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TLCtr.cs3",
     "description": "TLC tr",
     "authors": [
       "keyiflerolsun"
@@ -835,7 +835,7 @@
     "name": "TRanimaci",
     "internalName": "TRanimaci",
     "version": 19,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TRanimaci.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TRanimaci.cs3",
     "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "authors": [
       "keyiflerolsun",
@@ -860,7 +860,7 @@
     "name": "TRasyalog",
     "internalName": "TRasyalog",
     "version": 66,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TRasyalog.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TRasyalog.cs3",
     "description": "TRasyalog izleme sitesi.",
     "authors": [
       "keyiflerolsun"
@@ -884,7 +884,7 @@
     "name": "TurkAnime",
     "internalName": "TurkAnime",
     "version": 35,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkAnime.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkAnime.cs3",
     "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
     "authors": [
       "kraptor",
@@ -911,7 +911,7 @@
     "name": "Watch2Movies",
     "internalName": "Watch2Movies",
     "version": 6,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/Watch2Movies.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/Watch2Movies.cs3",
     "description": "Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
     "authors": [
       "keyiflerolsun"
@@ -936,7 +936,7 @@
     "name": "WebdramaTurkey2",
     "internalName": "WebdramaTurkey2",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebdramaTurkey2.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/WebdramaTurkey2.cs3",
     "description": "WebdramaTurkey2 İçerikleri",
     "authors": [
       "patr0n"
@@ -963,7 +963,7 @@
     "name": "WebteIzle",
     "internalName": "WebteIzle",
     "version": 54,
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/WebteIzle.cs3",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/WebteIzle.cs3",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "authors": [
       "kraptor",

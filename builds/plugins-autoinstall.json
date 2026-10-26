@@ -2,7 +2,7 @@
   {
     "name": "TurkceRepoAutoInstaller",
     "internalName": "TurkceRepoAutoInstaller",
-    "version": 2,
+    "version": 3,
     "description": "CloudStream Türkçe Deposu Otomatik Kurucu ve Eklenti Yöneticisi",
     "authors": [
       "crysisdaye",
@@ -20,8 +20,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 65520,
-    "fileHash": "sha256-400473b48624b407722240fe811a5e2b461c47f774df25c1f480543ad26c6dae",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
+    "fileSize": 65475,
+    "fileHash": "sha256-11b479f244f396aa93bf3a5da1be421d70b6fc3b110e3f6a97c88510bfa3181e",
+    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]
