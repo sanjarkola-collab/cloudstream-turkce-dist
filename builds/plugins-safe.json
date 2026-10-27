@@ -22,8 +22,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 45647,
-    "fileHash": "sha256-27baad45c5361b4e1d9fce6018ee8cfca10acf74bdb827c5029fcadd0335e677",
+    "fileSize": 46427,
+    "fileHash": "sha256-e221d476ddcaab0ea64ece7b9cede6fb221d3d974e3d6f5780e58f35ad616879",
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FilmDiziProvider.cs3"
   },
   {
@@ -46,8 +46,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 48494,
-    "fileHash": "sha256-2e8e9913911f5ec533d70b0bb68bc838a06e0f08be625af6d2a860e56cba9b43",
+    "fileSize": 50162,
+    "fileHash": "sha256-f6086b5c5df48286730e2d84337932f94f3e435e06f219c394d5f3a1a2cddd36",
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkDublajVodProvider.cs3"
   },
   {
@@ -70,8 +70,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 57777,
-    "fileHash": "sha256-546e96747c8a05799791050a23e350e5a5911f1b6ae56e87b51cf0dc1ff4763c",
+    "fileSize": 59420,
+    "fileHash": "sha256-f181e2824b91684690f6f5ae9ec1d40b038618298cef13c7058b15bbb7b145e8",
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/LiveIptvProvider.cs3"
   },
   {

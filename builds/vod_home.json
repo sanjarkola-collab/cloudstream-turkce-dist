@@ -36,18 +36,6 @@
     "type": "m3u8"
   },
   {
-    "id": "vod_5385",
-    "title": "Pirates of the Caribbean: Dead Men Tell No Tales (Türkçe Dublaj - 720p)",
-    "rawTitle": "Pirates of the Caribbean: Dead Men Tell No Tales (Türkçe Dublaj - 720p)",
-    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/3247/thumb_cETuD5xEdNYP5Gy87Sz3O7NBHhe.jpg",
-    "group": "4K Filmler",
-    "res": 2160,
-    "url": "https://imgsapi.pro/eDxX8uZYxyZFv0h0HiBlHmBevzhZXjcXGR0gmFjZYPfXFzdZGplNNN",
-    "ref": "https://www.filmmodu.one",
-    "source": "FilmModu",
-    "type": "m3u8"
-  },
-  {
     "id": "vod_5289",
     "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem (Türkçe Dublaj - 1080p)",
     "rawTitle": "Teenage Mutant Ninja Turtles: Mutant Mayhem (Türkçe Dublaj - 1080p)",
@@ -418,30 +406,6 @@
     "type": "video"
   },
   {
-    "id": "vod_5259",
-    "title": "Silber und das Buch der Träume (Türkçe Dublaj - 1080p)",
-    "rawTitle": "Silber und das Buch der Träume (Türkçe Dublaj - 1080p)",
-    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13439/thumb_4097A12Q8G25qDFF4RybXj5Afye.jpg",
-    "group": "4K Filmler",
-    "res": 2160,
-    "url": "https://imgsapi.pro/eDxF07ZX8filRjh1xiBlHmBevzhZXjcXGRlZwN2g7DjdFxcdwR0fQNNNN",
-    "ref": "https://www.filmmodu.one",
-    "source": "FilmModu",
-    "type": "m3u8"
-  },
-  {
-    "id": "vod_5260",
-    "title": "Silber und das Buch der Träume (Türkçe Dublaj - 480p)",
-    "rawTitle": "Silber und das Buch der Träume (Türkçe Dublaj - 480p)",
-    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13439/thumb_4097A12Q8G25qDFF4RybXj5Afye.jpg",
-    "group": "4K Filmler",
-    "res": 2160,
-    "url": "https://imgsapi.pro/eDxF07ZX8filRjh1xiBlHmBevzhZXjcXGRlZwN2g7DjdFxcdwTkZNNN",
-    "ref": "https://www.filmmodu.one",
-    "source": "FilmModu",
-    "type": "m3u8"
-  },
-  {
     "id": "vod_5261",
     "title": "Silber und das Buch der Träume (Türkçe Dublaj - 720p)",
     "rawTitle": "Silber und das Buch der Träume (Türkçe Dublaj - 720p)",
@@ -461,18 +425,6 @@
     "group": "4K Filmler",
     "res": 2160,
     "url": "https://imgsapi.pro/eDxX8vfFZ1Wl8yCmgnedXldXn4jePxcZGLlAYHjZdxcXnbkZwDmNNN",
-    "ref": "https://www.filmmodu.one",
-    "source": "FilmModu",
-    "type": "m3u8"
-  },
-  {
-    "id": "vod_5306",
-    "title": "Those Who Wish Me Dead (Türkçe Dublaj - 1080p)",
-    "rawTitle": "Those Who Wish Me Dead (Türkçe Dublaj - 1080p)",
-    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/10539/thumb_xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
-    "group": "4K Filmler",
-    "res": 2160,
-    "url": "https://imgsapi.pro/eDxX8vfFZ1Wl8yCmgnedXldXn4jePxcZGLlAYHjZdxcXnbkAYNjNNN",
     "ref": "https://www.filmmodu.one",
     "source": "FilmModu",
     "type": "m3u8"
@@ -1492,6 +1444,54 @@
     "group": "Aksiyon Filmler",
     "res": 1080,
     "url": "https://imgsapi.pro/eDxX8wVY8yCmZzfFgIYmfyZmd5WZn4cXGR0fGN1f7DjdPxcdwR0fQNNNN",
+    "ref": "https://www.filmmodu.one",
+    "source": "FilmModu",
+    "type": "m3u8"
+  },
+  {
+    "id": "vod_5266",
+    "title": "Foe (Türkçe Dublaj - 480p)",
+    "rawTitle": "Foe (Türkçe Dublaj - 480p)",
+    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13368/thumb_j5B6TQSYgssYdXjA7kYdTJR0tt2.jpg",
+    "group": "4K Filmler",
+    "res": 2160,
+    "url": "https://imgsapi.pro/eDxF07ZX8filRjh1fiWGRhgXn4jePxcfGNlgGN1ZXbcXnbkfGNNNN",
+    "ref": "https://www.filmmodu.one",
+    "source": "FilmModu",
+    "type": "m3u8"
+  },
+  {
+    "id": "vod_5270",
+    "title": "The Blackening (Türkçe Dublaj - 720p)",
+    "rawTitle": "The Blackening (Türkçe Dublaj - 720p)",
+    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13334/thumb_p0TblwZCNH5vW8ZxZRdBShxpdFb.jpg",
+    "group": "4K Filmler",
+    "res": 2160,
+    "url": "https://imgsapi.pro/eDxX8uZYxyZFv0h0nhbeXcWZnbcXGR0AQpjAwVkdFxcdwR3ZtNN",
+    "ref": "https://www.filmmodu.one",
+    "source": "FilmModu",
+    "type": "m3u8"
+  },
+  {
+    "id": "vod_5279",
+    "title": "İçimdeki Şeytan (Türkçe Dublaj - 720p)",
+    "rawTitle": "İçimdeki Şeytan (Türkçe Dublaj - 720p)",
+    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13320/thumb_73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
+    "group": "4K Filmler",
+    "res": 2160,
+    "url": "https://imgsapi.pro/eDxdlkWmHiBm8iWmRiIl8kYl68cewPfXFxkAQJmZQL3AdxcXnbkAmVNNN",
+    "ref": "https://www.filmmodu.one",
+    "source": "FilmModu",
+    "type": "m3u8"
+  },
+  {
+    "id": "vod_5282",
+    "title": "Haunted Mansion (Türkçe Dublaj - 720p)",
+    "rawTitle": "Haunted Mansion (Türkçe Dublaj - 720p)",
+    "poster": "https://cdn.filmmodu.one/uploads/movie/poster/13302/thumb_e7rZfPuArSqBS94h41mYPLSfbxU.jpg",
+    "group": "4K Filmler",
+    "res": 2160,
+    "url": "https://imgsapi.pro/eDxX8vfFZ1Wl8yCmgnedXldFGThXFxkAYZ0gGNOfbcdmV0ZNN",
     "ref": "https://www.filmmodu.one",
     "source": "FilmModu",
     "type": "m3u8"
