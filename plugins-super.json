@@ -20,7 +20,7 @@
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
     "fileSize": 57125,
-    "fileHash": "sha256-00797aa3d39dd68f405168fe8e2d243c858621edc6d9872421a4544ee92a2c66",
+    "fileHash": "sha256-bd8a17f63065e2183be94a8f048b3039fe877b893119b6c1d332efc059c83e00",
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/LiveIptvProvider.cs3"
   },
   {
@@ -44,7 +44,7 @@
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
     "fileSize": 48112,
-    "fileHash": "sha256-dbb848b5cf70bbb34d0f9e12b8c6847d761df6bf49c506f7bc6333da4e6e7798",
+    "fileHash": "sha256-39565d81b100cef0c6e7f334cc68471d076cb948473374a4c472f9f5fbd125d6",
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkDublajVodProvider.cs3"
   },
   {
