@@ -4698,7 +4698,7 @@
   {
     "name": "TurkHub",
     "internalName": "TurkHub",
-    "version": 99,
+    "version": 100,
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkHub.cs3",
     "description": "TurkHub.",
     "authors": [
@@ -4708,9 +4708,9 @@
       "NSFW"
     ],
     "language": "tr",
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub156.cfd&size=128",
-    "fileSize": 19482,
-    "fileHash": "sha256-2be743b3ca0d22746f5f58902d21d54c37dddb7ea139f54036ba8f38311d6581",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkhub157.cfd&size=128",
+    "fileSize": 19476,
+    "fileHash": "sha256-2993b47ab4dce32bd7226e5cb6123dedfb9146e2bf77b6da6681c5273b051d75",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
@@ -4770,7 +4770,7 @@
   {
     "name": "TurkPorno",
     "internalName": "TurkPorno",
-    "version": 153,
+    "version": 154,
     "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkPorno.cs3",
     "description": "Türk ifşa.",
     "authors": [
@@ -4780,9 +4780,9 @@
       "NSFW"
     ],
     "language": "tr",
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno60.lat&size=128",
-    "fileSize": 37288,
-    "fileHash": "sha256-bb72f6296ce935b4f1313e01dabee87dee8ad6e1ddfcc55a513fff044807bd5e",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turkporno61.lat&size=128",
+    "fileSize": 37282,
+    "fileHash": "sha256-3163451991c83a84d8c668607c0e34864c00e37dc352604f8f7050628c473c34",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
