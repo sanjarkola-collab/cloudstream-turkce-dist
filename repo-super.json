@@ -1,8 +1,8 @@
 {
-  "name": "CloudStream Türkçe (Süper Sağlayıcılar - Dahili DoH & DPI Korumalı)",
-  "description": "Test edilmiş 4 sağlayıcı: Canlı TV (35 kanal) ve Türkçe Dublaj VOD (dahili DoH) + HDFilmCehennemi ve DiziPal (film & dizi).",
+  "name": "CloudStream Türkçe (Süper Sağlayıcılar - Hızlı CDN)",
+  "description": "%100 Türkçe Dublaj VOD, 35 Canlı TV Kanalı ve FilmDizi Sağlayıcıları.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cloudstream-turkce-repo.pages.dev/plugins-super.json"
+    "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins-super.json"
   ]
 }

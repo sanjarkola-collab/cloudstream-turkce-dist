@@ -1,8 +1,8 @@
 {
-  "name": "CloudStream Türkçe Repo (DPI & DoH Korumalı - Tüm Depolar)",
-  "description": "Kraptor Eklenti Tarayıcısı havuzundaki tüm depolar ve dahili DPI/DoH korumalı süper sağlayıcıların (FilmDizi, TurkDublajVOD, LiveIPTV) tek çatı altında toplandığı resmi depo. Sıfır ayar ile doğrudan izleyin.",
+  "name": "CloudStream Türkçe (Süper Sağlayıcılar - Hızlı CDN)",
+  "description": "%100 Türkçe Dublaj VOD, 35 Canlı TV Kanalı ve FilmDizi Sağlayıcıları.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cloudstream-turkce-repo.pages.dev/plugins.json"
+    "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins-super.json"
   ]
 }

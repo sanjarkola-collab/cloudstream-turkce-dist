@@ -1,9 +1,36 @@
 [
   {
+    "name": "FilmDiziProvider",
+    "internalName": "FilmDiziProvider",
+    "version": 5,
+    "description": "DPI & SNI Korumalı, DoH Destekli Türkçe Dublaj Öncelikli Film ve Dizi Sağlayıcısı",
+    "authors": [
+      "crysisdaye"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "language": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+    "status": 1,
+    "apiVersion": 1,
+    "requiresVpn": false,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "sourceRepos": [
+      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+    ],
+    "fileSize": 59167,
+    "fileHash": "sha256-8a35f2e6f3d23adfa9f5ff9cbbc41a70481565e401ac9770bc7a87ff3856141a",
+    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/FilmDiziProvider.cs3"
+  },
+  {
     "name": "LiveIptvProvider",
     "internalName": "LiveIptvProvider",
-    "version": 4,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | Canlı TV & Spor] Ulusal kanallar, spor yayınları, sinema, belgesel ve haber kanalları. Kesintisiz HLS akışı.",
+    "version": 6,
+    "description": "[CanliTv | 35 Ulusal Kanal | Yedekli HLS] Kesintisiz Spor (BeIN, Tivibu, S Sport, Exxen), Ulusal, Sinema, Belgesel ve Haber. Resmi CDN, Vavoo ve Kral-Türk çoklu kaynak desteği.",
     "authors": [
       "crysisdaye"
     ],
@@ -19,15 +46,15 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 59420,
-    "fileHash": "sha256-f181e2824b91684690f6f5ae9ec1d40b038618298cef13c7058b15bbb7b145e8",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/LiveIptvProvider.cs3"
+    "fileSize": 68535,
+    "fileHash": "sha256-5fa00d3f89445065b73965e81350f757aea2dfd77e6fae5b8814d386526d858c",
+    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
     "internalName": "TurkDublajVodProvider",
-    "version": 4,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | %100 TR Dublaj VOD] 4.870+ Yerli seslendirmeli film arşivi (FilmModu, Jetfilm, FilmMakinesi). Sıfır reklam, takılmasız anında oynatma.",
+    "version": 6,
+    "description": "[%100 Türkçe Dublaj | 9.500+ Film] Sıfır torrent, sıfır reklam, sıfır altyazı. Jetfilmizle & FilmModu doğrudan 4K/1080p kesintisiz HLS/MP4 akışı.",
     "authors": [
       "crysisdaye"
     ],
@@ -43,61 +70,33 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 50162,
-    "fileHash": "sha256-f6086b5c5df48286730e2d84337932f94f3e435e06f219c394d5f3a1a2cddd36",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkDublajVodProvider.cs3"
+    "fileSize": 60163,
+    "fileHash": "sha256-7793265ce901429c51d679decc01172c6fe1deec04a682bea1306fe8ea572d37",
+    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/TurkDublajVodProvider.cs3"
   },
   {
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "version": 98,
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/HDFilmCehennemi.cs3",
-    "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
+    "name": "TurkceRepoAutoInstaller",
+    "internalName": "TurkceRepoAutoInstaller",
+    "version": 5,
+    "description": "CloudStream Türkçe Deposu: Canlı TV ve Türkçe Dublaj VOD sağlayıcıları tek pakette",
     "authors": [
-      "kraptor"
+      "crysisdaye"
     ],
     "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
-    "fileSize": 77593,
-    "fileHash": "sha256-492bf8eba011c88ba7f3ac57405f3cb84bb9ca5ffd687216e5c837b1650f3d4c",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
-    "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx"
-    ]
-  },
-  {
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "version": 117,
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/DiziPal.cs3",
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "tvTypes": [
-      "TvSeries",
+      "Live",
       "Movie"
     ],
     "language": "tr",
-    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
-    "fileSize": 31184,
-    "fileHash": "sha256-7d232b38b3d8513dbc16fa6b856e839a397cf1b3d4d0ae70b4112db127ecdb2f",
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
     "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
     "sourceRepos": [
-      "CS-Kraptor",
-      "Feroxx"
-    ]
+      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
+    ],
+    "fileSize": 95304,
+    "fileHash": "sha256-6a57ce3270ad097f43f99ccaf6439fe8d1d1d779ed5718362d6b77c9d969abb6",
+    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]
