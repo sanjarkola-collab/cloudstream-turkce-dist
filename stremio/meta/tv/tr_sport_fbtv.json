@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "tr_sport_fbtv",
+    "name": "FB TV HD",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fenerbah%C3%A7e_TV_logo.svg/512px-Fenerbah%C3%A7e_TV_logo.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fenerbah%C3%A7e_TV_logo.svg/512px-Fenerbah%C3%A7e_TV_logo.svg.png",
+    "genres": [
+      "Spor",
+      "Kulüp TV"
+    ],
+    "description": "Fenerbahçe TV Canlı Yayın HD"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_tv_now",
+    "name": "NOW TV HD (FOX)",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_Turkey_logo.svg/512px-NOW_Turkey_logo.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_Turkey_logo.svg/512px-NOW_Turkey_logo.svg.png",
+    "genres": [
+      "Ulusal",
+      "Haber",
+      "Dizi"
+    ],
+    "description": "NOW TV Canlı Yayın HD"
+  }
+}

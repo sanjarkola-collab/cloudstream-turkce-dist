@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚽ Canlı Maç / Spor",
+      "title": "🇹🇷 GS TV (YouTube HD) (1080p HD Canlı)\n⚡ Donmasız Resmi HLS",
+      "url": "https://www.youtube.com/watch?v=live_stream",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

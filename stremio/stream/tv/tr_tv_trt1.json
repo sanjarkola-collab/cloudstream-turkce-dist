@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚡ HD Canlı Akış",
+      "title": "🇹🇷 TRT 1 HD (1080p Canlı HLS)\nDonmasız Resmi CDN",
+      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

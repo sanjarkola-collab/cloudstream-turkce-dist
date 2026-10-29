@@ -1,0 +1,79 @@
+{
+  "id": "community.turkce.masterhub",
+  "version": "2.0.0",
+  "name": "🇹🇷 Türkçe Master Hub (Film, Dizi, Canlı TV & Spor)",
+  "description": "CloudStream Türkçe ekosistemindeki tüm kaynakları (HDFilmCehennemi, DiziBox, SezonlukDizi, Canlı TV, Maç Kanalları & AnimeciX) Stremio'da birleştiren hepsi bir arada topluluk eklentisi.",
+  "logo": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+  "background": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1280",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "tv",
+    "anime"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tr_tv_",
+    "tr_sport_",
+    "kitsu:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "turkce_populer_filmler",
+      "name": "🇹🇷 Türkçe Dublaj Filmler",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "turkce_canli_kanallar",
+      "name": "📺 Türkiye Canlı TV Kanalları",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "turkce_spor_kanallari",
+      "name": "⚽ Canlı Maç & Spor Kanalları",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "turkce_populer_animeler",
+      "name": "🎌 Türkçe Altyazılı Animeler",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

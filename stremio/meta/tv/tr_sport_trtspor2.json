@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_sport_trtspor2",
+    "name": "TRT Spor Yıldız HD",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg/512px-TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg/512px-TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg.png",
+    "genres": [
+      "Spor",
+      "Voleybol",
+      "Basketbol"
+    ],
+    "description": "TRT Spor Yıldız HD - Filenin Sultanları, Voleybol, Atletizm"
+  }
+}

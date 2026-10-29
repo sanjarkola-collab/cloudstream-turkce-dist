@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚡ HD Canlı Akış",
+      "title": "🇹🇷 CNN Türk HD (1080p Canlı HLS)\nDonmasız Resmi CDN",
+      "url": "https://demiroren-live.ercdn.net/cnnturk/cnnturk.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

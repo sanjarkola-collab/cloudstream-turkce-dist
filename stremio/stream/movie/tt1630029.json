@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "name": "🇹🇷 HDFilmCehennemi",
+      "title": "[TR Dublaj] Avatar: The Way of Water - 1080p Full HD\n⚡ Hızlı CDN | Çift Ses",
+      "url": "https://www.hdfilmcehennemi.nl/search?q=Avatar%3A%20The%20Way%20of%20Water",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "🇹🇷 DiziBox / FilmModu",
+      "title": "[TR Altyazı] Avatar: The Way of Water - 1080p\n⚡ Orijinal Ses + Türkçe Altyazı",
+      "url": "https://filmmodu.nl/ara?q=Avatar%3A%20The%20Way%20of%20Water",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

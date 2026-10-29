@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚽ Canlı Maç / Spor",
+      "title": "🇹🇷 FB TV HD (1080p HD Canlı)\n⚡ Donmasız Resmi HLS",
+      "url": "https://trkvz-live.ercdn.net/fbtv/fbtv.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

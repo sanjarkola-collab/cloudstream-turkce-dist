@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_tv_showtv",
+    "name": "Show TV HD",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Show_TV_logo.svg/512px-Show_TV_logo.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Show_TV_logo.svg/512px-Show_TV_logo.svg.png",
+    "genres": [
+      "Ulusal",
+      "Dizi",
+      "Eğlence"
+    ],
+    "description": "Show TV Canlı Yayın HD"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "tr_sport_bjk_tv",
+    "name": "BJK TV (YouTube HD)",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Be%C5%9Fikta%C5%9F_JK.svg/512px-Be%C5%9Fikta%C5%9F_JK.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Be%C5%9Fikta%C5%9F_JK.svg/512px-Be%C5%9Fikta%C5%9F_JK.svg.png",
+    "genres": [
+      "Spor",
+      "Kulüp TV"
+    ],
+    "description": "Beşiktaş TV Canlı Yayın"
+  }
+}

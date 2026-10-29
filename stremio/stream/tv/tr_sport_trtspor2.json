@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚽ Canlı Maç / Spor",
+      "title": "🇹🇷 TRT Spor Yıldız HD (1080p HD Canlı)\n⚡ Donmasız Resmi HLS",
+      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

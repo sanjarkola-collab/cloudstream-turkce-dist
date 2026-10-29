@@ -1,0 +1,85 @@
+{
+  "metas": [
+    {
+      "id": "tr_sport_trtspor",
+      "name": "TRT Spor HD",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TRT_Spor_logo_2021.svg/512px-TRT_Spor_logo_2021.svg.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TRT_Spor_logo_2021.svg/512px-TRT_Spor_logo_2021.svg.png",
+      "genres": [
+        "Spor",
+        "Futbol",
+        "Milli Maçlar"
+      ],
+      "description": "TRT Spor HD - Milli Maçlar, Trendyol 1. Lig, Avrupa Kupaları"
+    },
+    {
+      "id": "tr_sport_trtspor2",
+      "name": "TRT Spor Yıldız HD",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg/512px-TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg/512px-TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg.png",
+      "genres": [
+        "Spor",
+        "Voleybol",
+        "Basketbol"
+      ],
+      "description": "TRT Spor Yıldız HD - Filenin Sultanları, Voleybol, Atletizm"
+    },
+    {
+      "id": "tr_sport_aspor",
+      "name": "A Spor HD",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+      "genres": [
+        "Spor",
+        "Ziraat Türkiye Kupası",
+        "Futbol"
+      ],
+      "description": "A Spor Canlı HD - Ziraat Türkiye Kupası Maçları & Spor Programları"
+    },
+    {
+      "id": "tr_sport_fbtv",
+      "name": "FB TV HD",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fenerbah%C3%A7e_TV_logo.svg/512px-Fenerbah%C3%A7e_TV_logo.svg.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fenerbah%C3%A7e_TV_logo.svg/512px-Fenerbah%C3%A7e_TV_logo.svg.png",
+      "genres": [
+        "Spor",
+        "Kulüp TV"
+      ],
+      "description": "Fenerbahçe TV Canlı Yayın HD"
+    },
+    {
+      "id": "tr_sport_gs_tv",
+      "name": "GS TV (YouTube HD)",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/512px-Galatasaray_Sports_Club_Logo.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/512px-Galatasaray_Sports_Club_Logo.png",
+      "genres": [
+        "Spor",
+        "Kulüp TV"
+      ],
+      "description": "Galatasaray TV Canlı Yayın"
+    },
+    {
+      "id": "tr_sport_bjk_tv",
+      "name": "BJK TV (YouTube HD)",
+      "type": "tv",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Be%C5%9Fikta%C5%9F_JK.svg/512px-Be%C5%9Fikta%C5%9F_JK.svg.png",
+      "posterShape": "square",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Be%C5%9Fikta%C5%9F_JK.svg/512px-Be%C5%9Fikta%C5%9F_JK.svg.png",
+      "genres": [
+        "Spor",
+        "Kulüp TV"
+      ],
+      "description": "Beşiktaş TV Canlı Yayın"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_sport_aspor",
+    "name": "A Spor HD",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+    "genres": [
+      "Spor",
+      "Ziraat Türkiye Kupası",
+      "Futbol"
+    ],
+    "description": "A Spor Canlı HD - Ziraat Türkiye Kupası Maçları & Spor Programları"
+  }
+}

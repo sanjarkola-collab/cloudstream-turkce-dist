@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⚡ HD Canlı Akış",
+      "title": "🇹🇷 Star TV HD (1080p Canlı HLS)\nDonmasız Resmi CDN",
+      "url": "https://dogus-live.ercdn.net/startv/startv.m3u8",
+      "behaviorHints": {
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_tv_trt1",
+    "name": "TRT 1 HD",
+    "type": "tv",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo_2021.svg/512px-TRT_1_logo_2021.svg.png",
+    "posterShape": "square",
+    "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo_2021.svg/512px-TRT_1_logo_2021.svg.png",
+    "genres": [
+      "Ulusal",
+      "Genel",
+      "Dizi"
+    ],
+    "description": "TRT 1 Canlı Yayın - Resmi HD Akışı"
+  }
+}
