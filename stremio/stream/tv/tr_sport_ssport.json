@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Taraftarium24",
+      "title": "S Sport HD [1080p Full HD]",
+      "url": "https://css.d6e3cae2e245k5.help//beintv/tracks-v1a1/mono.m3u8",
+      "headers": {
+        "Referer": "https://taraftarium24-245.top/"
+      },
+      "behaviorHints": {
+        "isLive": true
+      }
+    },
+    {
+      "name": "⚡ SelcukSports",
+      "title": "S Sport HD [1080p Full HD]",
+      "url": "https://css.d6e3cae2e245k5.help//hls/bein1.m3u8",
+      "headers": {
+        "Referer": "https://selcuksporkral1.cc"
+      },
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

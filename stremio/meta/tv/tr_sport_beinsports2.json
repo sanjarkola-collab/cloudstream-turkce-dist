@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tr_sport_beinsports2",
+    "name": "BeIN Sports 2 HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports2.png",
+    "posterShape": "square",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports2.png",
+    "genres": [
+      "Spor",
+      "Süper Lig",
+      "Fransa Ligue 1"
+    ],
+    "description": "BeIN Sports 2 HD — Süper Lig & Avrupa Ligleri"
+  }
+}

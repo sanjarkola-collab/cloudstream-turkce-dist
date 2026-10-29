@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tr_sport_ssport",
+    "name": "S Sport HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+    "posterShape": "square",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+    "genres": [
+      "Spor",
+      "La Liga",
+      "Serie A",
+      "EuroLeague"
+    ],
+    "description": "S Sport HD — İspanya La Liga, İtalya Serie A, EuroLeague"
+  }
+}

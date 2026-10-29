@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Taraftarium24",
+      "title": "BeIN Sports 1 HD [1080p Full HD]\n⚡ Taraftarium Hızlı Akış",
+      "url": "https://css.d6e3cae2e245k5.help//beintv/tracks-v1a1/mono.m3u8",
+      "headers": {
+        "Referer": "https://taraftarium24-245.top/",
+        "Origin": "https://taraftarium24-245.top/"
+      },
+      "behaviorHints": {
+        "isLive": true
+      }
+    },
+    {
+      "name": "⚡ SelcukSports",
+      "title": "BeIN Sports 1 HD [1080p Full HD]\n⚡ SelcukSports Yedek",
+      "url": "https://css.d6e3cae2e245k5.help//hls/bein1.m3u8",
+      "headers": {
+        "Referer": "https://selcuksporkral1.cc",
+        "Origin": "https://selcuksporkral1.cc"
+      },
+      "behaviorHints": {
+        "isLive": true
+      }
+    },
+    {
+      "name": "⚡ AlemdarSport",
+      "title": "BeIN Sports 1 HD [1080p FHD]\n⚡ Alternatif CDN",
+      "url": "https://alemdar.e56334ad5bbbc0ca4c80f717246c2500.cfd/mdalemdar/bein1/index.m3u8",
+      "headers": {
+        "Referer": "https://alemdarsport.cfd",
+        "Origin": "https://alemdarsport.cfd"
+      },
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

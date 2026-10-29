@@ -1,11 +1,11 @@
 {
   "streams": [
     {
-      "name": "⚽ Canlı Maç / Spor",
-      "title": "🇹🇷 TRT Spor HD (1080p HD Canlı)\n⚡ Donmasız Resmi HLS",
+      "name": "⚡ Resmi HD",
+      "title": "TRT Spor HD (1080p Donmasız Resmi CDN)",
       "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
       "behaviorHints": {
-        "notWebReady": false
+        "isLive": true
       }
     }
   ]

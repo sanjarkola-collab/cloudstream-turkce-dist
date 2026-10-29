@@ -1,0 +1,46 @@
+{
+  "metas": [
+    {
+      "id": "kitsu:12",
+      "name": "One Piece (Türkçe Altyazılı)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/12/medium.jpg",
+      "description": "1080p Türkçe Altyazılı Tüm Bölümler"
+    },
+    {
+      "id": "kitsu:11",
+      "name": "Naruto (Türkçe Altyazılı)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/11/medium.jpg",
+      "description": "Full HD Türkçe Altyazılı"
+    },
+    {
+      "id": "kitsu:7442",
+      "name": "Attack on Titan (Shingeki no Kyojin)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/7442/medium.jpg",
+      "description": "1080p Türkçe Altyazılı & Dublaj"
+    },
+    {
+      "id": "kitsu:41370",
+      "name": "Jujutsu Kaisen",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/41370/medium.jpg",
+      "description": "1080p Türkçe Altyazılı"
+    },
+    {
+      "id": "kitsu:40064",
+      "name": "Demon Slayer (Kimetsu no Yaiba)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/40064/medium.jpg",
+      "description": "1080p Türkçe Altyazılı"
+    },
+    {
+      "id": "kitsu:86",
+      "name": "Death Note (Türkçe Dublaj & Altyazılı)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/86/medium.jpg",
+      "description": "Tüm Bölümler Türkçe Dublaj & Altyazılı"
+    }
+  ]
+}
