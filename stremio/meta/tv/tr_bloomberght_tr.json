@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_bloomberght_tr",
+    "name": "Bloomberg HT HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Bloomberg HT Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

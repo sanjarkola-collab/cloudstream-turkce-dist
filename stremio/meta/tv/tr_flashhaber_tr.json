@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_flashhaber_tr",
+    "name": "Flash Haber HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Flash Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

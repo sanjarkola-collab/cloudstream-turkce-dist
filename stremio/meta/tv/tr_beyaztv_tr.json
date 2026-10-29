@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_beyaztv_tr",
+    "name": "Beyaz TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
+    "genres": [
+      "ULUSAL KANALLAR"
+    ],
+    "description": "Beyaz TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

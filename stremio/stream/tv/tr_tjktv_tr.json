@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 TJK TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 TJK TV HD [Yedek Akış 720p]",
+      "url": "http://tjktv.ercdn.net/tjktv.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

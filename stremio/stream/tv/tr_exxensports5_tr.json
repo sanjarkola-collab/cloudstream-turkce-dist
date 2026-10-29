@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 Exxen Sports 5 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn5.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

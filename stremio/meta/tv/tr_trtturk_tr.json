@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_trtturk_tr",
+    "name": "TRT Türk HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+    "genres": [
+      "ULUSAL KANALLAR"
+    ],
+    "description": "TRT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 Show Max HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

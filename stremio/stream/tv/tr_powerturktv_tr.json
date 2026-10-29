@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 PowerTürk TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 PowerTürk TV HD [Yedek Akış 720p]",
+      "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 HT Spor HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

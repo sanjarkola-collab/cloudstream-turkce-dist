@@ -2,10 +2,11 @@
   {
     "name": "FilmDiziProvider",
     "internalName": "FilmDiziProvider",
-    "version": 5,
-    "description": "DPI & SNI Korumalı, DoH Destekli Türkçe Dublaj Öncelikli Film ve Dizi Sağlayıcısı",
+    "version": 6,
+    "description": "[FilmDizi | Türkçe Dublaj & Altyazı] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumalı Türkçe film ve dizi sağlayıcısı",
     "authors": [
-      "crysisdaye"
+      "crysisdaye",
+      "Kraptor"
     ],
     "tvTypes": [
       "Movie",
@@ -22,17 +23,18 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 59167,
-    "fileHash": "sha256-8a35f2e6f3d23adfa9f5ff9cbbc41a70481565e401ac9770bc7a87ff3856141a",
-    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/FilmDiziProvider.cs3"
+    "fileSize": 59163,
+    "fileHash": "sha256-5aceeef346a51cdb2390cc7eabee8f93639e03b13dc66b9feefdbc087cb613a7",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/FilmDiziProvider.cs3"
   },
   {
     "name": "LiveIptvProvider",
     "internalName": "LiveIptvProvider",
-    "version": 6,
-    "description": "[CanliTv | 35 Ulusal Kanal | Yedekli HLS] Kesintisiz Spor (BeIN, Tivibu, S Sport, Exxen), Ulusal, Sinema, Belgesel ve Haber. Resmi CDN, Vavoo ve Kral-Türk çoklu kaynak desteği.",
+    "version": 7,
+    "description": "[CanliTv | 129 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli HLS akışı.",
     "authors": [
-      "crysisdaye"
+      "crysisdaye",
+      "Kraptor"
     ],
     "tvTypes": [
       "Live"
@@ -46,17 +48,18 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 68535,
-    "fileHash": "sha256-5fa00d3f89445065b73965e81350f757aea2dfd77e6fae5b8814d386526d858c",
-    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/LiveIptvProvider.cs3"
+    "fileSize": 74122,
+    "fileHash": "sha256-dfcaaefdb84305650bcd1c0bcbd875f609bcd3b8e31a2c566447620bee2c07c2",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
     "internalName": "TurkDublajVodProvider",
-    "version": 6,
-    "description": "[%100 Türkçe Dublaj | 9.500+ Film] Sıfır torrent, sıfır reklam, sıfır altyazı. Jetfilmizle & FilmModu doğrudan 4K/1080p kesintisiz HLS/MP4 akışı.",
+    "version": 7,
+    "description": "[%100 Türkçe Dublaj | 4.870+ Film] Sıfır torrent, sıfır reklam, %100 Türkçe seslendirme. FilmModu & Jetfilmizle doğrudan 4K/1080p kesintisiz HLS akışı.",
     "authors": [
-      "crysisdaye"
+      "crysisdaye",
+      "Kraptor"
     ],
     "tvTypes": [
       "Movie"
@@ -70,17 +73,18 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 60163,
-    "fileHash": "sha256-7793265ce901429c51d679decc01172c6fe1deec04a682bea1306fe8ea572d37",
-    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/TurkDublajVodProvider.cs3"
+    "fileSize": 60159,
+    "fileHash": "sha256-9e13916bd53f99fb6f25e2fbb5a9e9afcc3bd149a638b77549007f9e2aa2c12b",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkDublajVodProvider.cs3"
   },
   {
     "name": "TurkceRepoAutoInstaller",
     "internalName": "TurkceRepoAutoInstaller",
-    "version": 5,
-    "description": "CloudStream Türkçe Deposu: Canlı TV ve Türkçe Dublaj VOD sağlayıcıları tek pakette",
+    "version": 6,
+    "description": "CloudStream Türkçe Deposu: Canlı TV, Türkçe Dublaj VOD ve Film/Dizi sağlayıcıları tek pakette.",
     "authors": [
-      "crysisdaye"
+      "crysisdaye",
+      "Kraptor"
     ],
     "tvTypes": [
       "Live",
@@ -95,8 +99,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 95304,
-    "fileHash": "sha256-6a57ce3270ad097f43f99ccaf6439fe8d1d1d779ed5718362d6b77c9d969abb6",
-    "url": "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins/TurkceRepoAutoInstaller.cs3"
+    "fileSize": 101135,
+    "fileHash": "sha256-442d8f83b26c7e2e03234b1af6adfccafb057ecc8dbbe40346351d424d59f4d6",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]

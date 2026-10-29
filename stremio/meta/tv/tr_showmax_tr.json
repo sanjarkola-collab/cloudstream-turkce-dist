@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_showmax_tr",
+    "name": "Show Max HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
+    "genres": [
+      "MÜZİK & EĞLENCE"
+    ],
+    "description": "Show Max Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 TGRT Haber HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 TGRT Haber HD [Yedek Akış 720p]",
+      "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_smartspor1_tr",
+    "name": "Smart Spor 1 HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "Smart Spor 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

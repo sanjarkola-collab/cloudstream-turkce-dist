@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_haberturk_tr",
+    "name": "Habertürk HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Habertürk Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_trtebalise_tr",
+    "name": "TRT EBA Lise HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
+    "genres": [
+      "BELGESEL & ÇOCUK"
+    ],
+    "description": "TRT EBA Lise Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

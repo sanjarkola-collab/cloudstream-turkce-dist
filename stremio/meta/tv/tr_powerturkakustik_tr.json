@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_powerturkakustik_tr",
+    "name": "Powertürk Akustik HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "genres": [
+      "MÜZİK & EĞLENCE"
+    ],
+    "description": "Powertürk Akustik Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

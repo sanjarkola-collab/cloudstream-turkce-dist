@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_number1tv_tr",
+    "name": "Number 1 TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "genres": [
+      "MÜZİK & EĞLENCE"
+    ],
+    "description": "Number 1 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

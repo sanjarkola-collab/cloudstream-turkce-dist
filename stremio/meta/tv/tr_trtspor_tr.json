@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_trtspor_tr",
+    "name": "TRT Spor HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "TRT Spor Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

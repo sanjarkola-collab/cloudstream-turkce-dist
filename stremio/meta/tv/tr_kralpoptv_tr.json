@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_kralpoptv_tr",
+    "name": "Kral Pop TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+    "genres": [
+      "MÜZİK & EĞLENCE"
+    ],
+    "description": "Kral Pop TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

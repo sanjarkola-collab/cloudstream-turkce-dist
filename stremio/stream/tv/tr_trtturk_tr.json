@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 TRT Türk HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 TRT Türk HD [Yedek Akış 720p]",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5a855fe82d8c3.smil/playlist.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

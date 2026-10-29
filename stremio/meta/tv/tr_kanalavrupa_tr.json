@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_kanalavrupa_tr",
+    "name": "Kanal Avrupa HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+    "genres": [
+      "ULUSAL KANALLAR"
+    ],
+    "description": "Kanal Avrupa Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

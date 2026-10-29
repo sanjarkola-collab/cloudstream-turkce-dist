@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_beinsports5_tr",
+    "name": "BeIN Sports 5 HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "BeIN Sports 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

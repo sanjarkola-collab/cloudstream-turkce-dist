@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 Power Dance HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 Power Dance HD [Yedek Akış 720p]",
+      "url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_tvnet_tr",
+    "name": "TVNET HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "TVNET Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

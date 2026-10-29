@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_kanal24_tr",
+    "name": "24 TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "24 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_htspor_tr",
+    "name": "HT Spor HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/htspor.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/htspor.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "HT Spor Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

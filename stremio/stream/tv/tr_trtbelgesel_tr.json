@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "⚡ Resmi Medya CDN",
+      "title": "🇹🇷 TRT Belgesel HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Alternatif Akış",
+      "title": "🇹🇷 TRT Belgesel HD [Yedek Akış 720p]",
+      "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    }
+  ]
+}

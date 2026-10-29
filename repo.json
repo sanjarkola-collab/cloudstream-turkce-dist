@@ -1,8 +1,8 @@
 {
-  "name": "CloudStream Türkçe (Süper Sağlayıcılar - Hızlı CDN)",
-  "description": "%100 Türkçe Dublaj VOD, 35 Canlı TV Kanalı ve FilmDizi Sağlayıcıları.",
+  "name": "CloudStream Türkçe Eklentileri",
+  "description": "DPI & DoH Korumalı %100 Saf Kotlin Türkçe Canlı TV, Dublaj VOD ve Film/Dizi Sağlayıcıları",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cdn.jsdelivr.net/gh/sanjarkola-collab/cloudstream-turkce-dist@main/plugins-super.json"
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins.json"
   ]
 }

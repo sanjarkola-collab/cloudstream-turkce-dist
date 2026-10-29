@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_tgrthaber_tr",
+    "name": "TGRT Haber HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "TGRT Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

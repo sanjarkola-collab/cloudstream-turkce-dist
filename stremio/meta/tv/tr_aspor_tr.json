@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_aspor_tr",
+    "name": "A Spor HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "A Spor Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_trtworld_tr",
+    "name": "TRT World HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtworld.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtworld.png",
+    "genres": [
+      "ULUSAL KANALLAR"
+    ],
+    "description": "TRT World Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

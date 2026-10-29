@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_trtcocuk_tr",
+    "name": "TRT Çocuk HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+    "genres": [
+      "BELGESEL & ÇOCUK"
+    ],
+    "description": "TRT Çocuk Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_benguturk_tr",
+    "name": "Bengü Türk HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Bengü Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

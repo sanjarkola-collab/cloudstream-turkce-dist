@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_tv8_tr",
+    "name": "TV8 HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
+    "genres": [
+      "ULUSAL KANALLAR"
+    ],
+    "description": "TV8 Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_finansturk_tr",
+    "name": "Finans Türk HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Finans Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

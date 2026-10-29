@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_exxentv_tr",
+    "name": "Exxen TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "genres": [
+      "SPOR KANALLARI"
+    ],
+    "description": "Exxen TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

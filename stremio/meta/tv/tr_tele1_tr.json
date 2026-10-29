@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_tele1_tr",
+    "name": "Tele 1 HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Tele 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

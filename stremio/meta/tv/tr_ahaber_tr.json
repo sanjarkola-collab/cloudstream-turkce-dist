@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_ahaber_tr",
+    "name": "A Haber HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "A Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

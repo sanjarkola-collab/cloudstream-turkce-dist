@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_halktv_tr",
+    "name": "Halk TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Halk TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_akittv_tr",
+    "name": "Akit TV HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+    "genres": [
+      "HABER KANALLARI"
+    ],
+    "description": "Akit TV Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}

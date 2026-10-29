@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "tr_powerdance_tr",
+    "name": "Power Dance HD",
+    "type": "tv",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+    "posterShape": "square",
+    "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+    "genres": [
+      "MÜZİK & EĞLENCE"
+    ],
+    "description": "Power Dance Canlı Yayın - Resmi Türkçe HD Akışı"
+  }
+}
