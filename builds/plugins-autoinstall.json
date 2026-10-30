@@ -2,8 +2,8 @@
   {
     "name": "TurkceRepoAutoInstaller",
     "internalName": "TurkceRepoAutoInstaller",
-    "version": 3,
-    "description": "CloudStream Türkçe Deposu Otomatik Kurucu ve Eklenti Yöneticisi",
+    "version": 7,
+    "description": "CloudStream Türkçe Deposu: Canlı TV, Türkçe Dublaj VOD ve Film/Dizi sağlayıcıları tek pakette.",
     "authors": [
       "crysisdaye",
       "sanjarkola-collab"
@@ -16,12 +16,12 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 72016,
-    "fileHash": "sha256-4b8ebc669349956acf7f4729691f49ea7226b2e7040dab61a3b5a6e7c831642b",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkceRepoAutoInstaller.cs3"
+    "fileSize": 110708,
+    "fileHash": "sha256-8bcfdaa626996d87d27265e00bb58c608659af6f4544fa5ec04be2615dc742da",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]

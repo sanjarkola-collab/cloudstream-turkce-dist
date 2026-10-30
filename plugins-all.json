@@ -2,8 +2,8 @@
   {
     "name": "FilmDiziProvider",
     "internalName": "FilmDiziProvider",
-    "version": 3,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | Sıfır Ayar] DiziPal, HDFilmCehennemi, FullHDFilm, DiziBox, Dizilla, FilmModu, SetFilmIzle, SezonlukDizi, RecTV, InatBox tek çatıda. CloudStream'de hiçbir DNS veya DoH ayarı yapmanıza gerek kalmadan doğrudan sansürsüz açar.",
+    "version": 7,
+    "description": "[FilmDizi | Türkçe Dublaj & Altyazı] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumalı Türkçe film ve dizi sağlayıcısı",
     "authors": [
       "crysisdaye"
     ],
@@ -22,15 +22,15 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 46427,
-    "fileHash": "sha256-e221d476ddcaab0ea64ece7b9cede6fb221d3d974e3d6f5780e58f35ad616879",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/FilmDiziProvider.cs3"
+    "fileSize": 67641,
+    "fileHash": "sha256-3a04d0af166969b9d62b2956d0b6353621e7c8eef82b884dea9c29b67a2e75b0",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
     "internalName": "TurkDublajVodProvider",
-    "version": 4,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | %100 TR Dublaj VOD] 4.870+ Yerli seslendirmeli film arşivi (FilmModu, Jetfilm, FilmMakinesi). Sıfır reklam, takılmasız anında oynatma.",
+    "version": 8,
+    "description": "[%100 Türkçe Dublaj | 4.870+ Film] Sıfır torrent, sıfır reklam, %100 Türkçe seslendirme. FilmModu & Jetfilmizle doğrudan 4K/1080p kesintisiz HLS akışı.",
     "authors": [
       "crysisdaye"
     ],
@@ -46,15 +46,15 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 50162,
-    "fileHash": "sha256-f6086b5c5df48286730e2d84337932f94f3e435e06f219c394d5f3a1a2cddd36",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/TurkDublajVodProvider.cs3"
+    "fileSize": 68293,
+    "fileHash": "sha256-1111329ef5565e8f2b6536392b615ecbbfdba945b2e714c6db0444e865992ac5",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3"
   },
   {
     "name": "LiveIptvProvider",
     "internalName": "LiveIptvProvider",
-    "version": 4,
-    "description": "🛡️ [Dahili DoH & DPI Korumalı | Canlı TV & Spor] Ulusal kanallar, spor yayınları, sinema, belgesel ve haber kanalları. Kesintisiz HLS akışı.",
+    "version": 8,
+    "description": "[CanliTv | 120 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli %100 Türkçe HLS akışı.",
     "authors": [
       "crysisdaye"
     ],
@@ -70,9 +70,9 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 59420,
-    "fileHash": "sha256-f181e2824b91684690f6f5ae9ec1d40b038618298cef13c7058b15bbb7b145e8",
-    "url": "https://cloudstream-turkce-repo.pages.dev/plugins/LiveIptvProvider.cs3"
+    "fileSize": 83358,
+    "fileHash": "sha256-5c44f7c5777f5848fdb44baa5bed5e7bf91a0425a8d0692de5afeab189fb3b1d",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "18EU",

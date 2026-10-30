@@ -2,7 +2,7 @@
   {
     "name": "FilmDiziProvider",
     "internalName": "FilmDiziProvider",
-    "version": 6,
+    "version": 7,
     "description": "[FilmDizi | Türkçe Dublaj & Altyazı] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumalı Türkçe film ve dizi sağlayıcısı",
     "authors": [
       "crysisdaye",
@@ -19,19 +19,19 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 59163,
-    "fileHash": "sha256-5aceeef346a51cdb2390cc7eabee8f93639e03b13dc66b9feefdbc087cb613a7",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/FilmDiziProvider.cs3"
+    "fileSize": 67641,
+    "fileHash": "sha256-3a04d0af166969b9d62b2956d0b6353621e7c8eef82b884dea9c29b67a2e75b0",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3"
   },
   {
     "name": "LiveIptvProvider",
     "internalName": "LiveIptvProvider",
-    "version": 7,
-    "description": "[CanliTv | 129 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli HLS akışı.",
+    "version": 8,
+    "description": "[CanliTv | 120 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli %100 Türkçe HLS akışı.",
     "authors": [
       "crysisdaye",
       "Kraptor"
@@ -44,18 +44,18 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 74122,
-    "fileHash": "sha256-dfcaaefdb84305650bcd1c0bcbd875f609bcd3b8e31a2c566447620bee2c07c2",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/LiveIptvProvider.cs3"
+    "fileSize": 83358,
+    "fileHash": "sha256-5c44f7c5777f5848fdb44baa5bed5e7bf91a0425a8d0692de5afeab189fb3b1d",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
     "internalName": "TurkDublajVodProvider",
-    "version": 7,
+    "version": 8,
     "description": "[%100 Türkçe Dublaj | 4.870+ Film] Sıfır torrent, sıfır reklam, %100 Türkçe seslendirme. FilmModu & Jetfilmizle doğrudan 4K/1080p kesintisiz HLS akışı.",
     "authors": [
       "crysisdaye",
@@ -69,18 +69,18 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 60159,
-    "fileHash": "sha256-9e13916bd53f99fb6f25e2fbb5a9e9afcc3bd149a638b77549007f9e2aa2c12b",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkDublajVodProvider.cs3"
+    "fileSize": 68293,
+    "fileHash": "sha256-1111329ef5565e8f2b6536392b615ecbbfdba945b2e714c6db0444e865992ac5",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3"
   },
   {
     "name": "TurkceRepoAutoInstaller",
     "internalName": "TurkceRepoAutoInstaller",
-    "version": 6,
+    "version": 7,
     "description": "CloudStream Türkçe Deposu: Canlı TV, Türkçe Dublaj VOD ve Film/Dizi sağlayıcıları tek pakette.",
     "authors": [
       "crysisdaye",
@@ -95,12 +95,12 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 101135,
-    "fileHash": "sha256-442d8f83b26c7e2e03234b1af6adfccafb057ecc8dbbe40346351d424d59f4d6",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkceRepoAutoInstaller.cs3"
+    "fileSize": 110708,
+    "fileHash": "sha256-8bcfdaa626996d87d27265e00bb58c608659af6f4544fa5ec04be2615dc742da",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]

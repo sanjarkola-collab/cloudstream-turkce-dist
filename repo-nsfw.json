@@ -3,6 +3,6 @@
   "description": "Kraptor Eklenti Tarayıcısı Gizli-Keyif ve +18 yetişkin eklentileri.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cloudstream-turkce-repo.pages.dev/plugins-nsfw.json"
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins-nsfw.json"
   ]
 }

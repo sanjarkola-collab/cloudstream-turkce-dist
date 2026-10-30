@@ -3,6 +3,6 @@
   "description": "Kraptor Eklenti Tarayıcısı ve dahili DoH korumalı film, dizi, anime ve TV eklentileri (NSFW hariç).",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://cloudstream-turkce-repo.pages.dev/plugins-safe.json"
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins-safe.json"
   ]
 }
