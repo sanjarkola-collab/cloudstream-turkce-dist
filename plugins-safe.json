@@ -2,18 +2,10 @@
   {
     "name": "FilmDiziProvider",
     "internalName": "FilmDiziProvider",
-    "version": 6,
+    "version": 7,
     "description": "[FilmDizi | Türkçe Dublaj & Altyazı] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumalı Türkçe film ve dizi sağlayıcısı",
-    "authors": [
-      "crysisdaye",
-      "Kraptor"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
+    "authors": ["crysisdaye", "Kraptor"],
+    "tvTypes": ["Movie", "TvSeries", "Anime", "Documentary"],
     "language": "tr",
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
     "status": 1,
@@ -23,22 +15,17 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 59163,
-    "fileHash": "sha256-5aceeef346a51cdb2390cc7eabee8f93639e03b13dc66b9feefdbc087cb613a7",
+    "fileSize": 61806,
+    "fileHash": "sha256-006cbb0119730a89c549b164ff00755c5228746da4ca3d93954cc8875a301b85",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/FilmDiziProvider.cs3"
   },
   {
     "name": "LiveIptvProvider",
     "internalName": "LiveIptvProvider",
-    "version": 7,
-    "description": "[CanliTv | 129 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli HLS akışı.",
-    "authors": [
-      "crysisdaye",
-      "Kraptor"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
+    "version": 8,
+    "description": "[CanliTv | 120 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli %100 Türkçe HLS akışı.",
+    "authors": ["crysisdaye", "Kraptor"],
+    "tvTypes": ["Live"],
     "language": "tr",
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
     "status": 1,
@@ -48,22 +35,17 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 74122,
-    "fileHash": "sha256-dfcaaefdb84305650bcd1c0bcbd875f609bcd3b8e31a2c566447620bee2c07c2",
+    "fileSize": 76334,
+    "fileHash": "sha256-580558fa415721abe521b968ed9ac419d992563820d74daaf47a649cfe7c4416",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
     "internalName": "TurkDublajVodProvider",
-    "version": 7,
+    "version": 8,
     "description": "[%100 Türkçe Dublaj | 4.870+ Film] Sıfır torrent, sıfır reklam, %100 Türkçe seslendirme. FilmModu & Jetfilmizle doğrudan 4K/1080p kesintisiz HLS akışı.",
-    "authors": [
-      "crysisdaye",
-      "Kraptor"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
+    "authors": ["crysisdaye", "Kraptor"],
+    "tvTypes": ["Movie"],
     "language": "tr",
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
     "status": 1,
@@ -73,23 +55,17 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 60159,
-    "fileHash": "sha256-9e13916bd53f99fb6f25e2fbb5a9e9afcc3bd149a638b77549007f9e2aa2c12b",
+    "fileSize": 62772,
+    "fileHash": "sha256-d6114cfcfca9b34fc1319ce3910795a114f7b3a4d8ea527e71d40a287abf5ab5",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkDublajVodProvider.cs3"
   },
   {
     "name": "TurkceRepoAutoInstaller",
     "internalName": "TurkceRepoAutoInstaller",
-    "version": 6,
+    "version": 7,
     "description": "CloudStream Türkçe Deposu: Canlı TV, Türkçe Dublaj VOD ve Film/Dizi sağlayıcıları tek pakette.",
-    "authors": [
-      "crysisdaye",
-      "Kraptor"
-    ],
-    "tvTypes": [
-      "Live",
-      "Movie"
-    ],
+    "authors": ["crysisdaye", "Kraptor"],
+    "tvTypes": ["Live", "Movie"],
     "language": "tr",
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
     "status": 1,
@@ -99,8 +75,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 101135,
-    "fileHash": "sha256-442d8f83b26c7e2e03234b1af6adfccafb057ecc8dbbe40346351d424d59f4d6",
+    "fileSize": 103481,
+    "fileHash": "sha256-cb42e1bcfb9ea2e5521fafa05289308e2811db81ff400e3474f5a54013b6914d",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]
