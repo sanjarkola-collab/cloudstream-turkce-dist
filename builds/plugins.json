@@ -46,6 +46,28 @@
         "fileHash": "sha256-96ff28eb85a99a97d1f96f6116587b37b94dc171d15e43b17ba58afe664669ed"
     },
     {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DizillaProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DizillaProvider",
+        "internalName": "DizillaProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "keyiflerolsun"
+        ],
+        "description": "[Dizilla | Yabanc\u0131 Diziler] En yeni yabanc\u0131 dizileri 1080p T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 olarak izleyin.",
+        "fileSize": 126819,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-65e1ac1e2917f897e28fe469236a668939833306b9334bdbc723bda09f9c479e"
+    },
+    {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMomProvider.cs3",
         "status": 1,
         "version": 1,
@@ -92,6 +114,30 @@
         "fileHash": "sha256-728100334c10eaec68a7634ffec1697f3e7fd0e9a16abd81dd0fccb7080aafaa"
     },
     {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBoxProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "InatBoxProvider",
+        "internalName": "InatBoxProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "keyiflerolsun"
+        ],
+        "description": "[\u0130natBox | Canl\u0131 TV, Spor, Film & Dizi] T\u00fcrkiye'nin en pop\u00fcler spor, sinema, belgesel, ulusal kanallar\u0131 ile Exxen, BluTV, Gain ve g\u00fcncel film/diziler.",
+        "fileSize": 134432,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f1fc2ce7dda220ee97667578d4c6538acbf8a8faac50d8485bca2f31f8304fd4"
+    },
+    {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3",
         "status": 1,
         "version": 8,
@@ -111,6 +157,30 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
         "fileHash": "sha256-34b2a187a4d3490174a1cd8b0e6a2085735653ff5cc1236ed6d9381c5fde2854"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTVProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "RecTVProvider",
+        "internalName": "RecTVProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "keyiflerolsun"
+        ],
+        "description": "[RecTV | Canl\u0131 Ma\u00e7, Film & Dizi] S\u00fcper Lig ve Avrupa ma\u00e7lar\u0131, canl\u0131 kanallar ve zengin film/dizi ar\u015fivi.",
+        "fileSize": 127829,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1b505d2e7e11194a535d3b9e45ed49ecd94fba482bf6f4b514c6d69c91187b4c"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3",
