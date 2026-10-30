@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Kanal Avrupa HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 Kanal Avrupa HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8",
       "behaviorHints": {
         "isLive": true,

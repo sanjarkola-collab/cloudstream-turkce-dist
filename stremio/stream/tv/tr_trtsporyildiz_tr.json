@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TRT Spor Yıldız HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TRT Spor Yıldız HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
       "behaviorHints": {
         "isLive": true,

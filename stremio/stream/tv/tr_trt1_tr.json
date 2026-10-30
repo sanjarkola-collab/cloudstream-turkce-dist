@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TRT 1 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TRT 1 HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
       "behaviorHints": {
         "isLive": true,

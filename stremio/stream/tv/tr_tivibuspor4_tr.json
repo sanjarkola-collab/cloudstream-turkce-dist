@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Tivibu Spor 4 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
-      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets4.m3u8",
+      "name": "⚡ Vavoo Spor HLS",
+      "title": "🇹🇷 Tivibu Spor 4 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://vavoo.to/vavoo-iptv/play/12304481920a92c9204dcd",
       "behaviorHints": {
         "isLive": true,
         "notWebReady": false

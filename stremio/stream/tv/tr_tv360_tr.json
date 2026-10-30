@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 360 TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 360 TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "behaviorHints": {
         "isLive": true,

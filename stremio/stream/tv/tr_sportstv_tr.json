@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Sports TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
-      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivesptstv.m3u8",
+      "name": "⚡ Vavoo Spor HLS",
+      "title": "🇹🇷 Sports TV HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://vavoo.to/vavoo-iptv/play/2429298798dcd505d1ab4b",
       "behaviorHints": {
         "isLive": true,
         "notWebReady": false

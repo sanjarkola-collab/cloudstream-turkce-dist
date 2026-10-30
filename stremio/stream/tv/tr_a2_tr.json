@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 A2 TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 A2 TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
       "behaviorHints": {
         "isLive": true,

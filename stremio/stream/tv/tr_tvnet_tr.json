@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TVNET HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TVNET HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8",
       "behaviorHints": {
         "isLive": true,

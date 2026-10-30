@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TMB TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TMB TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8",
       "behaviorHints": {
         "isLive": true,

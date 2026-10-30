@@ -1,787 +1,1896 @@
 [
   {
-    "id": "ch_trt1",
+    "id": "ch_trt1_tr",
     "name": "TRT 1 HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
         "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trtizle.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
         "quality": 720,
-        "referer": "https://www.trtizle.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Dragon Resmi Medya CDN (1080p HD)",
-        "url": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trtizle.com/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_atv",
-    "name": "ATV 1080p FHD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "id": "ch_atv_tr",
+    "name": "ATV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/atv.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
-        "quality": 1080,
-        "referer": "https://www.atv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
         "quality": 1080,
-        "referer": "https://www.atv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_showtv",
-    "name": "Show TV 1080p FHD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/330px-Show_TV_logo.svg.png",
+    "id": "ch_kanald_tr",
+    "name": "Kanal D HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_showtv_tr",
+    "name": "Show TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8",
         "quality": 1080,
-        "referer": "https://www.showtv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8",
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://yakala.atakann.workers.dev/?url=https://www.showtv.com.tr/canli-yayin&ext=m3u8",
         "quality": 720,
-        "referer": "https://www.showtv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_nowtv",
-    "name": "NOW TV (FOX) 1080p",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "id": "ch_startv_tr",
+    "name": "Star TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_now_tr",
+    "name": "NOW TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "quality": 1080,
-        "referer": "https://www.nowtv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.nowtv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_startv",
-    "name": "Star TV HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "id": "ch_tv8_tr",
+    "name": "TV8 HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web",
+        "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
         "quality": 1080,
-        "referer": "https://www.startv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web",
-        "quality": 720,
-        "referer": "https://www.startv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_kanald",
-    "name": "Kanal D HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-        "quality": 1080,
-        "referer": "https://www.kanald.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?app=kanald_web&ce=3",
-        "quality": 720,
-        "referer": "https://www.kanald.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_cnbce",
-    "name": "CNBC-e 1080p",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
-        "quality": 1080,
-        "referer": "https://www.cnbce.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.cnbce.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_a2tv",
-    "name": "A2 TV HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
-        "quality": 1080,
-        "referer": "https://www.atv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.atv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_kanal7",
+    "id": "ch_kanal7_tr",
     "name": "Kanal 7 HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
-        "quality": 1080,
-        "referer": "https://www.kanal7.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
         "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.kanal7.com/",
+        "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_beyaztv",
+    "id": "ch_beyaztv_tr",
     "name": "Beyaz TV HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
         "quality": 1080,
-        "referer": "https://www.beyaztv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
         "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8",
         "quality": 720,
-        "referer": "https://www.beyaztv.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_tv360",
-    "name": "TV 360 HD",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
+    "id": "ch_teve2_tr",
+    "name": "Teve2 HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/teve2.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_a2_tr",
+    "name": "A2 TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tv360_tr",
+    "name": "360 TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "quality": 1080,
-        "referer": "https://www.tv360.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
         "quality": 720,
-        "referer": "https://www.tv360.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_meclistv",
-    "name": "Meclis TV (TBMM) 720p",
-    "group": "Ulusal Kanallar",
-    "category": "Ulusal",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.tbmm.gov.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (1080p FHD)",
-        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tbmm.gov.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_trtspor",
-    "name": "TRT Spor HD",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trtspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
-        "quality": 720,
-        "referer": "https://www.trtspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Dragon Daion CDN (HD)",
-        "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web",
-        "quality": 1080,
-        "referer": "https://www.trtspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_trtsporyildiz",
-    "name": "TRT Spor Yıldız HD",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trtspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
-        "quality": 720,
-        "referer": "https://www.trtspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_aspor",
-    "name": "A Spor HD",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "⚽ [Birincil] Resmi A Spor CDN",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
-        "quality": 1080,
-        "referer": "https://www.aspor.com.tr/"
-      },
-      {
-        "name": "⚽ [Yedek] Dragon Turkuvaz Medya CDN (1080p FHD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8",
-        "quality": 1080,
-        "referer": "https://www.aspor.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_htspor",
-    "name": "HT Spor HD (1080p)",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
-        "quality": 1080,
-        "referer": "https://www.htspor.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?app=web",
-        "quality": 720,
-        "referer": "https://www.htspor.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_tjktv",
-    "name": "TJK TV HD (At Yarışları)",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tjk.org/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (HTTP)",
-        "url": "http://tjktv-live.tjk.org/tjktv.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tjk.org/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_tjktv2",
-    "name": "TJK TV 2 HD (Yurt Dışı)",
-    "group": "Canlı Spor & Maç",
-    "category": "Spor",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tjk.org/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (HTTP)",
-        "url": "http://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tjk.org/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_trtbelgesel",
-    "name": "TRT Belgesel 1080p",
-    "group": "Belgesel & Doğa",
-    "category": "Belgesel",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trtbelgesel.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
-        "quality": 720,
-        "referer": "https://www.trtbelgesel.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_dmax",
-    "name": "DMAX HD",
-    "group": "Belgesel & Doğa",
-    "category": "Belgesel",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web",
-        "quality": 1080,
-        "referer": "https://www.dmax.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (HD)",
-        "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web",
-        "quality": 720,
-        "referer": "https://www.dmax.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_tlc",
-    "name": "TLC HD",
-    "group": "Belgesel & Doğa",
-    "category": "Belgesel",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web",
-        "quality": 1080,
-        "referer": "https://www.tlctv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (HD)",
-        "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web",
-        "quality": 720,
-        "referer": "https://www.tlctv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_iftitv",
-    "name": "Çiftçi TV HD",
-    "group": "Belgesel & Doğa",
-    "category": "Belgesel",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
-        "quality": 1080,
-        "referer": "https://ciftcitv.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (HTTP)",
-        "url": "http://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
-        "quality": 1080,
-        "referer": "https://ciftcitv.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_trthaber",
-    "name": "TRT Haber HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-        "quality": 1080,
-        "referer": "https://www.trthaber.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
-        "quality": 720,
-        "referer": "https://www.trthaber.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_ahaber",
-    "name": "A Haber HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
-        "quality": 1080,
-        "referer": "https://www.ahaber.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.ahaber.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_ntv",
-    "name": "NTV HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/330px-NTV_logo.svg.png",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?app=ntv_web",
-        "quality": 1080,
-        "referer": "https://www.ntv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (1080p FHD)",
-        "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
-        "quality": 1080,
-        "referer": "https://www.ntv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_habertrk",
-    "name": "Habertürk HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/330px-Habert%C3%BCrk_TV_logo.svg.png",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
-        "quality": 1080,
-        "referer": "https://www.haberturk.tv/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.haberturk.tv/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_halktv",
-    "name": "Halk TV HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-        "quality": 1080,
-        "referer": "https://halktv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8",
-        "quality": 720,
-        "referer": "https://halktv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_tv100",
-    "name": "TV 100 HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv.ensonhaber.com/tv100/tv100.m3u8",
-        "quality": 1080,
-        "referer": "https://www.tv100.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv.ensonhaber.com/tv100/tv100_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.tv100.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_24tv",
-    "name": "24 TV HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
-        "quality": 1080,
-        "referer": "https://www.yirmidort.tv/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.yirmidort.tv/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_bloomberght",
-    "name": "Bloomberg HT HD",
-    "group": "Haber & Gündem",
-    "category": "Haber",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8",
-        "quality": 1080,
-        "referer": "https://www.bloomberght.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.bloomberght.com/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_sinematv",
-    "name": "Sinema TV HD",
-    "group": "Sinema & Dizi",
-    "category": "Ulusal",
-    "sources": [
-      {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8",
-        "quality": 1080,
-        "referer": "https://www.sinematv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (Doğrudan Akış)",
-        "url": "https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8",
-        "quality": 1080,
-        "referer": "https://www.sinematv.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      }
-    ]
-  },
-  {
-    "id": "ch_trt2",
-    "name": "TRT 2 HD (Kültür & Sinema)",
-    "group": "Sinema & Dizi",
-    "category": "Ulusal",
+    "id": "ch_trt2_tr",
+    "name": "TRT 2 Kültür & Sanat HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt2.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
-        "referer": "https://www.trt2.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
-        "quality": 720,
-        "referer": "https://www.trt2.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_tv4",
+    "id": "ch_trtturk_tr",
+    "name": "TRT Türk HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5a855fe82d8c3.smil/playlist.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_kanal7avrupa_tr",
+    "name": "Kanal 7 Avrupa",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtgenc_tr",
+    "name": "TRT Genç HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_eurod_tr",
+    "name": "Euro D HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tv4_tr",
     "name": "TV4 HD",
-    "group": "Sinema & Dizi",
-    "category": "Ulusal",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
         "quality": 1080,
-        "referer": "https://www.tv4.com.tr/",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-      },
-      {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
-        "quality": 720,
-        "referer": "https://www.tv4.com.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_trtocuk",
+    "id": "ch_tytturk_tr",
+    "name": "TYT Türk HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_kanalavrupa_tr",
+    "name": "Kanal Avrupa",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtavaz_tr",
+    "name": "TRT Avaz HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtavaz.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_diyanettv_tr",
+    "name": "Diyanet TV HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtspor_tr",
+    "name": "TRT Spor HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtsporyildiz_tr",
+    "name": "TRT Spor Yıldız HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_aspor_tr",
+    "name": "A Spor HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_htspor_tr",
+    "name": "HT Spor HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/htspor.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tv85_tr",
+    "name": "TV8.5 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_fbtv_tr",
+    "name": "FB TV HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_sportstv_tr",
+    "name": "Sports TV HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Sports TV (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2429298798dcd505d1ab4b",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tjktv_tr",
+    "name": "TJK TV HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "http://tjktv.ercdn.net/tjktv.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsports1_tr",
+    "name": "BeIN Sports 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/66217962033a2d3e9c47f",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsports2_tr",
+    "name": "BeIN Sports 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/28515391437e928cafd5dd",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsports3_tr",
+    "name": "BeIN Sports 3 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 3 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/17005958018c5d23b49ef0",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsports4_tr",
+    "name": "BeIN Sports 4 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 4 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/1872232768c7c65ceb9862",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsports5_tr",
+    "name": "BeIN Sports 5 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 5 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2737963486b4d9c437a945",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsportsmax1_tr",
+    "name": "BeIN Sports Max 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports Max 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/22528142332d275721233",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_beinsportsmax2_tr",
+    "name": "BeIN Sports Max 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports Max 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2212659820b109b476a4d3",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_ssport_tr",
+    "name": "S Sport HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] S Sport (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/21232735984a3f0b463d66",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_ssport2_tr",
+    "name": "S Sport 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] S Sport 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/9369082742fdb8ca83c62",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_ssportplus_tr",
+    "name": "S Sport Plus HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] S Sport Plus (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tivibuspor_tr",
+    "name": "Tivibu Spor HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tivibuspor1_tr",
+    "name": "Tivibu Spor 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2576216897d1c2b14af4e9",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tivibuspor2_tr",
+    "name": "Tivibu Spor 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tivibuspor3_tr",
+    "name": "Tivibu Spor 3 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 3 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/342898470360b159ef8301",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tivibuspor4_tr",
+    "name": "Tivibu Spor 4 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 4 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/12304481920a92c9204dcd",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_smartspor1_tr",
+    "name": "Smart Spor 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Smart Spor 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_smartspor2_tr",
+    "name": "Smart Spor 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Smart Spor 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2729088606df69156b1eda",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_eurosport1_tr",
+    "name": "Euro Sport 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Euro Sport 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/207886293750ec015d3e85",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_eurosport2_tr",
+    "name": "Euro Sport 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Euro Sport 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/41172279629184f8c9c408",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxentv_tr",
+    "name": "Exxen TV HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen TV (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/1944695268eb5e2a66f22",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports1_tr",
+    "name": "Exxen Sports 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports2_tr",
+    "name": "Exxen Sports 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/13524210538e192d878d20",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports3_tr",
+    "name": "Exxen Sports 3 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 3 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/24034250314fd9aa349685",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports4_tr",
+    "name": "Exxen Sports 4 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 4 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/5934938605e361d7e0ff0",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports5_tr",
+    "name": "Exxen Sports 5 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 5 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3694662475a36c53181838",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports6_tr",
+    "name": "Exxen Sports 6 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 6 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3410167560f6960a0d6de9",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports7_tr",
+    "name": "Exxen Sports 7 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 7 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2938268353a63a37b4528e",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_exxensports8_tr",
+    "name": "Exxen Sports 8 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 8 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/400031560175e3479a3f11",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor_tr",
+    "name": "Tabii Spor HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/4071474743dbe8a60b9395",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor1_tr",
+    "name": "Tabii Spor 1 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 1 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3407936242f95c33ae8820",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor2_tr",
+    "name": "Tabii Spor 2 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 2 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/267105889a25a483e5e80",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor3_tr",
+    "name": "Tabii Spor 3 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 3 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/1536730627bbf8f95ca477",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor4_tr",
+    "name": "Tabii Spor 4 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 4 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/499485497d6131f47417d",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor5_tr",
+    "name": "Tabii Spor 5 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 5 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/2113462398d8dd57a8ea73",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor6_tr",
+    "name": "Tabii Spor 6 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 6 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor7_tr",
+    "name": "Tabii Spor 7 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 7 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/164663282518e6179f90af",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_tabiispor8_tr",
+    "name": "Tabii Spor 8 HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+    "sources": [
+      {
+        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 8 (1080p FHD)",
+        "url": "https://vavoo.to/vavoo-iptv/play/5455481338d50b246e682",
+        "quality": 1080,
+        "ua": "MediaHubMX/2"
+      }
+    ]
+  },
+  {
+    "id": "ch_taytv_tr",
+    "name": "Tay TV HD",
+    "group": "⚽ Canlı Spor & Maç Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/taytv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trthaber_tr",
+    "name": "TRT Haber HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_ntv_tr",
+    "name": "NTV Haber HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_haberturk_tr",
+    "name": "Habertürk TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tv100_tr",
+    "name": "TV100 HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv.ensonhaber.com/tv100/tv100.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_ahaber_tr",
+    "name": "A Haber HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_halktv_tr",
+    "name": "Halk TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tele1_tr",
+    "name": "Tele 1 HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://www.youtube.com/watch?v=3WmXwAaa1VQ",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tgrthaber_tr",
+    "name": "TGRT Haber HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_haberglobal_tr",
+    "name": "Haber Global HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_kanal24_tr",
+    "name": "24 TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_bloomberght_tr",
+    "name": "Bloomberg HT Ekonomi HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tvnet_tr",
+    "name": "TVNET HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_ulketv_tr",
+    "name": "Ülke TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_ekoturk_tr",
+    "name": "Ekotürk Ekonomi HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://cdn.ekoturk.net/hls/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_benguturk_tr",
+    "name": "Bengü Türk TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_flashhaber_tr",
+    "name": "Flash Haber TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_liderhaber_tr",
+    "name": "Lider Haber TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_turkhaber_tr",
+    "name": "Türk Haber TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_cnbce_tr",
+    "name": "CNBC-e HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_akittv_tr",
+    "name": "Akit TV HD",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tbmmtv_tr",
+    "name": "TBMM TV",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tbmmtv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_finansturk_tr",
+    "name": "Finans Türk",
+    "group": "📰 Haber & Gündem",
+    "category": "Gündem",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tlc_tr",
+    "name": "TLC HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://dogus-blackout.daioncdn.net/tlctv_geoblock.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_dmax_tr",
+    "name": "DMAX HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtbelgesel_tr",
+    "name": "TRT Belgesel HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtcocuk_tr",
     "name": "TRT Çocuk HD",
-    "group": "Çocuk & Çizgi Film",
-    "category": "Çocuk",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
-        "referer": "https://www.trtcocuk.net.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "quality": 720,
-        "referer": "https://www.trtcocuk.net.tr/",
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]
   },
   {
-    "id": "ch_trtmzik",
-    "name": "TRT Müzik HD",
-    "group": "Müzik & Eğlence",
-    "category": "Müzik",
+    "id": "ch_minikacocuk_tr",
+    "name": "Minika Çocuk HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
     "sources": [
       {
         "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
-        "url": "https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8",
-        "quality": 720,
-        "referer": "https://www.trtmuzik.net.tr/",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_minikago_tr",
+    "name": "Minika GO HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikago.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtebailkokul_tr",
+    "name": "TRT EBA İlkokul HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebailkokul.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtebaortaokul_tr",
+    "name": "TRT EBA Ortaokul HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtebalise_tr",
+    "name": "TRT EBA Lise HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtdiyanetcocuk_tr",
+    "name": "TRT Diyanet Çocuk HD",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_ciftcitv_tr",
+    "name": "Çiftçi TV",
+    "group": "🦁 Belgesel & Doğa",
+    "category": "Doğa",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_kralpoptv_tr",
+    "name": "Kral Pop TV HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerturktv_tr",
+    "name": "PowerTürk TV HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+        "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       },
       {
-        "name": "🇹🇷 [Yedek] Resmi Medya CDN (720p HD)",
-        "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
         "quality": 720,
-        "referer": "https://www.trtmuzik.net.tr/",
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powertv_tr",
+    "name": "Power TV HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_number1tv_tr",
+    "name": "Number 1 TV HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtmuzik_tr",
+    "name": "TRT Müzik HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerdance_tr",
+    "name": "Power Dance HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "🇹🇷 [Yedek] Alternatif Yayın Akışı (720p HD)",
+        "url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+        "quality": 720,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerlove_tr",
+    "name": "Power Love HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_dreamturk_tr",
+    "name": "Dream Türk HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_tmbtv_tr",
+    "name": "TMB TV HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_showmax_tr",
+    "name": "Show Max",
+    "group": "🎬 Sinema & Dizi Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerturktaptaze_tr",
+    "name": "Powertürk Taptaze HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerturkslow_tr",
+    "name": "Powertürk Slow HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_powerturkakustik_tr",
+    "name": "Powertürk Akustik HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_number1ask_tr",
+    "name": "Number 1 Aşk HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c126ec58fe0.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_number1damar_tr",
+    "name": "Number 1 Damar HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c1274ee7c76.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_number1dance_tr",
+    "name": "Number 1 Dance HD",
+    "group": "🎵 Müzik & Eğlence",
+    "category": "Eğlence",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c1277a876a4.smil/playlist.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_cine1_tr",
+    "name": "Cine 1 HD",
+    "group": "🎬 Sinema & Dizi Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_fx_tr",
+    "name": "FX HD",
+    "group": "🎬 Sinema & Dizi Kanalları",
+    "category": "Kanalları",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://saran-live.ercdn.net/fx/index.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      }
+    ]
+  },
+  {
+    "id": "ch_trtnostalji_tr",
+    "name": "TRT Nostalji HD",
+    "group": "🇹🇷 Ulusal Kanallar",
+    "category": "Kanallar",
+    "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
+    "sources": [
+      {
+        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8",
+        "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
       }
     ]

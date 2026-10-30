@@ -3,18 +3,12 @@
     {
       "name": "🇹🇷 HDFilmCehennemi",
       "title": "[TR Dublaj] Interstellar - 1080p Full HD\n⚡ Hızlı CDN | Çift Ses",
-      "url": "https://www.hdfilmcehennemi.nl/search?q=Interstellar",
-      "behaviorHints": {
-        "notWebReady": false
-      }
+      "externalUrl": "https://www.hdfilmcehennemi.nl/search?q=Interstellar"
     },
     {
       "name": "🇹🇷 DiziBox / FilmModu",
       "title": "[TR Altyazı] Interstellar - 1080p\n⚡ Orijinal Ses + Türkçe Altyazı",
-      "url": "https://filmmodu.nl/ara?q=Interstellar",
-      "behaviorHints": {
-        "notWebReady": false
-      }
+      "externalUrl": "https://filmmodu.nl/ara?q=Interstellar"
     }
   ]
 }

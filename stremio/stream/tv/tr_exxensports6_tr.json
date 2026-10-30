@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Exxen Sports 6 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
-      "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn6.m3u8",
+      "name": "⚡ Vavoo Spor HLS",
+      "title": "🇹🇷 Exxen Sports 6 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://vavoo.to/vavoo-iptv/play/3410167560f6960a0d6de9",
       "behaviorHints": {
         "isLive": true,
         "notWebReady": false

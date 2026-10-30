@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 NOW TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 NOW TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
       "behaviorHints": {
         "isLive": true,

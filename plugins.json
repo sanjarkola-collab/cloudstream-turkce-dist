@@ -11,13 +11,13 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 61806,
-    "fileHash": "sha256-006cbb0119730a89c549b164ff00755c5228746da4ca3d93954cc8875a301b85",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/FilmDiziProvider.cs3"
+    "fileSize": 67026,
+    "fileHash": "sha256-2a8a67465f98436ee18246c4adcf0e64d0b8094cc04a3a4e6367ea3899e459cf",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3"
   },
   {
     "name": "LiveIptvProvider",
@@ -31,13 +31,13 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 76334,
-    "fileHash": "sha256-580558fa415721abe521b968ed9ac419d992563820d74daaf47a649cfe7c4416",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/LiveIptvProvider.cs3"
+    "fileSize": 82655,
+    "fileHash": "sha256-6a217540ffa966e03eafee491fd6bbbe4802f2fe8ab2bb4798fbfe4099a9e470",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3"
   },
   {
     "name": "TurkDublajVodProvider",
@@ -51,13 +51,13 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 62772,
-    "fileHash": "sha256-d6114cfcfca9b34fc1319ce3910795a114f7b3a4d8ea527e71d40a287abf5ab5",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkDublajVodProvider.cs3"
+    "fileSize": 67700,
+    "fileHash": "sha256-cf59366fb673b31051ca546f248a7690653f07bbb4314f397ab46c5a0f589e71",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3"
   },
   {
     "name": "TurkceRepoAutoInstaller",
@@ -71,12 +71,12 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 103481,
-    "fileHash": "sha256-cb42e1bcfb9ea2e5521fafa05289308e2811db81ff400e3474f5a54013b6914d",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins/TurkceRepoAutoInstaller.cs3"
+    "fileSize": 109960,
+    "fileHash": "sha256-980d3f76fb30d44f3290f2c788f3277e6996adaf7e5db403fc086931fb094595",
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]

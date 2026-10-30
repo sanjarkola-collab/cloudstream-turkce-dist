@@ -3,18 +3,12 @@
     {
       "name": "🇹🇷 HDFilmCehennemi",
       "title": "[TR Dublaj] Jawan - 1080p Full HD\n⚡ Hızlı CDN | Çift Ses",
-      "url": "https://www.hdfilmcehennemi.nl/search?q=Jawan",
-      "behaviorHints": {
-        "notWebReady": false
-      }
+      "externalUrl": "https://www.hdfilmcehennemi.nl/search?q=Jawan"
     },
     {
       "name": "🇹🇷 DiziBox / FilmModu",
       "title": "[TR Altyazı] Jawan - 1080p\n⚡ Orijinal Ses + Türkçe Altyazı",
-      "url": "https://filmmodu.nl/ara?q=Jawan",
-      "behaviorHints": {
-        "notWebReady": false
-      }
+      "externalUrl": "https://filmmodu.nl/ara?q=Jawan"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Power Love HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 Power Love HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
       "behaviorHints": {
         "isLive": true,

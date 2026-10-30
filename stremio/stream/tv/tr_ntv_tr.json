@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 NTV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 NTV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
       "behaviorHints": {
         "isLive": true,

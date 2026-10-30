@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Flash Haber HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 Flash Haber HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
       "behaviorHints": {
         "isLive": true,

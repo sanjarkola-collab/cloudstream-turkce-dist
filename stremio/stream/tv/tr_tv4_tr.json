@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TV4 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TV4 HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
       "behaviorHints": {
         "isLive": true,

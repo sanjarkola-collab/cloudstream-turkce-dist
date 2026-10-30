@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Powertürk Akustik HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 Powertürk Akustik HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
       "behaviorHints": {
         "isLive": true,

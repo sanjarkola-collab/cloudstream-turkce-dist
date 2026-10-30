@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TGRT Haber HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TGRT Haber HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://canli.tgrthaber.com/tgrt.m3u8",
       "behaviorHints": {
         "isLive": true,

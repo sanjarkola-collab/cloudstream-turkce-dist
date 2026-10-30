@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TBMM TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TBMM TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
       "behaviorHints": {
         "isLive": true,

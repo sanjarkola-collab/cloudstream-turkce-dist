@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 BeIN Sports 1 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
-      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs1.m3u8",
+      "name": "⚡ Vavoo Spor HLS",
+      "title": "🇹🇷 BeIN Sports 1 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://vavoo.to/vavoo-iptv/play/66217962033a2d3e9c47f",
       "behaviorHints": {
         "isLive": true,
         "notWebReady": false

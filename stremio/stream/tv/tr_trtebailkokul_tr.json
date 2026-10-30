@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 TRT EBA İlkokul HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 TRT EBA İlkokul HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
       "behaviorHints": {
         "isLive": true,

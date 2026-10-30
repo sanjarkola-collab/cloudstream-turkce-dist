@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 A Spor HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 A Spor HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
       "behaviorHints": {
         "isLive": true,

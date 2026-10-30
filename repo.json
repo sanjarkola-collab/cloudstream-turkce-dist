@@ -3,6 +3,6 @@
   "description": "DPI & DoH Korumalı %100 Saf Kotlin Türkçe Canlı TV, Dublaj VOD ve Film/Dizi Sağlayıcıları",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-repo/builds/plugins.json"
+    "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins.json"
   ]
 }

@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 DMAX HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 DMAX HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
       "behaviorHints": {
         "isLive": true,

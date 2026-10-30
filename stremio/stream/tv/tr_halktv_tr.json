@@ -2,7 +2,7 @@
   "streams": [
     {
       "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 Halk TV HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
+      "title": "🇹🇷 Halk TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
       "behaviorHints": {
         "isLive": true,

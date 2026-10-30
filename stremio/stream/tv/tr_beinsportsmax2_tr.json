@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
-      "title": "🇹🇷 BeIN Sports Max 2 HD [1080p FHD]\nKesintisiz Resmi Canlı Akış",
-      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebsm2.m3u8",
+      "name": "⚡ Vavoo Spor HLS",
+      "title": "🇹🇷 BeIN Sports Max 2 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://vavoo.to/vavoo-iptv/play/2212659820b109b476a4d3",
       "behaviorHints": {
         "isLive": true,
         "notWebReady": false
