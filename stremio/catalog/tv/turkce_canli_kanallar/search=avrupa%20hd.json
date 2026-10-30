@@ -1,0 +1,28 @@
+{
+  "metas": [
+    {
+      "id": "tr_kanal7avrupa_tr",
+      "name": "Kanal 7 Avrupa HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal 7 Avrupa Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanalavrupa_tr",
+      "name": "Kanal Avrupa HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal Avrupa Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

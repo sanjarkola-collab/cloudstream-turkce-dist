@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_fx_tr",
+      "name": "FX HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "genres": [
+        "SİNEMA KANALLARI"
+      ],
+      "description": "FX Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

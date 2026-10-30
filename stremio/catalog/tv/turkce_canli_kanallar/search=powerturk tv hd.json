@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_powerturktv_tr",
+      "name": "PowerTürk TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "PowerTürk TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

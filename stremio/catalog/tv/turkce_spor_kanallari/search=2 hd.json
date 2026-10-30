@@ -1,0 +1,100 @@
+{
+  "metas": [
+    {
+      "id": "tr_beinsports2_tr",
+      "name": "BeIN Sports 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_beinsportsmax2_tr",
+      "name": "BeIN Sports Max 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports Max 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ssport2_tr",
+      "name": "S Sport 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "S Sport 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tivibuspor2_tr",
+      "name": "Tivibu Spor 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tivibu Spor 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_smartspor2_tr",
+      "name": "Smart Spor 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Smart Spor 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_eurosport2_tr",
+      "name": "Euro Sport 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Euro Sport 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_exxensports2_tr",
+      "name": "Exxen Sports 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Exxen Sports 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor2_tr",
+      "name": "Tabii Spor 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

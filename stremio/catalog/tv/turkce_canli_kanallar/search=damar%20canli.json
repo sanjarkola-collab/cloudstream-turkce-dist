@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_number1damar_tr",
+      "name": "Number 1 Damar HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Damar Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

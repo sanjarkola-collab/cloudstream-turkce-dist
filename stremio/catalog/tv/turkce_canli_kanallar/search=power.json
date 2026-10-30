@@ -1,0 +1,40 @@
+{
+  "metas": [
+    {
+      "id": "tr_powertv_tr",
+      "name": "Power TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerdance_tr",
+      "name": "Power Dance HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power Dance Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerlove_tr",
+      "name": "Power Love HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power Love Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tr_beinsports3_tr",
+      "name": "BeIN Sports 3 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports 3 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tivibuspor3_tr",
+      "name": "Tivibu Spor 3 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tivibu Spor 3 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_exxensports3_tr",
+      "name": "Exxen Sports 3 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Exxen Sports 3 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor3_tr",
+      "name": "Tabii Spor 3 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 3 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

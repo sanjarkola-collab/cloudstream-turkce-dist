@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tv4_tr",
+      "name": "TV4 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TV4 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

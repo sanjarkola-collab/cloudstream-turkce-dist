@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_sportstv_tr",
+      "name": "Sports TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Sports TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

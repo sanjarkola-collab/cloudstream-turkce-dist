@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_powerlove_tr",
+      "name": "Power Love HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power Love Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

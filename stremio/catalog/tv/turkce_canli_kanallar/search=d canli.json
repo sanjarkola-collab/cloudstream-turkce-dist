@@ -1,0 +1,28 @@
+{
+  "metas": [
+    {
+      "id": "tr_kanald_tr",
+      "name": "Kanal D HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal D Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_eurod_tr",
+      "name": "Euro D HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Euro D Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

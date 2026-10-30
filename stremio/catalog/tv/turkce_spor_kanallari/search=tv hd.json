@@ -1,0 +1,64 @@
+{
+  "metas": [
+    {
+      "id": "tr_fbtv_tr",
+      "name": "FB TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "FB TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_sportstv_tr",
+      "name": "Sports TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Sports TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tjktv_tr",
+      "name": "TJK TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "TJK TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_exxentv_tr",
+      "name": "Exxen TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Exxen TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_taytv_tr",
+      "name": "Tay TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/taytv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/taytv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tay TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

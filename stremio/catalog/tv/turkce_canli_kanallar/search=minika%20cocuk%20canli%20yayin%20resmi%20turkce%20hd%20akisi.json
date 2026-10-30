@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_minikacocuk_tr",
+      "name": "Minika Çocuk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "Minika Çocuk Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

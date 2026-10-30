@@ -1,0 +1,112 @@
+{
+  "metas": [
+    {
+      "id": "tr_tabiispor_tr",
+      "name": "Tabii Spor HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor1_tr",
+      "name": "Tabii Spor 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor2_tr",
+      "name": "Tabii Spor 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor3_tr",
+      "name": "Tabii Spor 3 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 3 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor4_tr",
+      "name": "Tabii Spor 4 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 4 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor5_tr",
+      "name": "Tabii Spor 5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor6_tr",
+      "name": "Tabii Spor 6 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 6 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor7_tr",
+      "name": "Tabii Spor 7 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 7 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor8_tr",
+      "name": "Tabii Spor 8 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 8 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

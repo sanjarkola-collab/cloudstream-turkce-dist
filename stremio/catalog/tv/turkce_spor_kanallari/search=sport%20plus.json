@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_ssportplus_tr",
+      "name": "S Sport Plus HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "S Sport Plus Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tabiispor5_tr",
+      "name": "Tabii Spor 5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

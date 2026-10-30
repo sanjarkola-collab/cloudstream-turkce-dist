@@ -1,0 +1,76 @@
+{
+  "metas": [
+    {
+      "id": "tr_trtturk_tr",
+      "name": "TRT Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tytturk_tr",
+      "name": "TYT Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TYT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_benguturk_tr",
+      "name": "Bengü Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Bengü Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_turkhaber_tr",
+      "name": "Türk Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Türk Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_finansturk_tr",
+      "name": "Finans Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Finans Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_dreamturk_tr",
+      "name": "Dream Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Dream Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

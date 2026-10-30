@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_trtsporyildiz_tr",
+      "name": "TRT Spor Yıldız HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "TRT Spor Yıldız Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

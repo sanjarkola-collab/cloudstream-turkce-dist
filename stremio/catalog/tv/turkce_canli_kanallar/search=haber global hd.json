@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_haberglobal_tr",
+      "name": "Haber Global HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Haber Global Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

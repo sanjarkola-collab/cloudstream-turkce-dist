@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tivibuspor1_tr",
+      "name": "Tivibu Spor 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tivibu Spor 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

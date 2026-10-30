@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_a2_tr",
+      "name": "A2 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "A2 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

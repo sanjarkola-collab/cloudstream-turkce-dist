@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tytturk_tr",
+      "name": "TYT Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TYT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

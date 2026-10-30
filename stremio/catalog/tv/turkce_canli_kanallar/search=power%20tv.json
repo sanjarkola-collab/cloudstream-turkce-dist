@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_powertv_tr",
+      "name": "Power TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_dmax_tr",
+      "name": "DMAX HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "DMAX Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_trtgenc_tr",
+      "name": "TRT Genç HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT Genç Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

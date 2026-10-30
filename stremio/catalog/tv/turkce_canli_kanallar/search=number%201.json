@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tr_number1tv_tr",
+      "name": "Number 1 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1ask_tr",
+      "name": "Number 1 Aşk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Aşk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1damar_tr",
+      "name": "Number 1 Damar HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Damar Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1dance_tr",
+      "name": "Number 1 Dance HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Dance Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

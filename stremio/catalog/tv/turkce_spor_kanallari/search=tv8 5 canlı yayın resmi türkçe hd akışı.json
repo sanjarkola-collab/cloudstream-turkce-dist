@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tv85_tr",
+      "name": "TV8,5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "TV8,5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

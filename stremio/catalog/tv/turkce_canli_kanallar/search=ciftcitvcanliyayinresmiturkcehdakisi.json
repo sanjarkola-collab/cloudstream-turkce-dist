@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_ciftcitv_tr",
+      "name": "Çiftçi TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "Çiftçi TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

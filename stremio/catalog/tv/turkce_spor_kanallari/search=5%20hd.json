@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tr_tv85_tr",
+      "name": "TV8,5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "TV8,5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_beinsports5_tr",
+      "name": "BeIN Sports 5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_exxensports5_tr",
+      "name": "Exxen Sports 5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Exxen Sports 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tabiispor5_tr",
+      "name": "Tabii Spor 5 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "Tabii Spor 5 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

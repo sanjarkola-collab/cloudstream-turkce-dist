@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tjktv_tr",
+      "name": "TJK TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "TJK TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

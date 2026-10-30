@@ -1,89 +1,88 @@
 {
   "metas": [
     {
-      "id": "tr_sport_beinsports1",
+      "id": "tr_beinsports1_tr",
       "name": "BeIN Sports 1 HD",
       "type": "tv",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports1.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports1.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "Süper Lig",
-        "Canlı Maç"
+        "SPOR KANALLARI"
       ],
-      "description": "BeIN Sports 1 HD — Trendyol Süper Lig Canlı Yayınları"
+      "description": "BeIN Sports 1 Canlı Yayın - Resmi Türkçe HD Akışı"
     },
     {
-      "id": "tr_sport_beinsports2",
+      "id": "tr_beinsports2_tr",
       "name": "BeIN Sports 2 HD",
       "type": "tv",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports2.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports2.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "Süper Lig",
-        "Fransa Ligue 1"
+        "SPOR KANALLARI"
       ],
-      "description": "BeIN Sports 2 HD — Süper Lig & Avrupa Ligleri"
+      "description": "BeIN Sports 2 Canlı Yayın - Resmi Türkçe HD Akışı"
     },
     {
-      "id": "tr_sport_ssport",
-      "name": "S Sport HD",
+      "id": "tr_beinsports3_tr",
+      "name": "BeIN Sports 3 HD",
       "type": "tv",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "La Liga",
-        "Serie A",
-        "EuroLeague"
+        "SPOR KANALLARI"
       ],
-      "description": "S Sport HD — İspanya La Liga, İtalya Serie A, EuroLeague"
+      "description": "BeIN Sports 3 Canlı Yayın - Resmi Türkçe HD Akışı"
     },
     {
-      "id": "tr_sport_exxen1",
-      "name": "Exxen Sports 1 HD",
+      "id": "tr_beinsports4_tr",
+      "name": "BeIN Sports 4 HD",
       "type": "tv",
-      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxensports1.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxensports1.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "Şampiyonlar Ligi",
-        "Avrupa Ligi"
+        "SPOR KANALLARI"
       ],
-      "description": "Exxen Sports 1 HD — UEFA Şampiyonlar Ligi Maçları"
+      "description": "BeIN Sports 4 Canlı Yayın - Resmi Türkçe HD Akışı"
     },
     {
-      "id": "tr_sport_trtspor",
-      "name": "TRT Spor HD",
+      "id": "tr_beinsports5_tr",
+      "name": "BeIN Sports 5 HD",
       "type": "tv",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TRT_Spor_logo_2021.svg/512px-TRT_Spor_logo_2021.svg.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TRT_Spor_logo_2021.svg/512px-TRT_Spor_logo_2021.svg.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "Futbol",
-        "Milli Maçlar"
+        "SPOR KANALLARI"
       ],
-      "description": "TRT Spor HD - Milli Maçlar, Trendyol 1. Lig, Avrupa Kupaları"
+      "description": "BeIN Sports 5 Canlı Yayın - Resmi Türkçe HD Akışı"
     },
     {
-      "id": "tr_sport_aspor",
-      "name": "A Spor HD",
+      "id": "tr_beinsportsmax1_tr",
+      "name": "BeIN Sports Max 1 HD",
       "type": "tv",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "posterShape": "square",
-      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/A_Spor_logo.svg/512px-A_Spor_logo.svg.png",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
       "genres": [
-        "Spor",
-        "Ziraat Türkiye Kupası",
-        "Futbol"
+        "SPOR KANALLARI"
       ],
-      "description": "A Spor Canlı HD - Ziraat Türkiye Kupası Maçları"
+      "description": "BeIN Sports Max 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_beinsportsmax2_tr",
+      "name": "BeIN Sports Max 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports Max 2 Canlı Yayın - Resmi Türkçe HD Akışı"
     }
   ]
 }

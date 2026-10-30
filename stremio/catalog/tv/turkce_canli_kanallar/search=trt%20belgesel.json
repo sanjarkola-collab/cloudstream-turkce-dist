@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_trtbelgesel_tr",
+      "name": "TRT Belgesel HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT Belgesel Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

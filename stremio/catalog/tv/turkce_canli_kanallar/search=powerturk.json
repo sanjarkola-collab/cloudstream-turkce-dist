@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tr_powerturktv_tr",
+      "name": "PowerTürk TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "PowerTürk TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturktaptaze_tr",
+      "name": "Powertürk Taptaze HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Taptaze Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturkslow_tr",
+      "name": "Powertürk Slow HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Slow Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturkakustik_tr",
+      "name": "Powertürk Akustik HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Akustik Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

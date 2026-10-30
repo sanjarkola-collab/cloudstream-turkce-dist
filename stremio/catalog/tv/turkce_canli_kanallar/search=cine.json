@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_cine1_tr",
+      "name": "Cine 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "genres": [
+        "SİNEMA KANALLARI"
+      ],
+      "description": "Cine 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

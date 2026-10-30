@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_ulketv_tr",
+      "name": "Ülke TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Ülke TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

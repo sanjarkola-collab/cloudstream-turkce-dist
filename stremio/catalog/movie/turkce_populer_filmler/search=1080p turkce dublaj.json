@@ -1,0 +1,39 @@
+{
+  "metas": [
+    {
+      "id": "tt0816692",
+      "name": "Yıldızlararası (Interstellar)",
+      "type": "movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0816692/img",
+      "description": "1080p Türkçe Dublaj"
+    },
+    {
+      "id": "tt0111161",
+      "name": "Esaretin Bedeli (The Shawshank Redemption)",
+      "type": "movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0111161/img",
+      "description": "1080p Türkçe Dublaj"
+    },
+    {
+      "id": "tt0137523",
+      "name": "Dövüş Kulübü (Fight Club)",
+      "type": "movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0137523/img",
+      "description": "1080p Türkçe Dublaj"
+    },
+    {
+      "id": "tt0109830",
+      "name": "Forrest Gump",
+      "type": "movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0109830/img",
+      "description": "1080p Türkçe Dublaj"
+    },
+    {
+      "id": "tt1630029",
+      "name": "Avatar: Suyun Yolu",
+      "type": "movie",
+      "poster": "https://images.metahub.space/poster/medium/tt1630029/img",
+      "description": "1080p Türkçe Dublaj"
+    }
+  ]
+}

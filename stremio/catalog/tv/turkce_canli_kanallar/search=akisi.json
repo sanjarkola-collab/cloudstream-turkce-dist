@@ -1,0 +1,892 @@
+{
+  "metas": [
+    {
+      "id": "tr_trt1_tr",
+      "name": "TRT 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_atv_tr",
+      "name": "ATV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/atv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/atv.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "ATV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanald_tr",
+      "name": "Kanal D HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal D Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_showtv_tr",
+      "name": "Show TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Show TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_startv_tr",
+      "name": "Star TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Star TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_now_tr",
+      "name": "NOW TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "NOW TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tv8_tr",
+      "name": "TV8 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TV8 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanal7_tr",
+      "name": "Kanal 7 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal 7 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_beyaztv_tr",
+      "name": "Beyaz TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Beyaz TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_teve2_tr",
+      "name": "Teve2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/teve2.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/teve2.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Teve2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_a2_tr",
+      "name": "A2 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "A2 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tv360_tr",
+      "name": "360 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "360 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trt2_tr",
+      "name": "TRT 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt2.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt2.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtturk_tr",
+      "name": "TRT Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanal7avrupa_tr",
+      "name": "Kanal 7 Avrupa HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal 7 Avrupa Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtgenc_tr",
+      "name": "TRT Genç HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT Genç Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_eurod_tr",
+      "name": "Euro D HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Euro D Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tv4_tr",
+      "name": "TV4 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TV4 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tytturk_tr",
+      "name": "TYT Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TYT Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanalavrupa_tr",
+      "name": "Kanal Avrupa HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Kanal Avrupa Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtavaz_tr",
+      "name": "TRT Avaz HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtavaz.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtavaz.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "TRT Avaz Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_diyanettv_tr",
+      "name": "Diyanet TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "Diyanet TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trthaber_tr",
+      "name": "TRT Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TRT Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ntv_tr",
+      "name": "NTV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "NTV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_haberturk_tr",
+      "name": "Habertürk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Habertürk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tv100_tr",
+      "name": "TV100 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TV100 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ahaber_tr",
+      "name": "A Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "A Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_halktv_tr",
+      "name": "Halk TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Halk TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tele1_tr",
+      "name": "Tele 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Tele 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tgrthaber_tr",
+      "name": "TGRT Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TGRT Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_haberglobal_tr",
+      "name": "Haber Global HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Haber Global Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kanal24_tr",
+      "name": "24 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "24 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_bloomberght_tr",
+      "name": "Bloomberg HT HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Bloomberg HT Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tvnet_tr",
+      "name": "TVNET HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TVNET Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ulketv_tr",
+      "name": "Ülke TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Ülke TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ekoturk_tr",
+      "name": "Ekotürk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Ekotürk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_benguturk_tr",
+      "name": "Bengü Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Bengü Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_flashhaber_tr",
+      "name": "Flash Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Flash Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_liderhaber_tr",
+      "name": "Lider Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Lider Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_turkhaber_tr",
+      "name": "Türk Haber HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Türk Haber Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_cnbce_tr",
+      "name": "CNBC-e HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "CNBC-e Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_akittv_tr",
+      "name": "Akit TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Akit TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tbmmtv_tr",
+      "name": "TBMM TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tbmmtv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tbmmtv.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TBMM TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_finansturk_tr",
+      "name": "Finans Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "Finans Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tlc_tr",
+      "name": "TLC HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TLC Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_dmax_tr",
+      "name": "DMAX HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "DMAX Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtbelgesel_tr",
+      "name": "TRT Belgesel HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT Belgesel Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtcocuk_tr",
+      "name": "TRT Çocuk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT Çocuk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_minikacocuk_tr",
+      "name": "Minika Çocuk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "Minika Çocuk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_minikago_tr",
+      "name": "Minika GO HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikago.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikago.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "Minika GO Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtebailkokul_tr",
+      "name": "TRT EBA İlkokul HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebailkokul.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebailkokul.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT EBA İlkokul Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtebaortaokul_tr",
+      "name": "TRT EBA Ortaokul HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT EBA Ortaokul Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtebalise_tr",
+      "name": "TRT EBA Lise HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT EBA Lise Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtdiyanetcocuk_tr",
+      "name": "TRT Diyanet Çocuk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT Diyanet Çocuk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_ciftcitv_tr",
+      "name": "Çiftçi TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "Çiftçi TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_kralpoptv_tr",
+      "name": "Kral Pop TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Kral Pop TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturktv_tr",
+      "name": "PowerTürk TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "PowerTürk TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powertv_tr",
+      "name": "Power TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1tv_tr",
+      "name": "Number 1 TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtmuzik_tr",
+      "name": "TRT Müzik HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "TRT Müzik Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerdance_tr",
+      "name": "Power Dance HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power Dance Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerlove_tr",
+      "name": "Power Love HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Power Love Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_dreamturk_tr",
+      "name": "Dream Türk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Dream Türk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_tmbtv_tr",
+      "name": "TMB TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "TMB TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_showmax_tr",
+      "name": "Show Max HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Show Max Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturktaptaze_tr",
+      "name": "Powertürk Taptaze HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Taptaze Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturkslow_tr",
+      "name": "Powertürk Slow HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Slow Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_powerturkakustik_tr",
+      "name": "Powertürk Akustik HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Powertürk Akustik Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1ask_tr",
+      "name": "Number 1 Aşk HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Aşk Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1damar_tr",
+      "name": "Number 1 Damar HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Damar Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_number1dance_tr",
+      "name": "Number 1 Dance HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
+      "genres": [
+        "MÜZİK & EĞLENCE"
+      ],
+      "description": "Number 1 Dance Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_cine1_tr",
+      "name": "Cine 1 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "genres": [
+        "SİNEMA KANALLARI"
+      ],
+      "description": "Cine 1 Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_fx_tr",
+      "name": "FX HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "genres": [
+        "SİNEMA KANALLARI"
+      ],
+      "description": "FX Canlı Yayın - Resmi Türkçe HD Akışı"
+    },
+    {
+      "id": "tr_trtnostalji_tr",
+      "name": "TRT Nostalji HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
+      "genres": [
+        "SİNEMA KANALLARI"
+      ],
+      "description": "TRT Nostalji Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

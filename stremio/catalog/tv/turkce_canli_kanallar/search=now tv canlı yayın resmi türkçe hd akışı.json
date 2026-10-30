@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_now_tr",
+      "name": "NOW TV HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
+      "genres": [
+        "ULUSAL KANALLAR"
+      ],
+      "description": "NOW TV Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

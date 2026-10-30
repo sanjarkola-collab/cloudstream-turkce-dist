@@ -1,5 +1,73 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciXProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AnimeciXProvider",
+        "internalName": "AnimeciXProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "Kraptor"
+        ],
+        "description": "[AnimeciX | T\u00fcrk\u00e7e Anime] T\u00fcrkiye'nin lider anime ar\u015fivi. 1000+ anime serisi ve filmi %100 T\u00fcrk\u00e7e altyaz\u0131 ve dublaj ile.",
+        "fileSize": 135475,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-63ff397589c1f5b2518a98919e774216b27dccb94b9eacd97c6af05c2967438c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBoxProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DiziBoxProvider",
+        "internalName": "DiziBoxProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "Kraptor"
+        ],
+        "description": "[DiziBox | T\u00fcrk\u00e7e Dizi] G\u00fcncel yabanc\u0131 ve yerli dizileri full HD T\u00fcrk\u00e7e altyaz\u0131 ve dublaj ile izleyin (Molystream & VidMoly).",
+        "fileSize": 127636,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-96ff28eb85a99a97d1f96f6116587b37b94dc171d15e43b17ba58afe664669ed"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMomProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DiziMomProvider",
+        "internalName": "DiziMomProvider",
+        "authors": [
+            "sanjarkola",
+            "keyiflerolsun",
+            "Kraptor"
+        ],
+        "description": "[DiziMom | T\u00fcrk\u00e7e Dizi] G\u00fcncel yabanc\u0131 ve yerli dizileri T\u00fcrk\u00e7e dublaj & altyaz\u0131 ile izleyin (Dizidad mirror).",
+        "fileSize": 120559,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizidad.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-d329b64dceff166e0e47722b53590e68fa2290cd50199910b4549cae70e8c759"
+    },
+    {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3",
         "status": 1,
         "version": 7,
@@ -55,7 +123,7 @@
             "Kraptor"
         ],
         "description": "CloudStream T\u00fcrk\u00e7e Deposu: Canl\u0131 TV, T\u00fcrk\u00e7e Dublaj VOD ve Film/Dizi sa\u011flay\u0131c\u0131lar\u0131 tek pakette.",
-        "fileSize": 168992,
+        "fileSize": 168990,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -64,7 +132,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-798e16a2dc94e32d4feb4a8292349e762233130c9d7e01cdd0fab47dfc0261ea"
+        "fileHash": "sha256-b34ac7ea06697c10fa6c2211894120dd5483522ace3de3b6361c68dd748c3a2a"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3",

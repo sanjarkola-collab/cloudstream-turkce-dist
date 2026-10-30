@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_trtebaortaokul_tr",
+      "name": "TRT EBA Ortaokul HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
+      "genres": [
+        "BELGESEL & ÇOCUK"
+      ],
+      "description": "TRT EBA Ortaokul Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

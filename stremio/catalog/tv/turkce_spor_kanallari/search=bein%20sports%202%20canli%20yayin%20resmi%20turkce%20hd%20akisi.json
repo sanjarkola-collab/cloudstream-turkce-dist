@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_beinsports2_tr",
+      "name": "BeIN Sports 2 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "genres": [
+        "SPOR KANALLARI"
+      ],
+      "description": "BeIN Sports 2 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

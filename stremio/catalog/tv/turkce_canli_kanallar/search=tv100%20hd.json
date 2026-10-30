@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "tr_tv100_tr",
+      "name": "TV100 HD",
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+      "posterShape": "square",
+      "banner": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
+      "genres": [
+        "HABER KANALLARI"
+      ],
+      "description": "TV100 Canlı Yayın - Resmi Türkçe HD Akışı"
+    }
+  ]
+}

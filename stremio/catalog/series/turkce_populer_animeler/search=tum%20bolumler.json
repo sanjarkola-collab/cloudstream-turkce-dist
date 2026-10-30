@@ -1,0 +1,18 @@
+{
+  "metas": [
+    {
+      "id": "kitsu:12",
+      "name": "One Piece (Türkçe Altyazılı)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/12/medium.jpg",
+      "description": "1080p Türkçe Altyazılı Tüm Bölümler"
+    },
+    {
+      "id": "kitsu:86",
+      "name": "Death Note (Türkçe Dublaj & Altyazılı)",
+      "type": "series",
+      "poster": "https://media.kitsu.io/anime/poster_images/86/medium.jpg",
+      "description": "Tüm Bölümler Türkçe Dublaj & Altyazılı"
+    }
+  ]
+}
