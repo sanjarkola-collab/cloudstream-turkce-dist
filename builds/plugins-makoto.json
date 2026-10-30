@@ -21,7 +21,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -47,7 +47,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -73,7 +73,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]
@@ -97,7 +97,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Makoto2"
@@ -123,7 +123,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -151,7 +151,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Feroxx",
       "Makoto2"
@@ -177,7 +177,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Makoto2"
@@ -204,7 +204,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -232,7 +232,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -259,7 +259,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -285,7 +285,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]
@@ -309,7 +309,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]
@@ -340,7 +340,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -374,7 +374,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Feroxx",
@@ -401,7 +401,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]
@@ -427,7 +427,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "CS-Kraptor",
       "Makoto2"
@@ -452,7 +452,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]
@@ -476,7 +476,7 @@
     "status": 1,
     "apiVersion": 1,
     "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-repo",
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
     "sourceRepos": [
       "Makoto2"
     ]

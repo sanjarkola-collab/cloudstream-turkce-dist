@@ -10,7 +10,7 @@
             "Kraptor"
         ],
         "description": "[FilmDizi | T\u00fcrk\u00e7e Dublaj & Altyaz\u0131] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumal\u0131 T\u00fcrk\u00e7e film ve dizi sa\u011flay\u0131c\u0131s\u0131",
-        "fileSize": 125220,
+        "fileSize": 125092,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -21,7 +21,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ec135b4e70fdbbe69073d258d6bb41aed3f19098e115f2cfafe25fe976531f20"
+        "fileHash": "sha256-728100334c10eaec68a7634ffec1697f3e7fd0e9a16abd81dd0fccb7080aafaa"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3",
@@ -34,7 +34,7 @@
             "Kraptor"
         ],
         "description": "[CanliTv | 120 T\u00fcrk\u00e7e Kanal | Kesintisiz Canl\u0131 TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve \u00c7ocuk. Resmi CDN & Anthology yedekli %100 T\u00fcrk\u00e7e HLS ak\u0131\u015f\u0131.",
-        "fileSize": 141622,
+        "fileSize": 141540,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -42,7 +42,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-04710bfd68f9f7d7373d020d63423cf5095dbd0a10f40eeefbcb959298c7f152"
+        "fileHash": "sha256-34b2a187a4d3490174a1cd8b0e6a2085735653ff5cc1236ed6d9381c5fde2854"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3",
@@ -55,7 +55,7 @@
             "Kraptor"
         ],
         "description": "CloudStream T\u00fcrk\u00e7e Deposu: Canl\u0131 TV, T\u00fcrk\u00e7e Dublaj VOD ve Film/Dizi sa\u011flay\u0131c\u0131lar\u0131 tek pakette.",
-        "fileSize": 169129,
+        "fileSize": 168992,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -64,7 +64,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0de3ef2718879e82e67cb5d0f7e78cee6350c0b4ee8889efa06a59f6f29750df"
+        "fileHash": "sha256-798e16a2dc94e32d4feb4a8292349e762233130c9d7e01cdd0fab47dfc0261ea"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3",
@@ -77,7 +77,7 @@
             "Kraptor"
         ],
         "description": "[%100 T\u00fcrk\u00e7e Dublaj | 4.870+ Film] S\u0131f\u0131r torrent, s\u0131f\u0131r reklam, %100 T\u00fcrk\u00e7e seslendirme. FilmModu & Jetfilmizle do\u011frudan 4K/1080p kesintisiz HLS ak\u0131\u015f\u0131.",
-        "fileSize": 126258,
+        "fileSize": 126107,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -85,6 +85,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1d63e2e7f83a8a07a0a2baee9274f284752bb582851584b34e2533c3ddafd9a4"
+        "fileHash": "sha256-cba0fa1b53270784873674aec62afd92f6578716aeeefd6e1ec7d0bf0ce507c6"
     }
 ]

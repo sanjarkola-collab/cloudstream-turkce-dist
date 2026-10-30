@@ -20,8 +20,8 @@
     "sourceRepos": [
       "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
     ],
-    "fileSize": 169129,
-    "fileHash": "sha256-0de3ef2718879e82e67cb5d0f7e78cee6350c0b4ee8889efa06a59f6f29750df",
+    "fileSize": 168992,
+    "fileHash": "sha256-798e16a2dc94e32d4feb4a8292349e762233130c9d7e01cdd0fab47dfc0261ea",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
   }
 ]
