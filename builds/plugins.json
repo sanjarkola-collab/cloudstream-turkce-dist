@@ -1,82 +1,90 @@
 [
-  {
-    "name": "FilmDiziProvider",
-    "internalName": "FilmDiziProvider",
-    "version": 7,
-    "description": "[FilmDizi | Türkçe Dublaj & Altyazı] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumalı Türkçe film ve dizi sağlayıcısı",
-    "authors": ["crysisdaye", "Kraptor"],
-    "tvTypes": ["Movie", "TvSeries", "Anime", "Documentary"],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 67641,
-    "fileHash": "sha256-3a04d0af166969b9d62b2956d0b6353621e7c8eef82b884dea9c29b67a2e75b0",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3"
-  },
-  {
-    "name": "LiveIptvProvider",
-    "internalName": "LiveIptvProvider",
-    "version": 8,
-    "description": "[CanliTv | 120 Türkçe Kanal | Kesintisiz Canlı TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve Çocuk. Resmi CDN & Anthology yedekli %100 Türkçe HLS akışı.",
-    "authors": ["crysisdaye", "Kraptor"],
-    "tvTypes": ["Live"],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 83358,
-    "fileHash": "sha256-5c44f7c5777f5848fdb44baa5bed5e7bf91a0425a8d0692de5afeab189fb3b1d",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3"
-  },
-  {
-    "name": "TurkDublajVodProvider",
-    "internalName": "TurkDublajVodProvider",
-    "version": 8,
-    "description": "[%100 Türkçe Dublaj | 4.870+ Film] Sıfır torrent, sıfır reklam, %100 Türkçe seslendirme. FilmModu & Jetfilmizle doğrudan 4K/1080p kesintisiz HLS akışı.",
-    "authors": ["crysisdaye", "Kraptor"],
-    "tvTypes": ["Movie"],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 68293,
-    "fileHash": "sha256-1111329ef5565e8f2b6536392b615ecbbfdba945b2e714c6db0444e865992ac5",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3"
-  },
-  {
-    "name": "TurkceRepoAutoInstaller",
-    "internalName": "TurkceRepoAutoInstaller",
-    "version": 7,
-    "description": "CloudStream Türkçe Deposu: Canlı TV, Türkçe Dublaj VOD ve Film/Dizi sağlayıcıları tek pakette.",
-    "authors": ["crysisdaye", "Kraptor"],
-    "tvTypes": ["Live", "Movie"],
-    "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
-    "status": 1,
-    "apiVersion": 1,
-    "requiresVpn": false,
-    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
-    "sourceRepos": [
-      "DPI & DoH Korumalı (Özel Süper Sağlayıcı)"
-    ],
-    "fileSize": 110708,
-    "fileHash": "sha256-8bcfdaa626996d87d27265e00bb58c608659af6f4544fa5ec04be2615dc742da",
-    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
-  }
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/FilmDiziProvider.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "FilmDiziProvider",
+        "internalName": "FilmDiziProvider",
+        "authors": [
+            "crysisdaye",
+            "Kraptor"
+        ],
+        "description": "[FilmDizi | T\u00fcrk\u00e7e Dublaj & Altyaz\u0131] HDFilmCehennemi, DiziBox ve FilmModu DoH & DPI korumal\u0131 T\u00fcrk\u00e7e film ve dizi sa\u011flay\u0131c\u0131s\u0131",
+        "fileSize": 125220,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ec135b4e70fdbbe69073d258d6bb41aed3f19098e115f2cfafe25fe976531f20"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/LiveIptvProvider.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "LiveIptvProvider",
+        "internalName": "LiveIptvProvider",
+        "authors": [
+            "crysisdaye",
+            "Kraptor"
+        ],
+        "description": "[CanliTv | 120 T\u00fcrk\u00e7e Kanal | Kesintisiz Canl\u0131 TV] BeIN Sports, S Sport, Tivibu Spor, Exxen Sports, Ulusal, Belgesel, Haber ve \u00c7ocuk. Resmi CDN & Anthology yedekli %100 T\u00fcrk\u00e7e HLS ak\u0131\u015f\u0131.",
+        "fileSize": 141622,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-04710bfd68f9f7d7373d020d63423cf5095dbd0a10f40eeefbcb959298c7f152"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "TurkceRepoAutoInstaller",
+        "internalName": "TurkceRepoAutoInstaller",
+        "authors": [
+            "crysisdaye",
+            "Kraptor"
+        ],
+        "description": "CloudStream T\u00fcrk\u00e7e Deposu: Canl\u0131 TV, T\u00fcrk\u00e7e Dublaj VOD ve Film/Dizi sa\u011flay\u0131c\u0131lar\u0131 tek pakette.",
+        "fileSize": 169129,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Live",
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0de3ef2718879e82e67cb5d0f7e78cee6350c0b4ee8889efa06a59f6f29750df"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkDublajVodProvider.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "TurkDublajVodProvider",
+        "internalName": "TurkDublajVodProvider",
+        "authors": [
+            "crysisdaye",
+            "Kraptor"
+        ],
+        "description": "[%100 T\u00fcrk\u00e7e Dublaj | 4.870+ Film] S\u0131f\u0131r torrent, s\u0131f\u0131r reklam, %100 T\u00fcrk\u00e7e seslendirme. FilmModu & Jetfilmizle do\u011frudan 4K/1080p kesintisiz HLS ak\u0131\u015f\u0131.",
+        "fileSize": 126258,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-1d63e2e7f83a8a07a0a2baee9274f284752bb582851584b34e2533c3ddafd9a4"
+    }
 ]
