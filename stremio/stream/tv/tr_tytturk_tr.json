@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 TYT Türk HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8",
       "behaviorHints": {

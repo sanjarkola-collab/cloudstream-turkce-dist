@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Tay TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8",
       "behaviorHints": {

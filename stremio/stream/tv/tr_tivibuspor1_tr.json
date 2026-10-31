@@ -1,8 +1,17 @@
 {
   "streams": [
     {
-      "name": "⚡ Vavoo Spor HLS",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Tivibu Spor 1 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets1.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Vavoo Yedek Akış",
+      "title": "🇹🇷 Tivibu Spor 1 HD [Vavoo 1080p Yedek]",
       "url": "https://vavoo.to/vavoo-iptv/play/2576216897d1c2b14af4e9",
       "behaviorHints": {
         "isLive": true,

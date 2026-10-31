@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Diyanet TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
       "behaviorHints": {

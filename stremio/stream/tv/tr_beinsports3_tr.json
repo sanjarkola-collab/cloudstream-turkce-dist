@@ -1,8 +1,17 @@
 {
   "streams": [
     {
-      "name": "⚡ Vavoo Spor HLS",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 BeIN Sports 3 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs3.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Vavoo Yedek Akış",
+      "title": "🇹🇷 BeIN Sports 3 HD [Vavoo 1080p Yedek]",
       "url": "https://vavoo.to/vavoo-iptv/play/17005958018c5d23b49ef0",
       "behaviorHints": {
         "isLive": true,

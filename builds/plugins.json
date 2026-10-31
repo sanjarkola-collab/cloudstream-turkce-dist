@@ -24,6 +24,28 @@
         "fileHash": "sha256-63ff397589c1f5b2518a98919e774216b27dccb94b9eacd97c6af05c2967438c"
     },
     {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiMaxProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "CizgiMaxProvider",
+        "internalName": "CizgiMaxProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum",
+            "keyiflerolsun"
+        ],
+        "description": "[\u00c7izgiMax | T\u00fcrk\u00e7e \u00c7izgi Dizi] 700'den fazla nostaljik ve g\u00fcncel \u00e7izgi dizi & animasyon serisi donmadan full HD T\u00fcrk\u00e7e dublaj ile.",
+        "fileSize": 132561,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-caf6de8ade7aefc37938c3078114cf36d30095f076596c6d13a883ac48674045"
+    },
+    {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBoxProvider.cs3",
         "status": 1,
         "version": 1,
@@ -181,6 +203,50 @@
         "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
         "apiVersion": 1,
         "fileHash": "sha256-1b505d2e7e11194a535d3b9e45ed49ecd94fba482bf6f4b514c6d69c91187b4c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SezonlukDiziProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "SezonlukDiziProvider",
+        "internalName": "SezonlukDiziProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum"
+        ],
+        "description": "[SezonlukDizi | T\u00fcrk\u00e7e Dizi] G\u00fcncel ve pop\u00fcler yabanc\u0131/yerli dizileri full HD T\u00fcrk\u00e7e altyaz\u0131 ve dublaj ile izleyin.",
+        "fileSize": 129973,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-9444ebd08ad4b87270f14d93b2ac7be71e3230c986d41dcd5d518f0e12ef374f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkAnimeProvider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "TurkAnimeProvider",
+        "internalName": "TurkAnimeProvider",
+        "authors": [
+            "sanjarkola",
+            "BTcozum"
+        ],
+        "description": "[TurkAnime | T\u00fcrk\u00e7e Anime] T\u00fcrkiye'nin online anime izleme sitesi. Y\u00fczlerce anime serisi full HD T\u00fcrk\u00e7e altyaz\u0131 ile.",
+        "fileSize": 121190,
+        "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+        "language": "tr",
+        "tvTypes": [
+            "Anime",
+            "OVA",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-80b3178fd003d153064281dfb0a4846365e61d08ee4865c494bcca4e2c0b75ce"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3",

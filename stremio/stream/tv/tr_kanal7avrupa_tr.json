@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Kanal 7 Avrupa HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
       "behaviorHints": {

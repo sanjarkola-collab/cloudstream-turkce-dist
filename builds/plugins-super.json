@@ -102,5 +102,209 @@
     "fileSize": 168990,
     "fileHash": "sha256-b34ac7ea06697c10fa6c2211894120dd5483522ace3de3b6361c68dd748c3a2a",
     "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/AnimeciXProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AnimeciXProvider",
+    "internalName": "AnimeciXProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "Kraptor"
+    ],
+    "description": "[AnimeciX | Türkçe Anime] Türkiye'nin lider anime arşivi. 1000+ anime serisi ve filmi %100 Türkçe altyazı ve dublaj ile.",
+    "fileSize": 135475,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-63ff397589c1f5b2518a98919e774216b27dccb94b9eacd97c6af05c2967438c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiMaxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "CizgiMaxProvider",
+    "internalName": "CizgiMaxProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "[ÇizgiMax | Türkçe Çizgi Dizi] 700'den fazla nostaljik ve güncel çizgi dizi & animasyon serisi donmadan full HD Türkçe dublaj ile.",
+    "fileSize": 132561,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-caf6de8ade7aefc37938c3078114cf36d30095f076596c6d13a883ac48674045"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBoxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziBoxProvider",
+    "internalName": "DiziBoxProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "Kraptor"
+    ],
+    "description": "[DiziBox | Türkçe Dizi] Güncel yabancı ve yerli dizileri full HD Türkçe altyazı ve dublaj ile izleyin (Molystream & VidMoly).",
+    "fileSize": 127636,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-96ff28eb85a99a97d1f96f6116587b37b94dc171d15e43b17ba58afe664669ed"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DizillaProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DizillaProvider",
+    "internalName": "DizillaProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "[Dizilla | Yabancı Diziler] En yeni yabancı dizileri 1080p Türkçe altyazılı ve dublajlı olarak izleyin.",
+    "fileSize": 126819,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-65e1ac1e2917f897e28fe469236a668939833306b9334bdbc723bda09f9c479e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMomProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziMomProvider",
+    "internalName": "DiziMomProvider",
+    "authors": [
+      "sanjarkola",
+      "keyiflerolsun",
+      "Kraptor"
+    ],
+    "description": "[DiziMom | Türkçe Dizi] Güncel yabancı ve yerli dizileri Türkçe dublaj & altyazı ile izleyin (Dizidad mirror).",
+    "fileSize": 120559,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizidad.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d329b64dceff166e0e47722b53590e68fa2290cd50199910b4549cae70e8c759"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/InatBoxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "InatBoxProvider",
+    "internalName": "InatBoxProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "[İnatBox | Canlı TV, Spor, Film & Dizi] Türkiye'nin en popüler spor, sinema, belgesel, ulusal kanalları ile Exxen, BluTV, Gain ve güncel film/diziler.",
+    "fileSize": 134432,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-f1fc2ce7dda220ee97667578d4c6538acbf8a8faac50d8485bca2f31f8304fd4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/RecTVProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "RecTVProvider",
+    "internalName": "RecTVProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "[RecTV | Canlı Maç, Film & Dizi] Süper Lig ve Avrupa maçları, canlı kanallar ve zengin film/dizi arşivi.",
+    "fileSize": 127829,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfaviconicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1b505d2e7e11194a535d3b9e45ed49ecd94fba482bf6f4b514c6d69c91187b4c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/SezonlukDiziProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SezonlukDiziProvider",
+    "internalName": "SezonlukDiziProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum"
+    ],
+    "description": "[SezonlukDizi | Türkçe Dizi] Güncel ve popüler yabancı/yerli dizileri full HD Türkçe altyazı ve dublaj ile izleyin.",
+    "fileSize": 129973,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-9444ebd08ad4b87270f14d93b2ac7be71e3230c986d41dcd5d518f0e12ef374f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkAnimeProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TurkAnimeProvider",
+    "internalName": "TurkAnimeProvider",
+    "authors": [
+      "sanjarkola",
+      "BTcozum"
+    ],
+    "description": "[TurkAnime | Türkçe Anime] Türkiye'nin online anime izleme sitesi. Yüzlerce anime serisi full HD Türkçe altyazı ile.",
+    "fileSize": 121190,
+    "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "OVA",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-80b3178fd003d153064281dfb0a4846365e61d08ee4865c494bcca4e2c0b75ce"
   }
 ]

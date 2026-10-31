@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Ekotürk HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://cdn.ekoturk.net/hls/master.m3u8",
       "behaviorHints": {

@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Haber Global HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
       "behaviorHints": {

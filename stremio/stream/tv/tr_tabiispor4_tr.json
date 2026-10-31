@@ -1,8 +1,17 @@
 {
   "streams": [
     {
-      "name": "⚡ Vavoo Spor HLS",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Tabii Spor 4 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb4.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Vavoo Yedek Akış",
+      "title": "🇹🇷 Tabii Spor 4 HD [Vavoo 1080p Yedek]",
       "url": "https://vavoo.to/vavoo-iptv/play/499485497d6131f47417d",
       "behaviorHints": {
         "isLive": true,

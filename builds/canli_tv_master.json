@@ -7,7 +7,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -28,7 +28,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/atv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -43,7 +43,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanald.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -58,7 +58,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showtv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -79,7 +79,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/startv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -94,7 +94,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/now.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -109,7 +109,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv8.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -124,7 +124,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -139,7 +139,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beyaztv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -160,7 +160,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/teve2.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -175,7 +175,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/a2.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -196,7 +196,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv360.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -217,7 +217,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt2.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -232,7 +232,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -253,7 +253,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanal7.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -268,7 +268,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtgenc.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -283,7 +283,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurod.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -298,7 +298,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv4.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -313,7 +313,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tytturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -328,7 +328,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kanalavrupa.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -343,7 +343,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtavaz.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -358,7 +358,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/diyanettv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -373,7 +373,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -388,7 +388,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -409,7 +409,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -424,7 +424,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/htspor.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -439,7 +439,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -454,7 +454,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -469,7 +469,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sportstv.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Sports TV (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivesptstv.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2429298798dcd505d1ab4b",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -484,7 +490,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tjktv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -505,7 +511,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/66217962033a2d3e9c47f",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -520,7 +532,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/28515391437e928cafd5dd",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -535,7 +553,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 3 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs3.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/17005958018c5d23b49ef0",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -550,7 +574,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 4 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs4.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/1872232768c7c65ceb9862",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -565,7 +595,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports 5 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebs5.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2737963486b4d9c437a945",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -580,7 +616,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports Max 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebsm1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/22528142332d275721233",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -595,7 +637,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] BeIN Sports Max 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivebsm2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2212659820b109b476a4d3",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -610,7 +658,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] S Sport (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivess1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/21232735984a3f0b463d66",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -625,7 +679,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] S Sport 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivess2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/9369082742fdb8ca83c62",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -640,7 +700,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] S Sport Plus (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivessplus1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/1453692314f52730c50395",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -655,7 +721,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -670,7 +742,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2576216897d1c2b14af4e9",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -685,7 +763,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/22330664333ebb4acbb6ab",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -700,7 +784,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 3 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets3.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/342898470360b159ef8301",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -715,7 +805,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tivibu Spor 4 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivets4.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/12304481920a92c9204dcd",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -730,7 +826,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Smart Spor 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivesm1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3159604752e1cba547bb",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -745,7 +847,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/smartspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Smart Spor 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivesm2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2729088606df69156b1eda",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -760,7 +868,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Euro Sport 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivees1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/207886293750ec015d3e85",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -775,7 +889,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Euro Sport 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivees2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/41172279629184f8c9c408",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -790,7 +910,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen TV (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/1944695268eb5e2a66f22",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -805,7 +931,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -820,7 +952,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/13524210538e192d878d20",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -835,7 +973,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 3 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn3.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/24034250314fd9aa349685",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -850,7 +994,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 4 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn4.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/5934938605e361d7e0ff0",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -865,7 +1015,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 5 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn5.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3694662475a36c53181838",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -880,7 +1036,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 6 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn6.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3410167560f6960a0d6de9",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -895,7 +1057,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 7 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn7.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2938268353a63a37b4528e",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -910,7 +1078,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Exxen Sports 8 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn8.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/400031560175e3479a3f11",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -925,7 +1099,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/4071474743dbe8a60b9395",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -940,7 +1120,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 1 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb1.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3407936242f95c33ae8820",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -955,7 +1141,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 2 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb2.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/267105889a25a483e5e80",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -970,7 +1162,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 3 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb3.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/1536730627bbf8f95ca477",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -985,7 +1183,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 4 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb4.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/499485497d6131f47417d",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -1000,7 +1204,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 5 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb5.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/2113462398d8dd57a8ea73",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -1015,7 +1225,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 6 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb6.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -1030,7 +1246,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 7 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb7.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/164663282518e6179f90af",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -1045,7 +1267,13 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tabiispor.png",
     "sources": [
       {
-        "name": "⚽ [Vavoo Canlı HLS] Tabii Spor 8 (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
+        "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivetb8.m3u8",
+        "quality": 1080,
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+      },
+      {
+        "name": "⚽ [Yedek] Vavoo Spor HLS (1080p FHD)",
         "url": "https://vavoo.to/vavoo-iptv/play/5455481338d50b246e682",
         "quality": 1080,
         "ua": "MediaHubMX/2"
@@ -1060,7 +1288,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/taytv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1075,7 +1303,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1090,7 +1318,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1105,7 +1333,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1120,7 +1348,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv100.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv.ensonhaber.com/tv100/tv100.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1135,7 +1363,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ahaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1150,7 +1378,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/halktv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1165,7 +1393,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tele1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://www.youtube.com/watch?v=3WmXwAaa1VQ",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1180,7 +1408,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tgrthaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://canli.tgrthaber.com/tgrt.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1201,7 +1429,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberglobal.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1222,7 +1450,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/24tv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1237,7 +1465,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/bloomberght.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1252,7 +1480,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tvnet.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1267,7 +1495,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ulketv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1282,7 +1510,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ekoturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://cdn.ekoturk.net/hls/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1297,7 +1525,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/benguturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1312,7 +1540,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/flashhaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1327,7 +1555,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/liderhaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1342,7 +1570,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/turkhaber.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1357,7 +1585,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cnbce.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1372,7 +1600,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/akittv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1387,7 +1615,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tbmmtv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1402,7 +1630,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/finansturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1417,7 +1645,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://dogus-blackout.daioncdn.net/tlctv_geoblock.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1438,7 +1666,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1453,7 +1681,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1474,7 +1702,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1495,7 +1723,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1510,7 +1738,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikago.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1525,7 +1753,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebailkokul.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1540,7 +1768,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebaortaokul.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1555,7 +1783,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtebalise.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1570,7 +1798,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtdiyanetcocuk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1585,7 +1813,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ciftcitv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1600,7 +1828,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/kralpop.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1615,7 +1843,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1636,7 +1864,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powertv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1651,7 +1879,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1666,7 +1894,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtmuzik.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1687,7 +1915,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerdance.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1708,7 +1936,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerlove.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1723,7 +1951,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dreamturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1738,7 +1966,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tmbtv.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1753,7 +1981,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/showmax.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1768,7 +1996,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1783,7 +2011,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1798,7 +2026,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/powerturk.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1813,7 +2041,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c126ec58fe0.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1828,7 +2056,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c1274ee7c76.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1843,7 +2071,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/number1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_64c1277a876a4.smil/playlist.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1858,7 +2086,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1873,7 +2101,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://saran-live.ercdn.net/fx/index.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -1888,7 +2116,7 @@
     "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
     "sources": [
       {
-        "name": "🇹🇷 [Birincil] Resmi Medya CDN (1080p FHD)",
+        "name": "🇹🇷 [Birincil] Canlı Yayın (1080p FHD)",
         "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8",
         "quality": 1080,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"

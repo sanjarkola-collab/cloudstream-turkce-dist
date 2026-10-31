@@ -1,8 +1,17 @@
 {
   "streams": [
     {
-      "name": "⚡ Vavoo Spor HLS",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Smart Spor 2 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamlivesm2.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Vavoo Yedek Akış",
+      "title": "🇹🇷 Smart Spor 2 HD [Vavoo 1080p Yedek]",
       "url": "https://vavoo.to/vavoo-iptv/play/2729088606df69156b1eda",
       "behaviorHints": {
         "isLive": true,

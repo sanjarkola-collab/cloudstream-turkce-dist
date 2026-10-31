@@ -1,8 +1,17 @@
 {
   "streams": [
     {
-      "name": "⚡ Vavoo Spor HLS",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Exxen Sports 5 HD [1080p FHD]\nKesintisiz Canlı Akış",
+      "url": "https://andro.evrenesoglu219.click/checklist/androstreamliveexn5.m3u8",
+      "behaviorHints": {
+        "isLive": true,
+        "notWebReady": false
+      }
+    },
+    {
+      "name": "⚡ Vavoo Yedek Akış",
+      "title": "🇹🇷 Exxen Sports 5 HD [Vavoo 1080p Yedek]",
       "url": "https://vavoo.to/vavoo-iptv/play/3694662475a36c53181838",
       "behaviorHints": {
         "isLive": true,

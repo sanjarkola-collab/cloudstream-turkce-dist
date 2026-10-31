@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 TRT Haber HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
       "behaviorHints": {

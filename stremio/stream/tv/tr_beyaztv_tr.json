@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Beyaz TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
       "behaviorHints": {

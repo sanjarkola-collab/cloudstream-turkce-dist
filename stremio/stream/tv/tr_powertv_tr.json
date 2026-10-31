@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "name": "⚡ Resmi Medya CDN",
+      "name": "⚡ Canlı Akış (1080p)",
       "title": "🇹🇷 Power TV HD [1080p FHD]\nKesintisiz Canlı Akış",
       "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
       "behaviorHints": {
