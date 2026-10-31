@@ -11,7 +11,7 @@
             "Kraptor"
         ],
         "description": "[AnimeciX | T\u00fcrk\u00e7e Anime] T\u00fcrkiye'nin lider anime ar\u015fivi. 1000+ anime serisi ve filmi %100 T\u00fcrk\u00e7e altyaz\u0131 ve dublaj ile.",
-        "fileSize": 135475,
+        "fileSize": 135532,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -21,7 +21,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-63ff397589c1f5b2518a98919e774216b27dccb94b9eacd97c6af05c2967438c"
+        "fileHash": "sha256-63d0e1258603932a4f238750d3614f710b9a929627978fd5f4e79c76dfa622fa"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/CizgiMaxProvider.cs3",
@@ -35,7 +35,7 @@
             "keyiflerolsun"
         ],
         "description": "[\u00c7izgiMax | T\u00fcrk\u00e7e \u00c7izgi Dizi] 700'den fazla nostaljik ve g\u00fcncel \u00e7izgi dizi & animasyon serisi donmadan full HD T\u00fcrk\u00e7e dublaj ile.",
-        "fileSize": 132561,
+        "fileSize": 132588,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -43,7 +43,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-caf6de8ade7aefc37938c3078114cf36d30095f076596c6d13a883ac48674045"
+        "fileHash": "sha256-7a6b6885ee72a136aaab8e14caf30ff3774374e5d47e55af0780556a2ffa6b88"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziBoxProvider.cs3",
@@ -79,7 +79,7 @@
             "keyiflerolsun"
         ],
         "description": "[Dizilla | Yabanc\u0131 Diziler] En yeni yabanc\u0131 dizileri 1080p T\u00fcrk\u00e7e altyaz\u0131l\u0131 ve dublajl\u0131 olarak izleyin.",
-        "fileSize": 126819,
+        "fileSize": 126856,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -87,7 +87,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-65e1ac1e2917f897e28fe469236a668939833306b9334bdbc723bda09f9c479e"
+        "fileHash": "sha256-4ceb3383b6c1199d347c6e5bfdf4e505d8a574e516ead1839b9893d023c7b50d"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/DiziMomProvider.cs3",
@@ -236,7 +236,7 @@
             "BTcozum"
         ],
         "description": "[TurkAnime | T\u00fcrk\u00e7e Anime] T\u00fcrkiye'nin online anime izleme sitesi. Y\u00fczlerce anime serisi full HD T\u00fcrk\u00e7e altyaz\u0131 ile.",
-        "fileSize": 121190,
+        "fileSize": 122045,
         "repositoryUrl": "https://github.com/sanjarkola-collab/cloudstream-turkce-dist",
         "language": "tr",
         "tvTypes": [
@@ -244,9 +244,9 @@
             "OVA",
             "AnimeMovie"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-80b3178fd003d153064281dfb0a4846365e61d08ee4865c494bcca4e2c0b75ce"
+        "fileHash": "sha256-59dc67a7ede8b06f6c8fb99c6de9b872503ba2b666f1bfe15011f547120e7999"
     },
     {
         "url": "https://raw.githubusercontent.com/sanjarkola-collab/cloudstream-turkce-dist/main/plugins/TurkceRepoAutoInstaller.cs3",
